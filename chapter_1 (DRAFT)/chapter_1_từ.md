@@ -6,3 +6,4 @@
 * church synods: công đồng?
 * government: bộ máy nhà nước, chính quyền
 * affirmations of the gospel: lẽ thật của Phúc Âm
+* synagogues: nhà hội
