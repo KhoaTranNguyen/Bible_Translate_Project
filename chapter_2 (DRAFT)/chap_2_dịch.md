@@ -205,8 +205,14 @@ Bảy bức thư ở đầu sách Khải Huyền cho thấy một số vấn đ�
 
 Dựa trên Giăng 19:26–27, truyền thống sau này cho biết rằng sứ đồ Giăng đã đưa mẹ của Đức Giê-xu, tức Ma-ri, cùng đến Ê-phê-sô và cả hai đã qua đời tại đó, từ đó các giáo phái mạnh mẽ sùng kính Giăng và Ma-ri đã phát triển trong khu vực. Tương tự như lập luận về Phi-e-rơ ở Rô-ma, có khả năng sứ đồ Giăng hoặc một người nào đó mà ông bị nhầm lẫn đã cung cấp một mối liên kết giữa thời kỳ các sứ đồ và Hội thánh tại Ê-phê-sô vào cuối thế kỷ thứ nhất.
 
-![The church of St. John in Ephesus, built under the emperor Justinian in the sixth century.](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Saint-John_in_Ephesus_%286%29.JPG/1920px-Saint-John_in_Ephesus_%286%29.JPG)
+![The church of St. John in Ephesus, built under the emperor Justinian in the sixth century.](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Saint-John_in_Ephesus_%287%29.JPG/1920px-Saint-John_in_Ephesus_%287%29.JPG)
 *Hình 10: Di tích nhà thờ Thánh Giăng tại Ê-phê-sô, được xây dựng dưới thời Hoàng đế Justinian vào thế kỷ VI.*
+
+![The church of St. John in Ephesus, built under the emperor Justinian in the sixth century.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Basilica_of_St._John_in_Ephesus%2C_Narrow_Angle_Panorama.jpg/1920px-Basilica_of_St._John_in_Ephesus%2C_Narrow_Angle_Panorama.jpg)
+*Hình 11: Cổng Bị Bách Hại (Persecution Gate) dẫn vào nhà thờ Thánh Giăng tại Ê-phê-sô, Thổ Nhỹ Kỳ ngày nay.*
+
+![The church of St. John in Ephesus, built under the emperor Justinian in the sixth century.](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/SelcukModellJohanneskirche.JPG/1920px-SelcukModellJohanneskirche.JPG)
+*Hình 12: Mô hình phục dựng.*
 
 Phúc âm Giăng là sách duy nhất trong Tân Ước lưu giữ những câu chuyện về Thô-ma, và Phúc âm Giăng chia sẻ với Phúc âm Thô-ma (*sách ngoại kinh*) sự quan tâm đến những câu nói khôn ngoan của Chúa Giê-su.
 
