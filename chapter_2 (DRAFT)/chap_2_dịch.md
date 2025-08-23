@@ -247,21 +247,21 @@ Thứ nhất, sự tiếp nhận Chúa Giê-xu là Đấng Mê-si (Đấng Chris
 
 Thứ hai, nghi lễ báp-tem mà Giăng Báp-tít đã thực hiện, chính Chúa Giê-xu cũng đã nhận lãnh, chính là hình thức đi trước, làm nền tảng trực tiếp cho thực hành điều này trong vòng cộng đồng Cơ Đốc Nhân.
 
-Phép Báp-tem của Giăng Báp-tít giống như một số nghi thức thanh tẩy khác trong Do Thái giáo, được thực hiện bằng cách dìm người ta trong nước. Điểm khác biệt chính là nó chỉ diễn ra duy nhất một lần, nhằm bày tỏ sự ăn năn để được tha tội, và được thi hành bởi một người khác, chứ không phải người nhận tự thực hiện — bởi đó mà Giăng được gọi là “Giăng **Báp-tít**" (tức người làm báp-tem).
+Phép Báp-tem của Giăng Báp-tít giống như một số nghi thức thanh tẩy khác trong Do Thái giáo, được thực hiện bằng cách dìm người ta trong nước. Điểm khác biệt chính là nó chỉ diễn ra duy nhất một lần, nhằm bày tỏ sự ăn năn để được tha tội, và được thi hành bởi một người khác, chứ không phải người nhận tự thực hiện — bởi đó mà Giăng được gọi là “Giăng **Báp-tít**" (tức **người làm báp-tem**).
 
 Phép báp-têm Cơ Đốc cũng là phép dìm mình một lần để ăn năn và tha tội, nhưng có thêm một điểm đặc biệt: bao gồm sự xưng nhận danh Chúa Giê-xu và lời hứa về **sự ban cho của Đức Thánh Linh**. Nó vốn được người Do Thái kỳ vọng như là dấu hiệu của thời kỳ sau rốt. Dù các tác giả khác nhau có thể diễn giải phép báp-têm theo những hình ảnh khác nhau (như cái chết và sự sống lại bởi Phao-lô, hay sự tái sinh lại bởi sứ đồ Giăng), nhưng việc thực hiện phép báp-tem về cơ bản là không thay đổi.
 
 Từ ban đầu, các môn đồ đã duy trì việc ăn chung, giống như khi họ còn đi với Chúa Giê-xu. Giờ đây, việc bẻ bánh và uống chén, kèm theo lời tạ ơn dâng lên Đức Chúa Trời, là để tưởng nhớ bữa tiệc cuối cùng của Chúa Giê-xu với các môn đồ, và sự chết, sự phục sinh của Ngài.
 
-* “Bẻ bánh” là một cụm từ quen thuộc, vốn là nghi thức bắt đầu các bữa ăn của người Do Thái, khi người chủ gia đình đọc lời chúc phước.
-* Còn “Tiệc Thánh của Chúa” là tên gọi dùng để phân biệt bữa ăn này với các bữa tối thông thường.
+* **“Bẻ bánh”** là một cụm từ quen thuộc, vốn là nghi thức bắt đầu các bữa ăn của người Do Thái, khi người chủ gia đình đọc lời chúc phước.
+* Còn **“Tiệc Thánh”** là tên gọi dùng để phân biệt bữa ăn này với các bữa tối thông thường.
 Hai tên gọi này cho thấy các tín hữu đầu tiên đã kết hợp thói quen văn hóa của mình với ý nghĩa thiêng liêng mới.
 
 Ý nghĩa đặc biệt của việc bẻ bánh và uống chén trong các buổi lễ cộng đồng luôn có một ý nghĩa thần học riêng biệt, tách rời khỏi bữa ăn thông thường. Dù bữa ăn chung có ý nghĩa “thông công”, việc bẻ bánh và uống chén vẫn có một vị thế đặc biệt.
 
 Theo thời gian, nghi thức này đã tách hẳn khỏi bữa ăn chung, có thể là do lời dạy của Phao-lô trong thư I Cô-rinh-tô 11:17–34. Rõ ràng, khi Ma-thi-ơ (26:26–29) và Mác (12:22–25) ghi lại, nghi thức này đã được xem là một việc riêng biệt, dù nó vẫn diễn ra trong bối cảnh bữa ăn.
 
-Các buổi nhóm đặc biệt của những người Cơ Đốc ban đầu bao gồm việc cử hành “Tiệc Thánh của Chúa,” cầu nguyện, ca hát, đọc Kinh Thánh và lắng nghe những lời dạy dỗ, khích lệ. Mặc dù có thể họ gặp nhau thường xuyên hơn, thậm chí "hằng ngày," nhưng ít nhất, họ luôn nhóm lại vào "ngày đầu tuần" (người Do Thái gọi thế) hay "ngày của Chúa" (tên gọi đặc trưng của Cơ Đốc nhân) để kỷ niệm sự phục sinh của Chúa Giê-xu.
+Các buổi nhóm đặc biệt của những người Cơ Đốc ban đầu bao gồm việc cử hành “Tiệc Thánh,” cầu nguyện, ca hát, đọc Kinh Thánh và lắng nghe những lời dạy dỗ, khích lệ. Mặc dù có thể họ gặp nhau thường xuyên hơn, thậm chí "hằng ngày," nhưng ít nhất, họ luôn nhóm lại vào "ngày đầu tuần" (người Do Thái gọi thế) hay "ngày của Chúa" (tên gọi đặc trưng của Cơ Đốc nhân) để kỷ niệm sự phục sinh của Chúa Giê-xu.
 
 Khuôn mẫu này Giăng cho thấy đã bắt đầu từ những lần Chúa Giê-xu hiện ra sau khi sống lại (Giăng 20:19, 26). Những Cơ Đốc Nhân người Do Thái vẫn tiếp tục giữ ngày Sa-bát, đồng thời có các buổi nhóm Cơ Đốc vào ngày hôm sau. Còn những người cải đạo trực tiếp từ dân ngoại thì không thấy có ý nghĩa gì cho bản thân trong việc coi trọng việc này.
 
