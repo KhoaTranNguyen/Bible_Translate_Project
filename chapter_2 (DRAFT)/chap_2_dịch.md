@@ -16,21 +16,21 @@ showTableOfContents: true
 
 ## I. CHỨC VỤ CỦA CHÚA GIÊ-XU
 
-Theo lịch của chúng ta, Chúa Giê-su sinh khoảng năm 4 trước Công nguyên, khi Hê-rốt Đại đế đang cai trị Giu-đê. Cuộc đời tuổi trẻ của Ngài dường như không có gì đặc biệt, cho đến khi Ngài "khoảng ba mươi tuổi" (Lu-ca 3:23) và được Giăng Báp-tít làm phép báp-têm tại sông Giô-đanh. Ngay sau đó, Ngài đã nhận được một lời xác nhận thiêng liêng từ chính Đức Chúa Trời, khẳng định Ngài là Con yêu dấu của Đức Chúa Trời.
+Theo lịch của chúng ta, Chúa Giê-xu sinh khoảng năm 4 trước Công nguyên, khi Hê-rốt Đại đế đang cai trị Giu-đê. Cuộc đời tuổi trẻ của Ngài dường như không có gì đặc biệt, cho đến khi Ngài "khoảng ba mươi tuổi" (Lu-ca 3:23) và được Giăng Báp-tít làm phép báp-têm tại sông Giô-đanh. Ngay sau đó, Ngài đã nhận được một lời xác nhận thiêng liêng từ chính Đức Chúa Trời, khẳng định Ngài là Con yêu dấu của Đức Chúa Trời.
 
-Không lâu sau đó, Giăng Báp-tít bị giam, và Chúa Giê-su tiếp tục công việc của Giăng, loan báo "Nước Đức Chúa Trời đã đến gần. Hãy ăn năn và tin vào tin tốt này!" (Mác 1:15). Rồi ngài bắt đầu chức vụ rao giảng, dạy dỗ và chữa bệnh. Ngài chọn mười hai môn đồ thân cận, họ sống cùng Ngài và đôi khi được sai đi để mở rộng chức vụ của Ngài. Những phép lạ chữa lành và đuổi quỷ của Chúa Giê-xu đã khiến nhiều người chú ý về một năng quyền đang hiện diện ngay giữa họ. Cách Ngài dạy dỗ cũng rất độc đáo, Ngài dùng các dụ ngôn đầy ý nghĩa, dựa vào chính thẩm quyền của mình thay vì lặp lại những lời giải thích cũ để loan báo ý nghĩa về quyền cai trị và ý muốn của Đức Chúa Trời - điều mà đã làm dấy lên nhiều phản ứng khác nhau.
+Không lâu sau đó, Giăng Báp-tít bị giam, và Chúa Giê-xu tiếp tục công việc của Giăng, loan báo "Nước Đức Chúa Trời đã đến gần. Hãy ăn năn và tin vào tin tốt này!" (Mác 1:15). Rồi ngài bắt đầu chức vụ rao giảng, dạy dỗ và chữa bệnh. Ngài chọn mười hai môn đồ thân cận, họ sống cùng Ngài và đôi khi được sai đi để mở rộng chức vụ của Ngài. Những phép lạ chữa lành và đuổi quỷ của Chúa Giê-xu đã khiến nhiều người chú ý về một năng quyền đang hiện diện ngay giữa họ. Cách Ngài dạy dỗ cũng rất độc đáo, Ngài dùng các dụ ngôn đầy ý nghĩa, dựa vào chính thẩm quyền của mình thay vì lặp lại những lời giải thích cũ để loan báo ý nghĩa về quyền cai trị và ý muốn của Đức Chúa Trời - điều mà đã làm dấy lên nhiều phản ứng khác nhau.
 
 Chức vụ của Chúa Giê-xu đã thu hút được đông đảo nhiều người theo và dấy lên những niềm hy vọng rằng sắp diễn ra sự can thiệp mạnh mẽ của Đức Chúa Trời vào lịch sử dân Ngài. Tức họ tin rằng Chúa Giê-xu sẽ giải phóng dân tộc Ngài khỏi ách chính trị, kinh tế của La Mã cùng mọi áp bức.
 
 Phi-e-rơ, người lãnh đạo của Mười hai sứ đồ, đã thốt lên lời xưng nhận quan trọng: "Thầy là Đấng Christ [Đấng Mê-si]" (Mác 8:29), "Đấng được xức dầu" đã được mong đợi từ lâu, người sẽ mang lại sự giải thoát cho dân Do Thái. Lời xưng nhận này được nhiều người hoan nghênh, nhưng cũng khiến những người có quyền lực lo sợ và ghen tị, tức trong giới lãnh đạo chính trị, đặc biệt là phái Pha-ri-si.
 
-Một cách ngầm hiểu, danh hiệu "Mê-si" là một sự xác nhận về quyền làm vua. Bằng cớ này, Chúa Giê-su bị kết tội mưu phản vương quyền và bị đóng đinh, một hình phạt dành cho những tên tội phạm tồi tệ và nguy hiểm về mặt chính trị nhất. Những người lãnh đạo Do Thái từ Giê-ru-sa-lem đã buộcNgài tội chết trước mặt thống đốc La Mã Phi-lát, người mà đã tuyên án Ngài. Sau sự đóng đinh của Ngài, hy vọng của các môn đồ, ngay cả những người thân cận với Ngài nhất, dường như tan biến.
+Một cách ngầm hiểu, danh hiệu "Mê-si" là một sự xác nhận về quyền làm vua. Bằng cớ này, Chúa Giê-xu bị kết tội mưu phản vương quyền và bị đóng đinh, một hình phạt dành cho những tên tội phạm tồi tệ và nguy hiểm về mặt chính trị nhất. Những người lãnh đạo Do Thái từ Giê-ru-sa-lem đã buộcNgài tội chết trước mặt thống đốc La Mã Phi-lát, người mà đã tuyên án Ngài. Sau sự đóng đinh của Ngài, hy vọng của các môn đồ, ngay cả những người thân cận với Ngài nhất, dường như tan biến.
 
 Nhưng rồi, điều bất ngờ đã xảy ra. Vào sáng ngày thứ nhất trong tuần, những người nữ đến mộ Ngài để xức dầu ướp xác Ngài đã tìm thấy một ngôi mộ trống (vì họ định làm trước đó nhưng đã bị ngăn cản bởi ngày Sa-bát). Một thiên sứ hiện ra báo tin: "Ngài không ở đây đâu; Ngài sống lại rồi, y như lời Ngài đã nói" (Ma-thi-ơ 28:6). Những người phụ nữ này, sau đó là các môn đồ, đã báo cáo về sự xuất hiện của Đức Chúa Giê-xu. Một nhóm nhỏ các môn đồ, dù đang tản lạc và chán nản, đã biến sự thất vọng của mình trở nên vui mừng khôn xiết.
 
 Sự phục sinh chính là sự minh oan của Đức Chúa Trời dành cho Đức Chúa Giê-xu. Nó xác nhận rằng cái chết của Ngài không phải đơn giản là cái chết của một người lương thiện khác nhưng chính là sự chuộc tội. Hai chân lý này - **cái chết chuộc tội** và **sự phục sinh** (1 Cô-rinh-tô 15:3-5) - đã trở thành những nền tảng của đức tin Cơ Đốc.
 
-Sau đó, Chúa Giê-su phục sinh đã dặn các môn đồ chờ đợi tại Giê-ru-sa-lem sự Đức Thánh Linh đến để rao truyền thông điệp của ngài cho khắp mọi người, loan khắp mọi nơi.
+Sau đó, Chúa Giê-xu phục sinh đã dặn các môn đồ chờ đợi tại Giê-ru-sa-lem sự Đức Thánh Linh đến để rao truyền thông điệp của ngài cho khắp mọi người, loan khắp mọi nơi.
 
 > "Vả, trước hết tôi đã dạy-dỗ anh em điều mà chính tôi đã nhận-lãnh, ấy là Đấng Christ chịu chết vì tội chúng ta theo lời Kinh-thánh; Ngài đã bị chôn, đến ngày thứ ba, Ngài sống lại, theo lời Kinh-thánh;..."
 > (I Cô-rinh-tô 15:3-4)
@@ -40,7 +40,7 @@ Sau đó, Chúa Giê-su phục sinh đã dặn các môn đồ chờ đợi tạ
 
 ## II. HỘI THÁNH Ở GIÊ-RU-SA-LEM VÀ GIA-CƠ
 
-Sự hiện ra của Chúa Giê-su phục sinh đã nhóm hiệp các môn đồ lại và củng cố đức tin của họ. Rồi sự đến của Đức Thánh Linh, được chép trong Công-vụ 2, đã thành lập Hội thánh như một thực thể được biệt riêng với sứ mạng công bố Chúa Giê-xu vừa là "Chúa và là Đấng Christ" (Công-vụ 2:36).
+Sự hiện ra của Chúa Giê-xu phục sinh đã nhóm hiệp các môn đồ lại và củng cố đức tin của họ. Rồi sự đến của Đức Thánh Linh, được chép trong Công-vụ 2, đã thành lập Hội thánh như một thực thể được biệt riêng với sứ mạng công bố Chúa Giê-xu vừa là "Chúa và là Đấng Christ" (Công-vụ 2:36).
 
 Ban đầu, Hội thánh ở Giê-ru-sa-lem chưa hoàn toàn tách rời khỏi các thể chế Do Thái. Họ vẫn thường xuyên đi đền thờ và tuân thủ các phong tục. Họ được cho là một "nhà hội" với một số nghi lễ và niềm tin đặc biệt, nhưng cũng có một số khác những nhóm như vậy trong khắp Do thái giáo.
 
@@ -62,9 +62,9 @@ Về cơ bản, chúng ta có thể phân chia Hội thánh Giê-ru-sa-lem thàn
 
 Mặc dù tất cả bọn họ đều có quan điểm khác nhau về việc giữ Luật pháp Môi-se, nhưng cuối cùng tất cả đều đóng góp vào sự hiểu biết tinh tế hơn về Luật pháp của Phao-lô - bằng cách sử dụng phương pháp loại suy (**typology**), xem trọng Luật pháp nhưng không luôn hiểu theo nghĩa đen, và phát triển tính phổ quát (**universalism**) của nó (*vốn đã được hàm chứa trong một số sách Tiên tri*).
 
-Sau khi Ê-tiên bị hành quyết, khiến cho những người Hê-lê-nít bị tản lạc, và sứ đồ Gia-cơ (anh của Giăng) bị giết, rồi Peter bị vua Hê-rốt Agrippa I bắt giam; thì Gia-cơ, anh em của Chúa Giê-su, dần trở thành người lãnh đạo nổi bật trong Hội Thánh tại Giê-ru-sa-lem.
+Sau khi Ê-tiên bị hành quyết, khiến cho những người Hê-lê-nít bị tản lạc, và sứ đồ Gia-cơ (anh của Giăng) bị giết, rồi Peter bị vua Hê-rốt Agrippa I bắt giam; thì Gia-cơ, anh em của Chúa Giê-xu, dần trở thành người lãnh đạo nổi bật trong Hội Thánh tại Giê-ru-sa-lem.
 
-Sự thăng tiến của ông rất bất ngờ, vì trước đó ông đã không tin Chúa Giê-su trong thời kỳ Ngài còn trên chức vụ. Nhưng sau khi Ngài phục sinh và đã hiện ra với ông, đã khiến ông thay đổi. Mối quan hệ huyết thống với Chúa Giê-xu cùng với việc ông chấp nhận Ngài là Chúa (**Lord**) đã mang lại cho Gia-cơ một đặc quyền riêng biệt.
+Sự thăng tiến của ông rất bất ngờ, vì trước đó ông đã không tin Chúa Giê-xu trong thời kỳ Ngài còn trên chức vụ. Nhưng sau khi Ngài phục sinh và đã hiện ra với ông, đã khiến ông thay đổi. Mối quan hệ huyết thống với Chúa Giê-xu cùng với việc ông chấp nhận Ngài là Chúa (**Lord**) đã mang lại cho Gia-cơ một đặc quyền riêng biệt.
 
 Gia-cơ cùng với các trưởng lão đã lãnh đạo Hội thánh khi nhóm Mười Hai rời Giê-ru-sa-lem và đi đến các vùng khác. Sau này, mô hình này đã trở thành khuôn mẫu cho cấu trúc giám mục và trưởng lão trong Hội thánh thế kỷ thứ hai. Lá thư duy nhất mang tên ông trong Tân Ước cho thấy những lời dạy thực tế, khôn ngoan của ông, đã phản chiếu sự ảnh hưởng của văn học khôn ngoan thực tiễn (**practical wisdom literature**) Do Thái giáo qua những gì Chúa Giê-xu đã dạy.
 
@@ -72,7 +72,7 @@ Vào năm 62 sau Công nguyên, Gia-cơ bị giới lãnh đạo Do Thái hành 
 
 Cái chết của ông đã để lại một khoảng trống lớn cho những người Cơ Đốc Do Thái bảo thủ nhất - một hình mẫu lý tưởng và là một nhà lãnh đạo được kính trọng và ôn hòa. Cơ Đốc giáo Do Thái vẫn luôn nhìn về ông như một người đại diện của họ.
 
-Song song với những diễn biến ở Giê-ru-sa-lem, sự cải đạo của Sau-lơ người Tạt-sơ đã mang lại một động lực mạnh mẽ cho phong trào Cơ Đốc. Sau-lơ, một học trò ra-bi đầy triển vọng, được chính Chúa Giê-su phục sinh sai đi làm sứ đồ cho các dân ngoại. Điều này phù hợp với sứ mạng của Phi-e-rơ dành cho người Do Thái, cũng như với các lãnh đạo tại Giê-ru-sa-lem: "Sự kêu gọi ông đến với dân ngoại tương ứng với sứ mạng của Phi-e-rơ đối với những người chịu cắt bì" (Ga-la-ti 2:7–9).
+Song song với những diễn biến ở Giê-ru-sa-lem, sự cải đạo của Sau-lơ người Tạt-sơ đã mang lại một động lực mạnh mẽ cho phong trào Cơ Đốc. Sau-lơ, một học trò ra-bi đầy triển vọng, được chính Chúa Giê-xu phục sinh sai đi làm sứ đồ cho các dân ngoại. Điều này phù hợp với sứ mạng của Phi-e-rơ dành cho người Do Thái, cũng như với các lãnh đạo tại Giê-ru-sa-lem: "Sự kêu gọi ông đến với dân ngoại tương ứng với sứ mạng của Phi-e-rơ đối với những người chịu cắt bì" (Ga-la-ti 2:7–9).
 
 Cả hai bên tuy đã được một thỏa thuận, thế nhưng, cánh cửa đến với dân ngoại thực ra đã được mở ra trước đó thông qua chính kinh nghiệm của Phi-e-rơ tại thành Sê-sa-rê (Công vụ 10–11), và nhờ những người Hê-lê-nít bị tản lạc khỏi Giê-ru-sa-lem (Công vụ 11:20).
 
@@ -80,7 +80,7 @@ Việc các nhóm khác rời khỏi Giê-ru-sa-lem đã khiến những ngườ
 
 > Đọc thêm: **Cuộc tranh cãi quan trọng nhất trong những ngày đầu của Hội thánh**
 
-> Cuộc tranh cãi quan trọng nhất trong những ngày đầu của Hội thánh xoay quanh một câu hỏi đơn giản nhưng đầy nan giải: Liệu người ngoại muốn theo Chúa Giê-su có cần phải tuân theo tất cả Luật pháp Do Thái và chịu phép cắt bì không? Hay chỉ cần tin vào Chúa Giê-su và chịu phép báp-têm là đủ để họ thuộc về dân Chúa?
+> Cuộc tranh cãi quan trọng nhất trong những ngày đầu của Hội thánh xoay quanh một câu hỏi đơn giản nhưng đầy nan giải: Liệu người ngoại muốn theo Chúa Giê-xu có cần phải tuân theo tất cả Luật pháp Do Thái và chịu phép cắt bì không? Hay chỉ cần tin vào Chúa Giê-xu và chịu phép báp-têm là đủ để họ thuộc về dân Chúa?
 > Phao-lô đã trở thành người tiên phong, khẳng định Tin Lành dành cho người ngoại là Tin Lành không lệ thuộc Luật pháp. Tuy nhiên, một số thành viên trong Hội thánh ở Giê-ru-sa-lem vẫn khăng khăng cho rằng việc cắt bì là bắt buộc. Trong bối cảnh căng thẳng đó, Phi-e-rơ và Gia-cơ, mỗi người từ góc nhìn riêng của mình, đã cố gắng tìm cách hòa giải (Công vụ 15).
 
 > "Sự tin đạo thanh sạch không vết, trước mặt Đức Chúa Trời, Cha chúng ta, là: thăm viếng kẻ mồ côi, người góa bụa trong cơn khốn khó của họ, và giữ lấy mình cho khỏi sự ô uế của thế gian."
@@ -88,7 +88,7 @@ Việc các nhóm khác rời khỏi Giê-ru-sa-lem đã khiến những ngườ
 
 ## III. HỘI THÁNH Ở AN-TI-ỐT
 
-Khi các tín đồ từ Giê-ru-sa-lem bị phân tán vì cuộc bách hại liên quan đến Ê-tiên, một số người Hy Lạp đã mang thông điệp về Chúa Giê-su đến An-ti-ốt. Chính tại đây, Hội thánh bắt đầu hình thành, và người ta bắt đầu gọi những người tin Chúa là "Cơ Đốc nhân" (Công vụ 11:26). Họ bao gồm cả người Do thái lẫn người ngoại, và ngày càng được nhìn nhận khác biệt hơn chứ không nghiêng về bên nào nữa.
+Khi các tín đồ từ Giê-ru-sa-lem bị phân tán vì cuộc bách hại liên quan đến Ê-tiên, một số người Hy Lạp đã mang thông điệp về Chúa Giê-xu đến An-ti-ốt. Chính tại đây, Hội thánh bắt đầu hình thành, và người ta bắt đầu gọi những người tin Chúa là "Cơ Đốc nhân" (Công vụ 11:26). Họ bao gồm cả người Do thái lẫn người ngoại, và ngày càng được nhìn nhận khác biệt hơn chứ không nghiêng về bên nào nữa.
 
 Việc người Ngoại được chấp nhận mà không cần cắt bì không những chưa được giải quyết hoàn toàn mà còn làm nảy sinh một vấn đề khác: liệu người Do Thái và người Ngoại có thể cùng ăn chung không? Vấn đề này trở nên căng thẳng tại An-ti-ốt, nơi Phao-lô kiên quyết không áp đặt luật ăn uống của người Do Thái lên người Ngoại (*trái ngược hoàn toàn với sự thỏa hiệp của Phi-e-rơ và Ba-na-na (Ga-la-ti 2:11-14)*). Điều này đã biến An-ti-ốt thành trung tâm cho sứ mệnh truyền giáo cho người Ngoại.
 
@@ -143,7 +143,7 @@ Người đầu tiên khẳng định rõ ràng về sự tử đạo của Phi-
 > Đọc thêm: lời chứng của Dionysius thành Cô-rinh-tô (Được lưu giữ trong Lịch sử Hội Thánh của Eusebius (II.25.8))
 > “Anh em cũng đã nhắc nhở chúng tôi về việc gieo trồng do Phi-e-rơ và Phao-lô thực hiện tại Rô-ma và Cô-rinh-tô; vì cả hai đã cùng nhau gieo trồng tại Cô-rinh-tô chúng tôi, và dạy dỗ chúng tôi; cũng một cách như vậy, họ cùng dạy dỗ tại Ý và đã chịu tử đạo *cùng một lúc*.”
 
-Một cuốn sách là Công vụ của Phi-e-rơ, đoạn 35 (tư liệu ngoài kinh điển) viết rằng khi các môn đệ thuyết phục ông rời khỏi Rô-ma, Phi-e-rơ đã gặp Chúa Giê-su trong trạng thái đang đi vào thành. Ông hỏi Ngài: “Lạy Chúa, Ngài đi đâu (quo vadis)?” Chúa trả lời: “Ta đến Rô-ma để bị đóng đinh một lần nữa.” Nghe vậy, Phi-e-rơ xấu hổ quay lại thành phố, chấp nhận đối diện với cái chết của chính mình.
+Một cuốn sách là Công vụ của Phi-e-rơ, đoạn 35 (tư liệu ngoài kinh điển) viết rằng khi các môn đệ thuyết phục ông rời khỏi Rô-ma, Phi-e-rơ đã gặp Chúa Giê-xu trong trạng thái đang đi vào thành. Ông hỏi Ngài: “Lạy Chúa, Ngài đi đâu (quo vadis)?” Chúa trả lời: “Ta đến Rô-ma để bị đóng đinh một lần nữa.” Nghe vậy, Phi-e-rơ xấu hổ quay lại thành phố, chấp nhận đối diện với cái chết của chính mình.
 
 Không lâu sau đó, Công vụ của Phi-e-rơ, sau một thời gian phục vụ đầy biến cố ở Rô-ma, Phi-e-rơ đã yêu cầu được đóng đinh ngược đầu xuống đất theo chính yêu cầu của mình — một hình thức tử đạo cũng được nhắc đến sau này bởi Origen.
 
@@ -182,7 +182,7 @@ Vào cuối thời kỳ các sứ đồ, Hội thánh ở Rô-ma đã là một 
 
 ## VI. HỘI THÁNH Ở Ê-PHÊ-SÔ VÀ GIĂNG
 
-Sự khởi đầu của Hội Thánh tại Ê-phê-sô gắn liền với công việc của Phao-lô và các cộng sự của ông. Ban đầu, đã có những môn đồ của Giăng Báp-tít tại thành phố này. Một trong số họ, A-bô-lô, là một diễn giả hùng biện, và sau khi tin vào Chúa Giê-su, ông đã trở thành một người ủng hộ mạnh mẽ cho đức tin mới ở Ê-phê-sô và sau đó là Cô-rinh-tô.  Phao-lô đã ở lại Ê-phê-sô hơn hai năm vào đầu những năm 50, đây là thời gian ông ở một nơi lâu nhất được ghi lại. Từ đây, ông đã giám sát công việc của các nhà truyền giáo khác, những người đã mang Tin Mừng đến khắp tỉnh A-si-a (miền tây Thổ Nhĩ Kỳ)
+Sự khởi đầu của Hội Thánh tại Ê-phê-sô gắn liền với công việc của Phao-lô và các cộng sự của ông. Ban đầu, đã có những môn đồ của Giăng Báp-tít tại thành phố này. Một trong số họ, A-bô-lô, là một diễn giả hùng biện, và sau khi tin vào Chúa Giê-xu, ông đã trở thành một người ủng hộ mạnh mẽ cho đức tin mới ở Ê-phê-sô và sau đó là Cô-rinh-tô.  Phao-lô đã ở lại Ê-phê-sô hơn hai năm vào đầu những năm 50, đây là thời gian ông ở một nơi lâu nhất được ghi lại. Từ đây, ông đã giám sát công việc của các nhà truyền giáo khác, những người đã mang Tin Mừng đến khắp tỉnh A-si-a (miền tây Thổ Nhĩ Kỳ)
 
 Các ghi chép trong sách Công vụ cho thấy Phao-lô đã tiếp xúc (và thường xuyên xung đột) với nhiều nhóm người Do Thái và Ngoại tại Ê-phê-sô: từ các quan chức chính phủ, trí thức Hy Lạp, người Do Thái chính thống, đến các thầy trừ quỷ lưu động, pháp sư ngoại giáo, và những người thờ nữ thần Ác-tê-mi ở Ê-phê-sô (những người có lợi ích kinh tế và tôn giáo đan xen lẫn nhau).
 
@@ -213,7 +213,7 @@ Dựa trên Giăng 19:26–27, truyền thống sau này cho biết rằng sứ 
 ![The church of St. John in Ephesus, built under the emperor Justinian in the sixth century.](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/SelcukModellJohanneskirche.JPG/1920px-SelcukModellJohanneskirche.JPG)
 *Hình 12: Mô hình phục dựng.*
 
-Phúc âm Giăng là sách duy nhất trong Tân Ước lưu giữ những câu chuyện về Thô-ma, và Phúc âm Giăng chia sẻ với Phúc âm Thô-ma (*sách ngoại kinh*) sự quan tâm đến những câu nói khôn ngoan của Chúa Giê-su.
+Phúc âm Giăng là sách duy nhất trong Tân Ước lưu giữ những câu chuyện về Thô-ma, và Phúc âm Giăng chia sẻ với Phúc âm Thô-ma (*sách ngoại kinh*) sự quan tâm đến những câu nói khôn ngoan của Chúa Giê-xu.
 
 ## VII. HỘI THÁNH TẠI SY-RI-A VÀ THÔ-MA
 
@@ -223,7 +223,7 @@ Tuy nhiên, từ các nguồn tài liệu thế kỷ thứ hai, chúng ta biết
 
 Cơ Đốc giáo nói tiếng Syriac đã lưu giữ các truyền thống liên quan đến sứ đồ **Thô-ma**. Những truyền thống này, được ghi lại trong sách Doctrina Addai thế kỷ thứ năm, cho rằng Tin Lành được rao giảng lần đầu tiên ở Edessa bởi Addai, theo sự khích lệ của Thô-ma.
 
-Nhiều tác phẩm ban đầu từ vùng này mang tên Thô-ma: Phúc âm Thô-ma (một bộ sưu tập các câu nói của Chúa Giê-su) được bảo tồn bằng tiếng Coptic và một phần bằng tiếng Hy Lạp (chương 3), một Phúc âm Thô-ma khác bằng tiếng Hy Lạp về thời thơ ấu của Chúa Giê-su, và Công vụ của Thô-ma, được lưu truyền trong cả hai bản tiếng Syriac và Hy Lạp. Sự tồn tại của các phiên bản song ngữ cho thấy đây là một khu vực đa ngôn ngữ.
+Nhiều tác phẩm ban đầu từ vùng này mang tên Thô-ma: Phúc âm Thô-ma (một bộ sưu tập các câu nói của Chúa Giê-xu) được bảo tồn bằng tiếng Coptic và một phần bằng tiếng Hy Lạp (chương 3), một Phúc âm Thô-ma khác bằng tiếng Hy Lạp về thời thơ ấu của Chúa Giê-xu, và Công vụ của Thô-ma, được lưu truyền trong cả hai bản tiếng Syriac và Hy Lạp. Sự tồn tại của các phiên bản song ngữ cho thấy đây là một khu vực đa ngôn ngữ.
 
 Tính song ngữ của vùng đất này không chỉ được thể hiện qua những bản văn song ngữ như vậy, không chắc chắn về ngôn ngữ gốc của một số tác phẩm như **Bài ca của Sa-lô-môn** (*Odes of Solomon*) và **Bản Hòa Hợp Bốn Sách Tin Lành** (*Diatessaron*) của Tatian. Các tác giả phương Tây cũng đã ghi lại chức vụ của Thô-ma đến Ba Tư hoặc Ấn Độ (có trong *Công Vụ Thô-ma*). Dù những truyền thống này có thể không hoàn toàn chính xác, chúng ít nhất đều phản ánh một điều: Tin Lành đã được lan truyền đến các khu vực này từ Sy-ri, do các Cơ Đốc nhân tôn kính tên của Thô-ma.
 
@@ -265,7 +265,7 @@ Các buổi nhóm đặc biệt của những người Cơ Đốc ban đầu bao
 
 Khuôn mẫu này Giăng cho thấy đã bắt đầu từ những lần Chúa Giê-xu hiện ra sau khi sống lại (Giăng 20:19, 26). Những Cơ Đốc Nhân người Do Thái vẫn tiếp tục giữ ngày Sa-bát, đồng thời có các buổi nhóm Cơ Đốc vào ngày hôm sau. Còn những người cải đạo trực tiếp từ dân ngoại thì không thấy có ý nghĩa gì cho bản thân trong việc coi trọng việc này.
 
-Mặc dù vẫn giữ một số hình thức truyền thống của người Do Thái, những người Cơ Đốc đã liên kết việc cầu nguyện hàng ngày của họ với Chúa Giê-su và những lời dạy của Ngài về sự cầu nguyện. Tấm lòng rời rộng giúp đỡ người nghèo, cũng là một thói quen từ Do Thái giáo, đã trở thành một nét đặc trưng của các cộng đồng Cơ Đốc ngay từ ban đầu.
+Mặc dù vẫn giữ một số hình thức truyền thống của người Do Thái, những người Cơ Đốc đã liên kết việc cầu nguyện hàng ngày của họ với Chúa Giê-xu và những lời dạy của Ngài về sự cầu nguyện. Tấm lòng rời rộng giúp đỡ người nghèo, cũng là một thói quen từ Do Thái giáo, đã trở thành một nét đặc trưng của các cộng đồng Cơ Đốc ngay từ ban đầu.
 
 Họ cũng tiếp tục tuân giữ những giáo huấn đạo đức của Do Thái giáo, áp dụng vào đời sống gia đình, công việc và cấu trúc xã hội thời bấy giờ. Tuy nhiên, cách tiếp cận các vấn đề đạo đức của Cơ Đốc nhân không hoàn toàn giống y chang như vậy. Họ xây dựng mọi hành vi trên **hai điều răn lớn nhất**: yêu Đức Chúa Trời và yêu người lân cận. Kết hợp với động lực mạnh mẽ là bắt chước tình yêu mà Đức Chúa Trời đã thể hiện qua cuộc đời Chúa Giê-xu, đã tạo ra một nguyên tắc tổ chức độc đáo cho dạy dỗ đạo đức Cơ Đốc.
 
