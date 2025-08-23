@@ -96,8 +96,8 @@ Từ đây, Phao-lô và Ba-na-ba đã lên đường thực hiện các chuyế
 
 Đối với Phao-lô, mặc dù Giê-ru-sa-lem vẫn là Hội Thánh mẹ, ông lại tìm thấy An-ti-ốt như một cơ sở hoạt động phù hợp và gần gũi hơn cho những chuyến hành trình truyền giáo về sau này.
 
-![Mosaic of Christ teaching with his apostles, in the chapel of San Aquilino in the basilica of San Lorenzo, Milan, Italy (late fourth century).](https://catalogo.museivaticani.va/media/mvca/images/3/8/6/4/39354_ca_object_representations_media_386450_large.jpg)
-*Hình 2: Đấng Christ như là Người chăn hiền lành, hình ảnh nổi tiếng nhất về Chúa Giê-xu từ thời kỳ đầu của hội họa Cơ Đốc Giáo (phát hiện tại Hầm mộ San Callisto ở Rô-ma, được điêu khắc khoảng thế kỷ thứ ba?).*
+![Mosaic of Christ teaching with his apostles, in the chapel of San Aquilino in the basilica of San Lorenzo, Milan, Italy (late fourth century).](https://www.finestresullarte.info/rivista/immagini/2020/fn/cappella-sant-aquilino-catino-destro.jpg)
+*Hình 1: Bức tranh khảm về Chúa Giê-xu đang giảng dạy cùng các môn đồ, trong nhà nguyện San Aquilino thuộc Vương cung thánh đường San Lorenzo, Milan, Ý (cuối thế kỷ IV).*
 
 ## IV. PHAO-LÔ
 
