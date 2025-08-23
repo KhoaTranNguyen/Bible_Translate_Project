@@ -159,7 +159,7 @@ Những câu chuyện này tuy có thể chưa được kiểm chứng, nhưng l
 *Hình 5: Sân trong Vương cung thánh đường Phao-lô Ngoại Thành.*
 
 ![Thirteenth-century icon of the apostle Paul (used by permission of Theodore Getimis).](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Vatican_City_and_St._Peter_Square_evening_twilight_aerial_view.jpg/1920px-Vatican_City_and_St._Peter_Square_evening_twilight_aerial_view.jpg)
-*Hình 6: Cảnh nhìn từ trên cao của Vương cung thánh đường Phi-e-rơ.*
+*Hình 6: Cảnh nhìn từ trên cao của Vương cung thánh đường Phi-e-rơ, hay còn được nhớ đến là Vatican*
 
 ![Thirteenth-century icon of the apostle Paul (used by permission of Theodore Getimis).](https://upload.wikimedia.org/wikipedia/commons/2/27/Vatican_Necropolis_tomb.jpg)
 *Hình 7: Một ngôi mộ La Mã cổ đại nằm gần nơi được cho là lăng mộ của Thánh Phi-e-rơ, bên dưới Vương cung thánh đường Phi-e-rơ.*
