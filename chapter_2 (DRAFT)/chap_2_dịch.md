@@ -136,7 +136,7 @@ Dầu vậy, ta vẫn không thể xác định chính xác hành trình của P
 
 Các nguồn tư liệu trong thế kỷ thứ hai cung cấp bằng chứng vững chắc về sự hiện diện cũng như sự tử đạo của cả Phao-lô và Phi-e-rơ tại Rô-ma. Đồng thời, lời nhắc đến Hội Thánh tại **“Ba-by-lôn”** trong I Phi-e-rơ 5:13 *rất có thể* là một cách nói ẩn dụ ám chỉ **Rô-ma** — nơi mà bức thư mang dấu ấn của Phi-e-rơ được viết.
 
-Các sử gia đầu tiên đã cho chúng ta thấy những bằng chứng rất thú vị. Clement thành Rô-ma (viết khoảng năm 96 sau Công nguyên) và Ignatius thành An-ti-ốt (viết khoảng năm 116 sau Công nguyên) đều liên kết cả Phi-e-rơ và Phao-lô với Hội thánh ở Rô-ma trong các bức thư của họ. Clement còn ngụ ý rằng cả hai đã tử vì đạo tại đó.\
+Các sử gia đầu tiên đã cho chúng ta thấy những bằng chứng rất thú vị. Clement thành Rô-ma (viết khoảng năm 96 sau Công nguyên) và Ignatius thành An-ti-ốt (viết khoảng năm 116 sau Công nguyên) đều liên kết cả Phi-e-rơ và Phao-lô với Hội thánh ở Rô-ma trong các bức thư của họ. Clement còn ngụ ý rằng cả hai đã tử vì đạo tại đó.
 
 Người đầu tiên khẳng định rõ ràng về sự tử đạo của Phi-e-rơ ở Rô-ma là Dionysius thành Cô-rinh-tô (khoảng năm 170 sau Công nguyên), nhưng lời chứng này lại có một chi tiết gây tranh cãi: ông nói rằng Phi-e-rơ và Phao-lô tử đạo “cùng một lúc.” Điều này có thể không chính xác nếu chúng ta hiểu quá chặt chẽ, nhưng nó vẫn cho thấy một truyền thống mạnh mẽ về sự hiện diện và cái chết của cả hai vị sứ đồ tại thành phố này.
 
@@ -146,9 +146,25 @@ Một cuốn sách là Công vụ của Phi-e-rơ, đoạn 35 (tư liệu ngoài
 
 Không lâu sau đó, Công vụ của Phi-e-rơ, sau một thời gian phục vụ đầy biến cố ở Rô-ma, Phi-e-rơ đã yêu cầu được đóng đinh ngược đầu xuống đất theo chính yêu cầu của mình — một hình thức tử đạo cũng được nhắc đến sau này bởi Origen.
 
-Những câu chuyện này tuy có thể chưa được kiểm chứng, nhưng lại được củng cố bởi các bằng chứng lịch sử sau đó. Vào khoảng năm 200 sau Công nguyên, một người tên là Gaius ở Rô-ma đã chỉ ra các “đài tưởng niệm” của các sứ đồ, đánh dấu nơi họ tử vì đạo. Đài tưởng niệm của Phao-lô nằm trên Đường Ostian (nay là vị trí của nhà thờ St. Paul’s Outside the Walls), còn của Phi-e-rơ nằm trên đồi Vatican. Thật thú vị, đài tưởng niệm này đã được tìm thấy trong các cuộc khai quật bên dưới bàn thờ chính của vương cung thánh đường St. Peter’s.
+Những câu chuyện này tuy có thể chưa được kiểm chứng, nhưng lại được củng cố bởi các bằng chứng lịch sử sau đó. Vào khoảng năm 200 sau Công nguyên, một người tên là Gaius ở Rô-ma đã chỉ ra các “đài hoặc bia tưởng niệm nhỏ” hoặc "mộ phần" của các sứ đồ, đánh dấu nơi họ tử vì đạo. Di tích của Phao-lô nằm trên Đường Ostian (nay là vị trí của Vương cung thánh đường Phao-lô Ngoại Thành (St. Paul’s Outside the Walls), được xây vào thời Constantin (thế kỷ IV)). Thật thú vị, khi mà di tích của Phi-e-rơ nằm trên đồi Vatican, đã được tìm thấy trong các cuộc khai quật bên dưới bàn thờ chính của vương cung thánh đường St. Peter’s.
 
-> Hình ảnh: đài tưởng niệm của Phao-lô và Phi-e-rơ
+> Đọc thêm: Trong cuộc tranh luận với Proclus (một người theo Montanus), Gaius nói:
+> “Tôi có thể chỉ cho anh những trophies (bia tưởng niệm) của các Tông đồ. Nếu anh đến Vatican hoặc đường Ostia, anh sẽ thấy những trophies của những người đã đặt nền móng cho Hội Thánh này.”
+
+![Thirteenth-century icon of the apostle Paul (used by permission of Theodore Getimis).](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/St_pauls_outside_the_walls.jpg/1280px-St_pauls_outside_the_walls.jpg)
+*Hình 4: Bên trong Vương cung thánh đường Phao-lô Ngoại Thành, một trong bốn vương cung thánh đường lớn của Rô-ma, được xây dựng dưới thời Constatin vào thế kỷ IV, nơi di tích của Phao-lô được tìm thấy.*
+
+![Thirteenth-century icon of the apostle Paul (used by permission of Theodore Getimis).](https://www.caldana.it/files/vg/tour/Roma_San-Paolo-Fuori-le-Mura001.jpg)
+*Hình 5: Sân trong Vương cung thánh đường Phao-lô Ngoại Thành.*
+
+![Thirteenth-century icon of the apostle Paul (used by permission of Theodore Getimis).](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Vatican_City_and_St._Peter_Square_evening_twilight_aerial_view.jpg/1920px-Vatican_City_and_St._Peter_Square_evening_twilight_aerial_view.jpg)
+*Hình 6: Cảnh nhìn từ trên cao của Vương cung thánh đường Phi-e-rơ.*
+
+![Thirteenth-century icon of the apostle Paul (used by permission of Theodore Getimis).](https://upload.wikimedia.org/wikipedia/commons/2/27/Vatican_Necropolis_tomb.jpg)
+*Hình 7: Một ngôi mộ La Mã cổ đại nằm gần nơi được cho là lăng mộ của Thánh Phi-e-rơ, bên dưới Vương cung thánh đường Phi-e-rơ.*
+
+![Thirteenth-century icon of the apostle Paul (used by permission of Theodore Getimis).](https://wjla.com/resources/media2/original/full/1600/center/80/a39bcca5-0f5f-4329-be83-e0d4658cc83c-AP25054303558075.jpg)
+*Hình 8: Một buổi lễ kỷ niệm tại Vương cung thánh đường St. Peter ở Vatican, 23 tháng 2 năm 2025*
 
 Các giáo phụ vào cuối thế kỷ thứ hai và đầu thế kỷ thứ ba đã gọi Phi-e-rơ và Phao-lô là những “người sáng lập” Hội Thánh tại Rô-ma. Điều này không có nghĩa là họ là những người đầu tiên rao giảng phúc âm ở đó.  Thay vào đó, nó ám chỉ rằng họ đã mang lại sự ổn định và cấu trúc tổ chức cho Hội thánh. Quan trọng hơn, sự tử đạo của họ đã trở thành lời chứng mạnh mẽ cho lẽ thật của phúc âm, làm nền tảng cho Hội thánh.
 
@@ -158,8 +174,8 @@ Do đó, có nhiều bằng chứng cho thấy cả Phi-e-rơ và Phao-lô đề
 
 Tuy nhiên, cần lưu ý rằng, mặc dù các truyền thuyết đôi khi được sáng tác hoàn toàn, hoặc thường dựa trên một sự thật lịch sử, việc gọi Phi-e-rơ là **“giáo hoàng”** hoặc thậm chí là **giám mục duy nhất** vào thời điểm đó là không chính xác theo lịch sử. Trong trường hợp này, nền tảng cho các tuyên bố sau này về chức vị giáo hoàng có lẽ chính là sự hiện diện và sự tử đạo của Phi-e-rơ tại Rô-ma, cũng như uy tín cá nhân của ông — nếu đó không phải là về vị trí lãnh đạo chính thức trong Hội Thánh.
 
-![Peter in bronze in St. Peter’s basilica in the Vatican (by Arnolfo di Cambio workshop, c. 1290–95).](https://i.imgur.com/H9o5iUl.jpeg)
-*Hình 4: Tượng Phi-e-rơ bằng đồng đặt tại Vương cung thánh đường Thánh Phi-e-rô ở Vatican (do xưởng của Arnolfo di Cambio thực hiện, khoảng năm 1290–1295).*
+![Peter in bronze in St. Peter’s basilica in the Vatican (by Arnolfo di Cambio workshop, c. 1290–95).](https://www.theworldisabook.com/wp-content/uploads/2012/04/romestpaul.jpg)
+*Hình 9: Tượng Phi-e-rơ bằng đồng đặt tại Vương cung thánh đường Thánh Phi-e-rô ở Vatican (do xưởng của Arnolfo di Cambio thực hiện, khoảng năm 1290–1295), ảnh: The world is a book.*
 
 Vào cuối thời kỳ các sứ đồ, Hội thánh ở Rô-ma đã là một cộng đồng đông đảo và quan trọng. Tuy nhiên, dường như Hội thánh ở Ê-phê-sô vào những năm cuối thế kỷ thứ nhất còn **lớn mạnh hơn** và nằm ở trung tâm của khu vực có ảnh hưởng lớn nhất đối với Cơ Đốc nhân.
 
@@ -189,8 +205,8 @@ Bảy bức thư ở đầu sách Khải Huyền cho thấy một số vấn đ�
 
 Dựa trên Giăng 19:26–27, truyền thống sau này cho biết rằng sứ đồ Giăng đã đưa mẹ của Đức Giê-xu, tức Ma-ri, cùng đến Ê-phê-sô và cả hai đã qua đời tại đó, từ đó các giáo phái mạnh mẽ sùng kính Giăng và Ma-ri đã phát triển trong khu vực. Tương tự như lập luận về Phi-e-rơ ở Rô-ma, có khả năng sứ đồ Giăng hoặc một người nào đó mà ông bị nhầm lẫn đã cung cấp một mối liên kết giữa thời kỳ các sứ đồ và Hội thánh tại Ê-phê-sô vào cuối thế kỷ thứ nhất.
 
-![The church of St. John in Ephesus, built under the emperor Justinian in the sixth century.](https://i.imgur.com/H9o5iUl.jpeg)
-*Hình 5: Nhà thờ Thánh Giăng tại Ê-phê-sô, được xây dựng dưới thời Hoàng đế Justinian vào thế kỷ thứ sáu.*
+![The church of St. John in Ephesus, built under the emperor Justinian in the sixth century.](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Saint-John_in_Ephesus_%286%29.JPG/1920px-Saint-John_in_Ephesus_%286%29.JPG)
+*Hình 10: Di tích nhà thờ Thánh Giăng tại Ê-phê-sô, được xây dựng dưới thời Hoàng đế Justinian vào thế kỷ VI.*
 
 Phúc âm Giăng là sách duy nhất trong Tân Ước lưu giữ những câu chuyện về Thô-ma, và Phúc âm Giăng chia sẻ với Phúc âm Thô-ma (*sách ngoại kinh*) sự quan tâm đến những câu nói khôn ngoan của Chúa Giê-su.
 
