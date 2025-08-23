@@ -182,11 +182,11 @@ Vào cuối thời kỳ các sứ đồ, Hội thánh ở Rô-ma đã là một 
 
 ## VI. HỘI THÁNH Ở Ê-PHÊ-SÔ VÀ GIĂNG
 
-Sự khởi đầu của Hội Thánh tại Ê-phê-sô gắn liền với công việc của Phao-lô và các cộng sự của ông. Ban đầu, đã có những môn đồ của Giăng Báp-tít tại thành phố này. Một trong số họ, A-bô-lô, là một diễn giả hùng biện, và sau khi tin vào Chúa Giê-xu, ông đã trở thành một người ủng hộ mạnh mẽ cho đức tin mới ở Ê-phê-sô và sau đó là Cô-rinh-tô.  Phao-lô đã ở lại Ê-phê-sô hơn hai năm vào đầu những năm 50, đây là thời gian ông ở một nơi lâu nhất được ghi lại. Từ đây, ông đã giám sát công việc của các nhà truyền giáo khác, những người đã mang Tin Mừng đến khắp tỉnh A-si-a (miền tây Thổ Nhĩ Kỳ)
+Sự khởi đầu của Hội Thánh tại Ê-phê-sô gắn liền với công việc của Phao-lô và các cộng sự của ông. Ban đầu, đã có những môn đồ của Giăng Báp-tít tại thành phố này. Một trong số họ, A-bô-lô, là một diễn giả hùng biện, và sau khi tin vào Chúa Giê-xu, ông đã trở thành một người ủng hộ mạnh mẽ cho đức tin mới ở Ê-phê-sô và sau đó là Cô-rinh-tô.  Phao-lô đã ở lại Ê-phê-sô hơn hai năm vào đầu những năm 50, đây là thời gian ông ở một nơi lâu nhất được ghi lại. Từ đây, ông đã giám sát công việc của các nhà truyền giáo khác, những người đã mang Tin Mừng đến khắp tỉnh A-si-a (miền tây Thổ Nhĩ Kỳ).
 
 Các ghi chép trong sách Công vụ cho thấy Phao-lô đã tiếp xúc (và thường xuyên xung đột) với nhiều nhóm người Do Thái và Ngoại tại Ê-phê-sô: từ các quan chức chính phủ, trí thức Hy Lạp, người Do Thái chính thống, đến các thầy trừ quỷ lưu động, pháp sư ngoại giáo, và những người thờ nữ thần Ác-tê-mi ở Ê-phê-sô (những người có lợi ích kinh tế và tôn giáo đan xen lẫn nhau).
 
-Nếu Phao-lô là nhân vật chính trong giai đoạn đầu của lịch sử Hội Thánh tại Ê-phê-sô, thì sứ đồ Giăng — theo truyền thống của Hội Thánh — là nhân vật hàng đầu vào cuối thế kỷ thứ nhất. Ê-phê-sô sớm trở thành một trung tâm gắn liền với các hoạt động văn học Cơ Đốc. Phao-lô cũng đã viết thư 1 Cô-rinh-tô từ Ê-phê-sô.
+Nếu Phao-lô là nhân vật chính trong giai đoạn đầu của lịch sử Hội Thánh tại Ê-phê-sô, thì sứ đồ Giăng — theo truyền thống của Hội Thánh — là nhân vật hàng đầu vào cuối thế kỷ thứ nhất. Ê-phê-sô sớm trở thành một trung tâm gắn liền với các hoạt động văn học Cơ Đốc. Phao-lô cũng đã viết thư **I Cô-rinh-tô** từ Ê-phê-sô.
 
 Một số sách khác trong Tân Ước cũng được viết cho Hội thánh tại Ê-phê-sô: thư Ê-phê-sô (có thể vốn là một thư luân lưu gửi cho nhiều Hội Thánh khác), thư I và II Ti-mô-thê (truyền thống còn cho rằng Ti-mô-thê là giám mục đầu tiên của Ê-phê-sô nữa), và bức thư đầu tiên trong bảy bức thư được chép trong sách Khải Huyền (2:1–7).
 
