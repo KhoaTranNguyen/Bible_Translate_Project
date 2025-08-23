@@ -243,7 +243,9 @@ Hơn nữa, một số thực hành chung đã giúp họ hiệp nhất từ r�
 
 Để gia nhập cộng đồng Cơ Đốc, người ta cần (1) tin vào Chúa Giê-xu là **Chúa và Cứu Chúa**, (2) rồi **chịu phép báp-têm** trong **danh Chúa Giê-xu**.
 
-Thứ nhất, sự tiếp nhận Chúa Giê-xu là Đấng Mê-si (Đấng Christ) là ranh giới giáo lý rõ ràng giữa Cơ Đốc nhân và người Do Thái. Thứ hai, nghi lễ báp-tem mà Giăng Báp-tít đã thực hiện, chính Chúa Giê-xu cũng đã nhận lãnh, chính là hình thức đi trước, làm nền tảng trực tiếp cho thực hành điều này trong vòng cộng đồng Cơ Đốc Nhân.
+Thứ nhất, sự tiếp nhận Chúa Giê-xu là Đấng Mê-si (Đấng Christ) là ranh giới giáo lý rõ ràng giữa Cơ Đốc nhân và người Do Thái.
+
+Thứ hai, nghi lễ báp-tem mà Giăng Báp-tít đã thực hiện, chính Chúa Giê-xu cũng đã nhận lãnh, chính là hình thức đi trước, làm nền tảng trực tiếp cho thực hành điều này trong vòng cộng đồng Cơ Đốc Nhân.
 
 Phép Báp-tem của Giăng Báp-tít giống như một số nghi thức thanh tẩy khác trong Do Thái giáo, được thực hiện bằng cách dìm người ta trong nước. Điểm khác biệt chính là nó chỉ diễn ra duy nhất một lần, nhằm bày tỏ sự ăn năn để được tha tội, và được thi hành bởi một người khác, chứ không phải người nhận tự thực hiện — bởi đó mà Giăng được gọi là “Giăng **Báp-tít**" (tức người làm báp-tem).
 
