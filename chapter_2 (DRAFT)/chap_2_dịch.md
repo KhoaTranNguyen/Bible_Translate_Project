@@ -253,7 +253,6 @@ Phép báp-têm Cơ Đốc cũng là phép dìm mình một lần để ăn năn
 
 Từ ban đầu, các môn đồ đã duy trì việc ăn chung, giống như khi họ còn đi với Chúa Giê-xu. Giờ đây, việc bẻ bánh và uống chén, kèm theo lời tạ ơn dâng lên Đức Chúa Trời, là để tưởng nhớ bữa tiệc cuối cùng của Chúa Giê-xu với các môn đồ, và sự chết, sự phục sinh của Ngài.
 
-Việc giữ lại thói quen ăn bữa ăn chung của cộng đồng đã thể hiện qua hai tên gọi chính: “bẻ bánh” và “Tiệc Thánh của Chúa.”
 * “Bẻ bánh” là một cụm từ quen thuộc, vốn là nghi thức bắt đầu các bữa ăn của người Do Thái, khi người chủ gia đình đọc lời chúc phước.
 * Còn “Tiệc Thánh của Chúa” là tên gọi dùng để phân biệt bữa ăn này với các bữa tối thông thường.
 Hai tên gọi này cho thấy các tín hữu đầu tiên đã kết hợp thói quen văn hóa của mình với ý nghĩa thiêng liêng mới.
