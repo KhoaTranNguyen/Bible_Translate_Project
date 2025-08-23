@@ -96,6 +96,9 @@ Từ đây, Phao-lô và Ba-na-ba đã lên đường thực hiện các chuyế
 
 Đối với Phao-lô, mặc dù Giê-ru-sa-lem vẫn là Hội Thánh mẹ, ông lại tìm thấy An-ti-ốt như một cơ sở hoạt động phù hợp và gần gũi hơn cho những chuyến hành trình truyền giáo về sau này.
 
+![Mosaic of Christ teaching with his apostles, in the chapel of San Aquilino in the basilica of San Lorenzo, Milan, Italy (late fourth century).](https://upload.wikimedia.org/wikipedia/commons/f/fc/Marble_statue_of_The_Good_Shepherd_from_the_Catacombs_of_Domitilla_full%2C_Vatican_Museums.jpg)
+*Hình 1: Bức tranh khảm về Chúa Giê-xu đang giảng dạy cùng các môn đồ, trong nhà nguyện San Aquilino thuộc Vương cung thánh đường San Lorenzo, Milan, Ý (cuối thế kỷ IV).*
+
 ![Christ as the Good Shepherd, the most popular image of Jesus in the earliest Christian art, from the Catacomb of San Callisto, Rome (third century).](https://upload.wikimedia.org/wikipedia/commons/f/fc/Marble_statue_of_The_Good_Shepherd_from_the_Catacombs_of_Domitilla_full%2C_Vatican_Museums.jpg)
 *Hình 2: Đấng Christ như là Người chăn hiền lành, hình ảnh nổi tiếng nhất về Chúa Giê-xu từ thời kỳ đầu của hội họa Cơ Đốc Giáo (phát hiện tại Hầm mộ San Callisto ở Rô-ma, được điêu khắc khoảng thế kỷ thứ ba?).*
 
