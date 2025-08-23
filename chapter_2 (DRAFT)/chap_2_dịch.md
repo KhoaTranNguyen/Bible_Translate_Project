@@ -35,8 +35,8 @@ Sau đó, Chúa Giê-su phục sinh đã dặn các môn đồ chờ đợi tạ
 > "Vả, trước hết tôi đã dạy-dỗ anh em điều mà chính tôi đã nhận-lãnh, ấy là Đấng Christ chịu chết vì tội chúng ta theo lời Kinh-thánh; Ngài đã bị chôn, đến ngày thứ ba, Ngài sống lại, theo lời Kinh-thánh;..."
 > (I Cô-rinh-tô 15:3-4)
 
-![Mosaic of Christ teaching with his apostles, in the chapel of San Aquilino in the basilica of San Lorenzo, Milan, Italy (late fourth century).](https://i.imgur.com/IFIIBjR.jpeg)
-*Hình 1: Bức tranh khảm về Chúa Giê-xu đang giảng dạy cùng các môn đồ, trong nhà nguyện San Aquilino thuộc Vương cung thánh đường San Lorenzo, Milan, Ý (cuối thế kỷ thứ tư).*
+![Mosaic of Christ teaching with his apostles, in the chapel of San Aquilino in the basilica of San Lorenzo, Milan, Italy (late fourth century).](https://www.finestresullarte.info/rivista/immagini/2020/fn/cappella-sant-aquilino-catino-destro.jpg)
+*Hình 1: Bức tranh khảm về Chúa Giê-xu đang giảng dạy cùng các môn đồ, trong nhà nguyện San Aquilino thuộc Vương cung thánh đường San Lorenzo, Milan, Ý (cuối thế kỷ IV).*
 
 ## II. HỘI THÁNH Ở GIÊ-RU-SA-LEM VÀ GIA-CƠ
 
@@ -96,7 +96,7 @@ Từ đây, Phao-lô và Ba-na-ba đã lên đường thực hiện các chuyế
 
 Đối với Phao-lô, mặc dù Giê-ru-sa-lem vẫn là Hội Thánh mẹ, ông lại tìm thấy An-ti-ốt như một cơ sở hoạt động phù hợp và gần gũi hơn cho những chuyến hành trình truyền giáo về sau này.
 
-![Christ as the Good Shepherd, the most popular image of Jesus in the earliest Christian art, from the Catacomb of San Callisto, Rome (third century?)](https://catalogo.museivaticani.va/media/mvca/images/3/8/6/4/39354_ca_object_representations_media_386450_large.jpg)
+![Mosaic of Christ teaching with his apostles, in the chapel of San Aquilino in the basilica of San Lorenzo, Milan, Italy (late fourth century).](https://catalogo.museivaticani.va/media/mvca/images/3/8/6/4/39354_ca_object_representations_media_386450_large.jpg)
 *Hình 2: Đấng Christ như là Người chăn hiền lành, hình ảnh nổi tiếng nhất về Chúa Giê-xu từ thời kỳ đầu của hội họa Cơ Đốc Giáo (phát hiện tại Hầm mộ San Callisto ở Rô-ma, được điêu khắc khoảng thế kỷ thứ ba?).*
 
 ## IV. PHAO-LÔ
@@ -119,8 +119,8 @@ Phao-lô đã phản bác lập luận này bằng cách chỉ ra rằng cơ s�
 
 Những đóng góp văn học của Phao-lô cho cuộc đấu tranh này chủ yếu được tìm thấy trong những lá thư Ga-la-ti (nơi ông trực tiếp phản bác những người đòi hỏi cắt bì) và thư Rô-ma (nơi ông tìm cách thống nhất các nhóm Cơ Đốc bằng cách củng cố chương trình truyền giáo của mình).
 
-![Thirteenth-century icon of the apostle Paul (used by permission of Theodore Getimis).](https://i.imgur.com/H9o5iUl.jpeg)
-*Hình 3: Biểu tượng của sứ đồ Phao-lô từ thế kỷ thứ mười ba (được sử dụng với sự cho phép của Theodore Getimis).*
+![Thirteenth-century icon of the apostle Paul (used by permission of Theodore Getimis).](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.istok.net%2Fimages%2Fmagictoolbox_cache%2Fc4b1ea9ec11c65de13bda629beeb8587%2F4%2F4%2F44591%2Foriginal%2Fc03f3a7d35a2362851892019bd517c50.jpg)
+*Hình 3: Biểu tượng của sứ đồ Phao-lô từ thế kỷ XIII.*
 
 Phao-lô có một tài năng mục vụ đặc biệt: ông biết cách kết hợp Kinh Thánh Hê-bơ-rơ với triết học đạo đức Hy Lạp để hướng dẫn những người mới tin Chúa. Điều này được thể hiện rõ nhất qua các lá thư ông gửi cho các hội thánh Hy Lạp như Tê-sa-lô-ni-ca, Cô-rinh-tô và Phi-líp.  Những bức thư này được lưu truyền rộng rãi và trở thành kim chỉ nam cho một lối sống đặc trưng của Cơ Đốc Nhân.
 
@@ -140,7 +140,8 @@ Các sử gia đầu tiên đã cho chúng ta thấy những bằng chứng rấ
 
 Người đầu tiên khẳng định rõ ràng về sự tử đạo của Phi-e-rơ ở Rô-ma là Dionysius thành Cô-rinh-tô (khoảng năm 170 sau Công nguyên), nhưng lời chứng này lại có một chi tiết gây tranh cãi: ông nói rằng Phi-e-rơ và Phao-lô tử đạo “cùng một lúc.” Điều này có thể không chính xác nếu chúng ta hiểu quá chặt chẽ, nhưng nó vẫn cho thấy một truyền thống mạnh mẽ về sự hiện diện và cái chết của cả hai vị sứ đồ tại thành phố này.
 
-> Đọc thêm: lời chứng của Dionysius thành Cô-rinh-tô
+> Đọc thêm: lời chứng của Dionysius thành Cô-rinh-tô (Được lưu giữ trong Lịch sử Hội Thánh của Eusebius (II.25.8))
+> “Anh em cũng đã nhắc nhở chúng tôi về việc gieo trồng do Phi-e-rơ và Phao-lô thực hiện tại Rô-ma và Cô-rinh-tô; vì cả hai đã cùng nhau gieo trồng tại Cô-rinh-tô chúng tôi, và dạy dỗ chúng tôi; cũng một cách như vậy, họ cùng dạy dỗ tại Ý và đã chịu tử đạo *cùng một lúc*.”
 
 Một cuốn sách là Công vụ của Phi-e-rơ, đoạn 35 (tư liệu ngoài kinh điển) viết rằng khi các môn đệ thuyết phục ông rời khỏi Rô-ma, Phi-e-rơ đã gặp Chúa Giê-su trong trạng thái đang đi vào thành. Ông hỏi Ngài: “Lạy Chúa, Ngài đi đâu (quo vadis)?” Chúa trả lời: “Ta đến Rô-ma để bị đóng đinh một lần nữa.” Nghe vậy, Phi-e-rơ xấu hổ quay lại thành phố, chấp nhận đối diện với cái chết của chính mình.
 
