@@ -200,8 +200,6 @@ Những tác phẩm này đề cập đến một số giáo lý khác thường
 
 Các thư Giăng nhấn mạnh mạnh mẽ đến sứ điệp ban đầu của các sứ đồ và sự hiệp nhất giữa thần tính và nhân tính trong Đức Chúa Jêsus Christ, để chống lại những người đã tách ra khỏi cộng đồng Cơ Đốc, phủ nhận nhân tính của Đấng Christ và không thực hành tình yêu thương anh em.
 
-Bảy bức thư ở đầu sách Khải Huyền cho thấy một số vấn đề nội bộ về sự thỏa hiệp với các phong tục ngoại giáo, bao gồm cả sự vô luân; nhưng toàn bộ sách dựa vào các chủ đề tận thế của người Do Thái để củng cố các Hội thánh chống lại thách thức của sự bách hại từ một xã hội ngoại giáo liên minh với sự thờ cúng hoàng đế.
-
 Bảy bức thư ở đầu sách Khải Huyền cho thấy một số vấn đề nội bộ về sự thỏa hiệp với các phong tục ngoại giáo, bao gồm cả sự suy đồi đạo đức; nhưng toàn bộ cuốn sách chủ yếu khai thác các chủ đề khải huyền của người Do Thái để củng cố đức tin cho các Hội thánh chống lại thách thức của sự bách hại từ một xã hội ngoại giáo liên minh với sự thờ cúng hoàng đế. Lòng nhiệt thành về sự tận thế tồn tại lâu hơn ở nội địa Tiểu Á so với các nơi khác trong Hội thánh Hy Lạp.
 
 Dựa trên Giăng 19:26–27, truyền thống sau này cho biết rằng sứ đồ Giăng đã đưa mẹ của Đức Giê-xu, tức Ma-ri, cùng đến Ê-phê-sô và cả hai đã qua đời tại đó, từ đó các giáo phái mạnh mẽ sùng kính Giăng và Ma-ri đã phát triển trong khu vực. Tương tự như lập luận về Phi-e-rơ ở Rô-ma, có khả năng sứ đồ Giăng hoặc một người nào đó mà ông bị nhầm lẫn đã cung cấp một mối liên kết giữa thời kỳ các sứ đồ và Hội thánh tại Ê-phê-sô vào cuối thế kỷ thứ nhất.
