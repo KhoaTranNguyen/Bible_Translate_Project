@@ -125,7 +125,7 @@ Ngoài ra, một đặc điểm khác của thể loại này là khi sinh hoạ
 
 Dù có thể đưa ra luận điểm cho rằng tác phẩm có nguồn gốc Ai Cập, nhưng bối cảnh khả dĩ nhất vẫn là vùng nông thôn Syria. Nền tảng Do Thái của Cơ Đốc giáo thời kỳ đầu thể hiện rõ trong tài liệu này — từ sự dạy dỗ đạo đức và khuôn khổ của họ về “Hai Con Đường”, đến ngôn ngữ của các lời cầu nguyện, những chỉ dẫn về sự chu cấp cho chức vụ, và cả ngôn ngữ **lai thế học** được dùng.
 
-Didache phản ánh mối quan tâm thường trực trong lịch sử Hội Thánh về việc tổ chức sinh hoạt cách đúng đắn—làm thế nào để điều chỉnh đời sống luân lý, sự thờ phượng, và cơ cấu Hội Thánh.
+Didache phản ánh mối quan tâm thường trực trong lịch sử Hội Thánh về việc tổ chức sinh hoạt cách đúng đắn—làm thế nào để điều chỉnh đời sống đạo đức, sự thờ phượng, và cơ cấu Hội Thánh.
 
 #### 2. Thư Barnabas (97/135 SCN?, Alexandria?)
 
