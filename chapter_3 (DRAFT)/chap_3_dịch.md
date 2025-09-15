@@ -239,7 +239,7 @@ Vấn đề đặc biệt được quan tâm là: **làm gì khi phạm tội sa
 **Ignatius**, giám mục tại **An-ti-ốt xứ Sy-ri**, đã viết **bảy bức thư chính thống** còn được lưu truyền, trong đó có một thư gởi hội thánh tại **Rô-ma**, khẩn cầu các Cơ Đốc Nhân ở đó **đừng can thiệp để cứu ông khỏi tử đạo**. Ignatius bị bắt dưới thời hoàng đế **Trajan** (98–117), và có lẽ vào cuối triều đại này, ông bị áp giải về **Rô-ma** để xử tử, có lẽ là một trong những tù nhân bị đem ra **cho thú dữ xé xác trong các cuộc chơi tại đấu trường** nhằm mua vui cho dân chúng.
 
 <p align="center">
-  <img src="https://oknovmir.eu/images/phocagallery/Bild/Art/Rome/P1170693_1.jpg">
+  <img src="https://oknovmir.eu/images/phocagallery/Bild/Art/Rome/P1170693_1.jpg" width="500">
 </p>
 
 <p align="center">
@@ -350,19 +350,13 @@ Tất cả các tác phẩm Ngụy thư đều có giá trị trong việc phả
 
 Các ranh giới giữa chính thống và dị giáo không được nhận thức rõ ràng trong những vòng tròn mà một số tác phẩm này phát xuất. Chúng nhắc nhở rằng những sự sai lệch khỏi đức tin của các sứ đồ thường xảy ra trong lòng mộ đạo bình dân cũng như trong những suy luận thần học.
 
-Các phân loại được dùng trong bảng đi kèm có phần gượng ép, nhưng việc nhóm các tác phẩm Ngụy kinh Tân Ước theo các thể loại văn học của chính Tân Ước thì không hề sai lệch.
+Các phân loại được dùng trong bảng đi kèm có phần gượng ép, nhưng việc nhóm các tác phẩm Ngụy kinh Tân Ước theo các thể loại văn học của chính Tân Ước thì **không hề sai lệch.**
 
 Các sách Phúc Âm ngụy kinh phản ánh những dạng chất liệu được tìm thấy trong các sách Phúc Âm chính thống: **các tường thuật Giáng Sinh**, **các lời phán dạy (nhưng không phải việc làm) của Chúa Giê-xu**, và **tường thuật về cuộc Thương Khó**.
 
 Nhiều nội dung của sách Phúc Âm Lời phán của Thô-ma đã được biết đến, nhưng không có nhan đề, trong **ba mảnh thủ bản Hy Lạp**. **Văn bản Coptic** nằm trong **bộ sưu tập các codex được tìm thấy tại Nag Hammadi ở Thượng Ai Cập** đã cung cấp **phần văn bản** và **nhan đề còn thiếu**. Vì xuất hiện chung trong các **codex Nag Hammadi**, sách Phúc Âm này đã được mô tả như có **tính chất Ngộ giáo**, và nó quả thực có thể bị giải thích theo **hướng Ngộ giáo**, nhưng tác phẩm này có lẽ nên được mô tả chính xác hơn là **khổ hạnh** (xem chương 5) hay rộng hơn là **khắc kỷ**.
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png" width="500">
-</p>
-
-<p align="center">
-  <em>Hình: Phúc Âm Thô-ma, được tìm thấy trong bộ sưu tập Nag Hammadi (hiện lưu giữ tại Bảo tàng Coptic, Cairo).</em>
-</p>
+<div align="center">
 
 **MỘT SỐ NGỤY KINH TÂN ƯỚC THẾ KỶ II**
 | **Thể loại**   | **Tác phẩm**        |
@@ -376,7 +370,18 @@ Nhiều nội dung của sách Phúc Âm Lời phán của Thô-ma đã được
 | **Thư Tín**    | Thư của Các Sứ Đồ   |
 | **Khải Huyền** | Khải Huyền theo Phi-e-rơ |
 
+</div>
+
 #### 1. Phúc Âm Thô-ma
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png" width="500">
+</p>
+
+<p align="center">
+  <em>Hình: Phúc Âm Thô-ma, được tìm thấy trong bộ sưu tập Nag Hammadi (hiện lưu giữ tại Bảo tàng Coptic, Cairo).</em>
+</p>
+
 Phúc Âm Thô-ma, không kèm theo bối cảnh tường thuật, trình bày một sưu tập sớm các lời phán của Chúa Giê-xu, thường tương tự với những lời được tìm thấy trong các sách Phúc Âm chính thống. Nhiều học giả xem cách diễn đạt này phản ánh một giai đoạn khá sớm trong tiến trình truyền khẩu các lời phán của Chúa Giê-xu. Các học giả Tân Ước từ lâu đã giả định sự tồn tại của một sưu tập sớm những lời phán của Chúa Giê-xu gọi là **Nguồn Q**, để giải thích chất liệu chung trong Ma-thi-ơ và Lu-ca. Thô-ma không phải là **Q**, nhưng nó cho thấy thực sự đã có những sưu tập lời phán của Chúa Giê-xu được lưu hành độc lập.
 
 #### 2. Phúc Âm Phi-e-rơ
@@ -386,15 +391,15 @@ Phúc Âm của Phi-e-rơ là một tường thuật về cuộc Thương Khó. 
 Tiền Phúc Âm Gia-cơ (hay còn được biết đến là Ngụy thư Gia-cô-bê) liên quan đến sự Giáng Sinh của Chúa Giê-xu nhưng đặc biệt tập trung vào Ma-ri, nhấn mạnh sự đồng trinh vĩnh cửu của bà và trình bày Giô-sép như một người góa vợ với các con từ một cuộc hôn nhân trước đó. Tác phẩm này rất phổ biến và đã cung cấp thông tin cho sự phát triển sau này của các giáo lý về Ma-ri.
 
 #### 4. Ngụy Kinh Công Vụ (Phi-e-rơ, Phao-lô, Giăng)
-Các sách Ngụy kinh Công vụ, trong những câu chuyện về hành trình và cuộc phiêu lưu của các sứ đồ, có nhiều nét gần với tiểu thuyết Hy-La. Chúng đưa ra những tường thuật phóng đại về các phép lạ của các sứ đồ. Chủ đề về tình yêu trinh bạch của các anh hùng và nữ anh hùng trong các tiểu thuyết được đặt dưới một trọng tâm khổ hạnh mạnh mẽ trong các sách Ngụy kinh Công vụ. Sứ điệp phúc âm trở thành: “Ai tin và từ bỏ quan hệ tình dục thì sẽ được cứu.”
+Các sách Ngụy kinh Công vụ, trong những câu chuyện về hành trình và cuộc phiêu lưu của các sứ đồ, có nhiều nét gần với tiểu thuyết Hy Lạp. Chúng đưa ra những tường thuật phóng đại về các phép lạ của các sứ đồ. Chủ đề về tình yêu trinh bạch của các anh hùng và nữ anh hùng trong các tiểu thuyết được đặt dưới một trọng tâm khổ hạnh mạnh mẽ trong các sách Ngụy kinh Công vụ. Sứ điệp phúc âm trở thành: “Ai tin và từ bỏ quan hệ tình dục thì sẽ được cứu.”
 
 Sách Công vụ Phi-e-rơ và Công vụ Phao-lô, cả hai đều chắc chắn có từ thế kỷ thứ hai, phản ánh những quan điểm cơ bản thuộc chính thống. Công vụ Giăng thì mang đậm sắc thái Ngộ giáo hơn (chương 5). Giống như Công vụ Giăng, Công vụ Anh-rê phản ánh nhị nguyên Ngộ giáo (thậm chí còn ít quan tâm đến những vấn đề Cơ Đốc hơn cả Công vụ Giăng) và có niên đại không chắc chắn, có thể thuộc thế kỷ thứ hai hoặc thứ ba. Công vụ Thô-ma, được lưu giữ trong tiếng Syriac và một bản Hy Lạp chỉnh sửa, thuộc thế kỷ thứ ba.
 
 #### 5. Ngụy Kinh Thư Tín
 
-Các thư tín xuất hiện rất ít trong **Ngụy thư**. Việc dùng bút danh giả định hầu như ít được thử, hoặc nếu có thì cũng không thành công. Cái gọi là **Thư tín của các Sứ đồ** (khoảng năm 150 SCN) chỉ là một **“thư tín” theo nghĩa rộng**, tức là được cho là **do các sứ đồ gửi ra**.
+Các thư tín xuất hiện rất ít trong Ngụy thư. Việc dùng bút danh giả định hầu như ít được thử, hoặc nếu có thì cũng không thành công. Cái gọi là **Thư tín của các Sứ đồ** (khoảng năm 150 SCN) chỉ là một **“thư tín” theo nghĩa rộng**, tức là được cho là **do các sứ đồ gửi ra**.
 
-Về mặt văn chương, đây là một **“sự mặc khải” sau sự phục sinh của Chúa cho các sứ đồ Ngài**, một thể loại thường thấy trong các tác phẩm Ngộ đạo, nhằm **tạo thẩm quyền** cho **những sự dạy dỗ không có trong truyền thống về chức vụ của Chúa Giê-xu**. Tác giả dường như đã **vay mượn thủ pháp văn chương phổ biến của phái Ngộ đạo** để **khẳng định giáo lý chính thống chống lại họ**.
+Về mặt văn chương, đây là một **“sự mặc khải” sau sự phục sinh của Chúa cho các sứ đồ Ngài**, một thể loại thường thấy trong các tác phẩm Ngộ đạo, nhằm tạo thẩm quyền cho những sự dạy dỗ không có trong truyền thống về chức vụ của Chúa Giê-xu. Tác giả dường như đã vay mượn thủ pháp văn chương phổ biến của phái Ngộ đạo để **khẳng định giáo lý chính thống chống lại họ**.
 
 Một bức thư khác từ thế kỷ thứ hai là **Thư Cô-rinh-tô III**, được bao gồm trong **Công vụ của Phao-lô** nhưng lại được lưu hành độc lập, và có lẽ được viết trước cả **Công vụ của Phao-lô**. Nội dung của nó cũng mang tính **chống lại phái Ngộ đạo**.
 
@@ -404,31 +409,39 @@ Một sách khải huyền từ thế kỷ thứ hai là **Khải huyền theo P
 
 ### C. CÁC TÁC PHẨM KHÁC
 
-Nhiều tác phẩm Do Thái đã trở thành nền tảng để các Cơ Đốc nhân **mở rộng, thêm thắc hoặc bắt chước lại**. Bản còn lại của **“Sự thăng thiên của Ê-sai”** (*The Ascension of Isaiah*) ngoài phần kể về sự tử đạo của Ê-sai, còn có hai phần do Cơ Đốc nhân thêm vào, bày tỏ **sự giáng sinh lạ lùng, cuộc đời, sự chết, sự phục sinh, sự thăng thiên và sự tái lâm của Chúa Giê-xu Christ**. Tác phẩm này cũng cho thấy **tình trạng của Hội thánh** vào **cuối thế kỷ I hoặc đầu thế kỷ II**.
+Nhiều tác phẩm Do Thái đã trở thành nền tảng để các Cơ Đốc nhân **mở rộng, thêm thắc hoặc bắt chước lại**. Bản còn lại của **“Sự thăng thiên của Ê-sai”** (*The Ascension of Isaiah*) ngoài phần kể về sự tử đạo của Ê-sai, còn có hai phần do Cơ Đốc nhân thêm vào, bày tỏ **sự giáng sinh lạ lùng, cuộc đời, sự chết, sự phục sinh, sự thăng thiên và sự tái lâm của Chúa Giê-xu Christ**. Tác phẩm này cũng cho thấy tình trạng của Hội thánh vào **cuối thế kỷ I hoặc đầu thế kỷ II**.
+
+#### 1. Chúc ngôn của Mười Hai Tổ phụ (*The Testaments of the Twelve Patriarchs*)
 
 Bản hiện nay mà chúng ta có của **“Chúc ngôn của Mười Hai Tổ phụ”** (*The Testaments of the Twelve Patriarchs*) là một tác phẩm Cơ Đốc của thế kỷ thứ hai. Có người cho rằng nó vốn là tác phẩm Do Thái được các ký lục Cơ Đốc sửa đổi, có người lại cho rằng đây là tác phẩm Cơ Đốc được xây dựng từ nguồn tài liệu Do Thái trước đó. Nội dung đạo đức của nó gần với sự dạy dỗ Cơ Đốc, nhưng không nhất thiết xuất phát từ Cơ Đốc giáo. Dấu hiệu rõ ràng nhất của ảnh hưởng Cơ Đốc là những lời khẳng định tín lý về Chúa Giê-xu Christ.
 
+#### 2. Sấm ngôn Sibylline (*The pagan Sibylline*)
+
 Người Do Thái từng soạn ra **Sấm ngôn Sibylline** (*The pagan Sibylline*) theo phong cách của dân ngoại để phục vụ mục đích tuyên truyền và biện giáo. Các Cơ Đốc nhân bấy giờ đã giữ lại những Sấm ngôn ấy, rồi còn viết thêm nhiều bản khác, khiến cho phần lớn **Sấm ngôn Sibylline** còn lại ngày nay mang đậm màu sắc Cơ Đốc. Một số được viết vào thế kỷ thứ tư, nhưng cũng có những bản từ thế kỷ thứ hai, vì các nhà biện giáo Cơ Đốc thời đó đã trích dẫn.
+
+#### 3. Bài ca của Sa-lô-môn (*The Odes of Solomon*)
 
 **“Bài ca của Sa-lô-môn”** (*The Odes of Solomon*) có thể là tập thánh ca Cơ Đốc xưa nhất còn giữ được. Bằng chứng cho thấy nó là tác phẩm Cơ Đốc có sức nặng hơn so với giả thuyết về nguồn gốc Do Thái hay Ngộ đạo. Đa số học giả cho rằng nó ra đời vào đầu thế kỷ thứ hai, dù cũng có ý kiến đặt nó ở thế kỷ thứ ba. Bản đầy đủ chỉ còn lại bằng tiếng Syriac, gồm bốn mươi hai bài ca ngắn, có lẽ được dùng trong sự thờ phượng.
 
+#### 3. Sách các luật lệ của các vùng đất (*The Book of the Laws of the Lands*)
+
 Ngoài ra, **Bardaisan** (hay **Bardesanes**) ở Edessa (khoảng 154–222 SCN) cũng được nhớ đến như một người soạn thánh ca, và là một trong những tác giả Cơ Đốc đầu tiên viết bằng tiếng Syriac. Tác phẩm duy nhất của ông còn lại là **Sách các luật lệ của các vùng đất** (*The Book of the Laws of the Lands*, còn gọi là *On Fate* - **Số mệnh**), được ghi chép bởi môn đồ của ông là Phi-líp. Tuy vậy, sự chính thống của Bardaisan sau này bị các lãnh đạo Cơ Đốc giáo Syria đánh giá là thiếu vững chắc.
 
-### D. NHỮNG ĐIỂM HẠN CHẾ VÀ GIÁ TRỊ
+### D. NHỮNG HẠN CHẾ VÀ GIÁ TRỊ CỦA CÁC TÁC PHẨM NÀY
 
-Ngay cả những tác phẩm văn học được các Cơ Đốc nhân chính thống chấp nhận nhất — chẳng hạn như của Clement, Ignatius, Polycarp — cũng từng bị phê phán là bộc lộ sự sa sút nghiêm trọng khỏi Cơ Đốc giáo tông đồ. Quả thật, những tác giả này kém xa các bậc thầy của mình, nhưng họ cũng không hẳn đơn giản hay nông cạn như đôi khi người ta mô tả.
+Ngay cả những tác phẩm văn học được các Cơ Đốc nhân chính thống chấp nhận nhất — chẳng hạn như của Clement, Ignatius, Polycarp — cũng từng bị phê phán là bộc lộ sự sa sút nghiêm trọng khỏi niềm tin Cơ Đốc của các sứ đồ. Quả thật, những tác giả này kém xa các những người thầy của mình, nhưng họ cũng không hẳn đơn giản hay nông cạn như đôi khi người ta mô tả.
 
-Lời phê bình thường thấy là các **Giáo phụ Tông đồ** đã thoái lui khỏi những giáo lý mạnh mẽ về ân điển và đức tin mà Phao-lô từng công bố, để rồi tìm chỗ dựa trong đạo đức luận và luật pháp luận. Một phần của sự chỉ trích này xuất phát từ cách hiểu phiến diện về Phao-lô; phần khác do không xét đến bối cảnh cụ thể mà cả Phao-lô lẫn các Giáo phụ Tông đồ đang đối diện khi viết.
+Lời phê bình thường thấy là các Giáo phụ Tông đồ **đã thoái lui khỏi những giáo lý mạnh mẽ về ân điển và đức tin** mà Phao-lô từng công bố, để rồi tìm chỗ dựa trong đạo đức luận và luật pháp luận. Một phần của sự chỉ trích này xuất phát từ cách hiểu phiến diện về Phao-lô; phần khác do không xét đến bối cảnh cụ thể mà cả Phao-lô lẫn các Giáo phụ Tông đồ đang đối diện khi viết.
 
-Người đọc ngày nay chắc chắn sẽ không nhầm lẫn các Giáo phụ Tông đồ với Phao-lô (hay với Giăng hay Gia-cơ). Tuy nhiên, những khác biệt thần học giữa họ và các sứ đồ thường dễ bị thổi phồng quá mức. Dĩ nhiên ta không thể mong đợi thế hệ thứ hai, thứ ba có được cùng một tầm vóc thần hứng và chiều sâu thuộc linh như các lãnh đạo đầu tiên được, nhưng những người đi sau chắc chắn vẫn có những đóng góp đáng kể của riêng họ.
+Người đọc ngày nay chắc chắn sẽ không nhầm lẫn các Giáo phụ Tông đồ với Phao-lô (hay với Giăng hay Gia-cơ). Tuy nhiên, những khác biệt thần học giữa họ và các sứ đồ thường dễ bị thổi phồng quá mức. Dĩ nhiên ta không thể mong đợi thế hệ thứ hai, thứ ba có được cùng một sự thần cảm và chiều sâu thuộc linh như thế hệ các lãnh đạo đầu tiên được, nhưng những người đi sau chắc chắn vẫn có những đóng góp đáng kể riêng.
 
-Nhằm bênh vực lý lẽ này, cũng có thể nói rằng các **Giáo phụ Tông đồ** là những người chân thành, tin kính, hết lòng nỗ lực giữ vững những nền tảng của đức tin trong bối cảnh đầy biến động và thử thách mới. Qua chứng từ của những con người rất đa dạng này, độc giả có thể nhận ra điều mà các Cơ Đốc nhân sốt sắng cho là giả dối, và điều họ xác nhận là chân thật.
+Nhằm bênh vực lý lẽ này, cũng có thể nói rằng các **Giáo phụ Tông đồ** là những người chân thành, tin kính, hết lòng nỗ lực giữ vững những nền tảng của đức tin trong bối cảnh đầy biến động và thử thách mới. Qua chứng từ của những con người rất đa dạng này, độc giả có thể nhận ra **điều mà các Cơ Đốc nhân sốt sắng cho là giả dối**, và điều họ **xác nhận là chân thật**.
 
-Dĩ nhiên, một phần nhiệt huyết của thời đại các sứ đồ đã phai nhạt, và Hội Thánh đầu tiên đang bắt đầu bước vào đời sống thường nhật trong một thế giới ngoại kiều. Trong hoàn cảnh ấy, người ta cần nói nhiều hơn đến lối sống đạo đức. Đây không phải là lúc đòi hỏi những tư tưởng sắc bén hay sáng tạo độc đáo, mà là lúc đòi hỏi sự trung tín cẩn trọng trong việc giữ nguyên vẹn giáo lý và thực hành Cơ Đốc. Dù các tín hữu thời ấy không phải lúc nào cũng đáp ứng cách khôn ngoan, nhưng họ vẫn công bố cùng một thông điệp căn bản, cùng một đức tin, cùng một Đấng Cứu Rỗi, và cùng một Đức Chúa Trời như các bậc tiền bối của mình.
+Dĩ nhiên, một phần nhiệt huyết của thời đại các sứ đồ đã phai nhạt, và Hội Thánh đầu tiên đang bắt đầu bước vào đời sống thường nhật trong một thế giới "ngoại kiều". Trong hoàn cảnh ấy, người ta cần nói nhiều hơn đến lối sống đạo đức. Đây không phải là lúc đòi hỏi những tư tưởng sắc bén hay sáng tạo độc đáo, mà là lúc đòi hỏi **sự trung tín cẩn trọng** trong việc **giữ nguyên vẹn giáo lý** và **thực hành Cơ Đốc**. Dù các tín hữu thời ấy không phải lúc nào cũng đáp ứng cách khôn ngoan, nhưng họ vẫn công bố cùng một thông điệp căn bản, cùng một đức tin, cùng một Đấng Cứu Rỗi, và cùng một Đức Chúa Trời như các bậc tiền bối của mình.
 
 > “Chúa Giê-xu, tôi tôn vinh Ngài, / Vì tôi yêu Ngài. / Hỡi Đấng Tối Cao, xin đừng bỏ rơi tôi, / Vì Ngài là hy vọng của tôi. / Ân điển của Ngài tôi nhận được tự do, / Nguyện sống theo ân điển ấy” (**Bài ca của Sa-lô-môn** 5.1–3).
 
-Các tác phẩm **Ngụy thư Tân Ước** có thể ít giá trị về mặt khen ngợi, nhưng chúng cũng thể hiện lòng sốt sắng tôn giáo và cung cấp cái nhìn sâu sắc về một số nhánh của Cơ Đốc giáo sơ khai, bên cạnh việc là nguồn sử liệu quý giá (không nhất thiết cho thời Tân Ước mà cho chính thời của chúng).
+Các tác phẩm **Ngụy thư Tân Ước** có thể có ít điều đáng khen ngợi hơn, nhưng chúng cũng thể hiện lòng sốt sắng về tôn giáo và cung cấp cái nhìn sâu sắc về một số nhánh của Cơ Đốc giáo sơ khai, bên cạnh việc là nguồn sử liệu quý giá (không nhất thiết cho thời Tân Ước mà cho chính thời của chúng).
 
 Một số học giả cho rằng **Phúc âm của Thô-ma** và **Phúc âm của Phi-e-rơ** lưu giữ những tài liệu sớm và quý giá về lời dạy của Chúa Giê-xu cũng như cách người đời hiểu về cái chết và sự phục sinh của Ngài.
 
