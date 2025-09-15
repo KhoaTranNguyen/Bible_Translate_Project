@@ -105,7 +105,7 @@ Những nhà biện giáo đầu tiên — như Quadratus và Aristides — xu�
 
 </div>
 
-#### Didache (khoảng 100 SCN, Syria)
+#### 1. Didache (khoảng 100 SCN, Syria)
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Didache.png" width="500">
@@ -127,7 +127,7 @@ Dù có thể đưa ra luận điểm cho rằng tác phẩm có nguồn gốc A
 
 Didache phản ánh mối quan tâm thường trực trong lịch sử Hội Thánh về việc tổ chức sinh hoạt cách đúng đắn—làm thế nào để điều chỉnh đời sống luân lý, sự thờ phượng, và cơ cấu Hội Thánh.
 
-#### Thư Barnabas (97/135 SCN?, Alexandria?)
+#### 2. Thư Barnabas (97/135 SCN?, Alexandria?)
 
 Song song với Didache trong sự dạy dỗ đạo đức của “Hai Con Đường” là **Thư Barnabas**, chỉ khác ở chỗ “Hai Con Đường” được đặt ở cuối thay vì đầu thư. Thư còn dùng thuật ngữ “đường sự sáng” và “đường sự tối tăm” (cũng gọi là “đường của Kẻ Đen Tối”). Đây là một luận giải được gửi dưới hình thức một bức thư.
 
@@ -155,7 +155,7 @@ Tác giả dường như đặc biệt hãnh diện với lối giải nghĩa �
 
 Lập trường cực đoan của tác giả khi **thiêng liêng hóa** Cựu Ước và phủ nhận nó cho dân Do Thái không hề được ai khác (trong số những người chúng ta biết đến) theo sau. Tuy vậy, Barnabas đã đại diện cho một cách giải quyết vấn đề còn tồn tại mãi: **Cựu Ước có thẩm quyền được Hội Thánh công nhận, nhưng đồng thời Hội Thánh lại không còn thấy cần thiết phải giữ các thiết chế tôn giáo của nó.**
 
-#### Thư thứ nhất của Clement (96?, Rô-ma)
+#### 3. Thư thứ nhất của Clement (96?, Rô-ma)
 
 **Thư thứ nhất của Clement** là tên được đặt cho bức thư từ “hội thánh của Đức Chúa Trời tạm trú tại **Rô-ma** gửi đến hội thánh của Đức Chúa Trời tạm trú tại **Cô-rinh-tô**.” Bức thư này được gán cho **Clement** trong các bản chép tay, và cũng được **Dionysius của Cô-rinh-tô** (khoảng năm 170) nhắc đến (Eusebius, *Lịch sử Hội thánh* 4.23.11). **Hermas** có đề cập đến một Clement ở Rô-ma, người có nhiệm vụ liên lạc với các hội thánh khác (*Khải tượng* 2.4.3). Tuy nhiên, Clement không viết dưới tên cá nhân mình; ông viết với tư cách một trưởng lão–giám mục, như người phát ngôn của hội thánh Rô-ma. Vì vậy, bức thư mang thẩm quyền cộng đồng (thay vì thẩm quyền sứ đồ hay giám mục).
 
@@ -215,7 +215,7 @@ Một số nội dung đáng chú ý trong bức thư:
 
 Một điểm thần học đáng chú ý là sự khẳng định về **hội thánh thiêng liêng** như **thân thể hiện hữu từ trước của Chúa Giê-xu Christ**. Bài giảng phản ánh mối bận tâm bền bỉ của Cơ Đốc Nhân về đời sống đạo đức, tức là **“sống một đời thánh khiết và công chính”** (Thư thứ hai của Clement 5).
 
-#### Hermas (100–155 SCN, Rô-ma)
+#### 4. Hermas (100–155 SCN, Rô-ma)
 
 Tác phẩm dài nhất trong nhóm Giáo phụ Tông đồ là **Người Chăn Chiên của Hermas** (*The Shepherd* hay *Pastor*), gồm ba phần: **Thị kiến (Visions)**, **Ngụ ngôn (Similitudes)**, và **Điều răn (Mandates)** do Hermas biên soạn. Tính thống nhất của tác phẩm này từng bị nghi ngờ, nhưng có lẽ cách giải thích tốt nhất là nó do **một tác giả duy nhất** chấp bút, hoạt động tại **Rô-ma** trong khoảng ba đến bốn thập niên đầu thế kỷ thứ hai (nên phản ánh nhiều bối cảnh khác nhau trong từng phần).
 
@@ -236,7 +236,7 @@ Vấn đề đặc biệt được quan tâm là: **làm gì khi phạm tội sa
 
 **Người Chăn Chiên của Hermas** phản ánh vấn nạn còn tiếp diễn trong lịch sử hội thánh: làm sao để Cơ Đốc Nhân **sống trong thế gian nhưng không thuộc về thế gian**, và khích lệ đời sống trung tín cho những người đã nguội lạnh tình yêu ban đầu.
 
-#### Ignatius – Giám mục An-ti-ốt, Syria (mất khoảng 117 SCN)
+#### 5. Ignatius – Giám mục An-ti-ốt, Syria (mất khoảng 117 SCN)
 
 **Ignatius**, giám mục tại **An-ti-ốt xứ Sy-ri**, đã viết **bảy bức thư chính thống** còn được lưu truyền, trong đó có một thư gởi hội thánh tại **Rô-ma**, khẩn cầu các Cơ Đốc Nhân ở đó **đừng can thiệp để cứu ông khỏi tử đạo**. Ignatius bị bắt dưới thời hoàng đế **Trajan** (98–117), và có lẽ vào cuối triều đại này, ông bị áp giải về **Rô-ma** để xử tử, có lẽ là một trong những tù nhân bị đem ra **cho thú dữ xé xác trong các cuộc chơi tại đấu trường** nhằm mua vui cho dân chúng.
 
@@ -300,7 +300,7 @@ Ignatius cũng là người **đầu tiên dùng chữ “Hội thánh phổ th�
 
 Các thư của Ignatius xử lý một vấn đề muôn thuở: **sự giải thích đức tin khác biệt** từ những người tách mình khỏi cộng đồng hội thánh địa phương. Giải pháp của ông là **củng cố cơ cấu tổ chức của hội thánh** – một con đường mà lịch sử hội thánh thường xuyên chọn đi theo, nhưng kết quả về **sự hiệp nhất thuộc linh** thì **vừa thành công vừa thất bại**.
 
-#### Polycarp (115/135 SCN, Smyrna)
+#### 6. Polycarp (115/135 SCN, Smyrna)
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Hosios_Loukas_%28diakonikon%29_-_Polycarp.jpg" width="500">
@@ -316,7 +316,7 @@ Bức thư còn tồn tại đến ngày nay mà Polycarp gửi tín hữu tại
 
 Polycarp thấm nhuần ngôn ngữ của Tân Ước đến nỗi bất cứ điều gì ông nói ra cũng được diễn đạt bằng chính ngôn từ ấy. Ông dệt những câu chữ từ các bức thư của Phao-lô, Phi-e-rơ, và Giăng vào bối cảnh mới để bày tỏ sứ điệp riêng của mình. Polycarp vẫn là hình ảnh tiêu biểu của người lãnh đạo Cơ Đốc đạo đức, đầy dẫy sự dạy dỗ của các sứ đồ và quan tâm đến đời sống công chính.
 
-#### Papias (khoảng 130 SCN, Hierapolis)
+#### 7. Papias (khoảng 130 SCN, Hierapolis)
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Papias.png" width="500">
@@ -378,21 +378,21 @@ Nhiều nội dung của sách Phúc Âm Lời phán của Thô-ma đã được
 | **Thư Tín**    | Thư của Các Sứ Đồ   |
 | **Khải Huyền** | Khải Huyền theo Phi-e-rơ |
 
-#### Phúc Âm Thô-ma
+#### 1. Phúc Âm Thô-ma
 Phúc Âm Thô-ma, không kèm theo bối cảnh tường thuật, trình bày một sưu tập sớm các lời phán của Chúa Giê-xu, thường tương tự với những lời được tìm thấy trong các sách Phúc Âm chính thống. Nhiều học giả xem cách diễn đạt này phản ánh một giai đoạn khá sớm trong tiến trình truyền khẩu các lời phán của Chúa Giê-xu. Các học giả Tân Ước từ lâu đã giả định sự tồn tại của một sưu tập sớm những lời phán của Chúa Giê-xu gọi là **Nguồn Q**, để giải thích chất liệu chung trong Ma-thi-ơ và Lu-ca. Thô-ma không phải là **Q**, nhưng nó cho thấy thực sự đã có những sưu tập lời phán của Chúa Giê-xu được lưu hành độc lập.
 
-#### Phúc Âm Phi-e-rơ
+#### 2. Phúc Âm Phi-e-rơ
 Phúc Âm của Phi-e-rơ là một tường thuật về cuộc Thương Khó. Ngay từ sớm, sách này đã bị các lãnh đạo Hội Thánh loại bỏ vì nghi ngờ có khuynh hướng Thuyết Ảo Thân (Docetic), nghĩa là trình bày một Đấng Christ không thật sự làm người nhưng chỉ “có vẻ như thế” (trong cuộc đóng đinh, Ngài “như thể chẳng cảm thấy đau đớn”). Có thể sách này không được viết ra với chủ đích cổ vũ quan điểm ấy, nhưng nó có thể được đọc như ủng hộ cách hiểu như vậy về Chúa Giê-xu.
 
-#### Tiền Phúc Âm Gia-cơ
+#### 3. Tiền Phúc Âm Gia-cơ
 Tiền Phúc Âm Gia-cơ (hay còn được biết đến là Ngụy thư Gia-cô-bê) liên quan đến sự Giáng Sinh của Chúa Giê-xu nhưng đặc biệt tập trung vào Ma-ri, nhấn mạnh sự đồng trinh vĩnh cửu của bà và trình bày Giô-sép như một người góa vợ với các con từ một cuộc hôn nhân trước đó. Tác phẩm này rất phổ biến và đã cung cấp thông tin cho sự phát triển sau này của các giáo lý về Ma-ri.
 
-#### Ngụy Kinh Công Vụ (Phi-e-rơ, Phao-lô, Giăng)
+#### 4. Ngụy Kinh Công Vụ (Phi-e-rơ, Phao-lô, Giăng)
 Các sách Ngụy kinh Công vụ, trong những câu chuyện về hành trình và cuộc phiêu lưu của các sứ đồ, có nhiều nét gần với tiểu thuyết Hy-La. Chúng đưa ra những tường thuật phóng đại về các phép lạ của các sứ đồ. Chủ đề về tình yêu trinh bạch của các anh hùng và nữ anh hùng trong các tiểu thuyết được đặt dưới một trọng tâm khổ hạnh mạnh mẽ trong các sách Ngụy kinh Công vụ. Sứ điệp phúc âm trở thành: “Ai tin và từ bỏ quan hệ tình dục thì sẽ được cứu.”
 
 Sách Công vụ Phi-e-rơ và Công vụ Phao-lô, cả hai đều chắc chắn có từ thế kỷ thứ hai, phản ánh những quan điểm cơ bản thuộc chính thống. Công vụ Giăng thì mang đậm sắc thái Ngộ giáo hơn (chương 5). Giống như Công vụ Giăng, Công vụ Anh-rê phản ánh nhị nguyên Ngộ giáo (thậm chí còn ít quan tâm đến những vấn đề Cơ Đốc hơn cả Công vụ Giăng) và có niên đại không chắc chắn, có thể thuộc thế kỷ thứ hai hoặc thứ ba. Công vụ Thô-ma, được lưu giữ trong tiếng Syriac và một bản Hy Lạp chỉnh sửa, thuộc thế kỷ thứ ba.
 
-#### Ngụy Kinh Thư Tín
+#### 5. Ngụy Kinh Thư Tín
 
 Các thư tín xuất hiện rất ít trong **Ngụy thư**. Việc dùng bút danh giả định hầu như ít được thử, hoặc nếu có thì cũng không thành công. Cái gọi là **Thư tín của các Sứ đồ** (khoảng năm 150 SCN) chỉ là một **“thư tín” theo nghĩa rộng**, tức là được cho là **do các sứ đồ gửi ra**.
 
@@ -400,7 +400,7 @@ Về mặt văn chương, đây là một **“sự mặc khải” sau sự ph�
 
 Một bức thư khác từ thế kỷ thứ hai là **Thư Cô-rinh-tô III**, được bao gồm trong **Công vụ của Phao-lô** nhưng lại được lưu hành độc lập, và có lẽ được viết trước cả **Công vụ của Phao-lô**. Nội dung của nó cũng mang tính **chống lại phái Ngộ đạo**.
 
-#### Ngụy Kinh Khải Huyền
+#### 6. Ngụy Kinh Khải Huyền
 
 Một sách khải huyền từ thế kỷ thứ hai là **Khải huyền theo Phi-e-rơ**. Nội dung mặc khải này bàn về các hình phạt dành cho nhiều loại tội nhân khác nhau trong đời sau. Đáng chú ý là tên của Phi-e-rơ xuất hiện rất nhiều trong các sách Ngụy thư Cơ Đốc giáo thời kỳ đầu: còn có một tác phẩm biện giáo được gọi là **Sự giảng dạy của Phi-e-rơ** (*the Preaching of Peter*), và một thành phần Do Thái-Cơ Đốc trong **Pseudo-Clementine** cũng được gọi là **Các sự giảng dạy của Phi-e-rơ**.
 
