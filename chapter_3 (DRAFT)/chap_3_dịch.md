@@ -86,7 +86,7 @@ Văn liệu ngoài Kinh điển của giai đoạn này có thể được phân
 
 “Giáo phụ Tông đồ” là tên gọi dành cho những tác phẩm chính thống sớm nhất không nằm trong Tân Ước. Tên gọi này xuất phát từ giả định rằng **các môn đồ của các sứ đồ** đã viết ra các tác phẩm ấy — **một giả định sai lầm** trong hầu hết, nếu không muốn nói là toàn bộ, các trường hợp. Đây là một nhóm được xếp loại mang tính nhân tạo, bao gồm nhiều thể loại văn học khác nhau và có sự chồng lấn với các loại phân loại khác.
 
-Didache và 1 Clement có đồng thời với những tác phẩm Tân Ước muộn hơn. Ngoài ra, thời kỳ của các Giáo phụ Tông đồ còn trùng với một số tác phẩm Tân Ước Ngụy Thư và Ngụy Kinh Tân Ước — chẳng hạn như Phúc Âm Thô-ma, Phúc Âm Phi-e-rơ, và có lẽ là cả Bài ca của Sa-lô-môn (*Odes of Solomon*). Hơn thế nữa, có lẽ thư Ba-na-ba (Barnabas) cũng là một tác phẩm mạo danh.
+Chẳng hạn như Didache và 1 Clement, đây là hai tác phẩm có đồng thời với những tác phẩm có trong kinh điển Tân Ước muộn. Ngoài ra, thời kỳ của các Giáo phụ Tông đồ còn trùng với niên đại của một số tác phẩm Tân Ước Ngụy Thư và Ngụy Kinh Tân Ước — chẳng hạn như Phúc Âm Thô-ma, Phúc Âm Phi-e-rơ, và có lẽ là cả Bài ca của Sa-lô-môn (*Odes of Solomon*). Hơn thế nữa, có lẽ thư Ba-na-ba (Barnabas) cũng là một tác phẩm mạo danh.
 
 Những nhà biện giáo đầu tiên — như Quadratus và Aristides — xuất hiện cùng thời với một số Giáo phụ Tông đồ, và tác phẩm biện giáo được biết đến dưới tên "Thư gửi Diognetus" đôi khi cũng được xếp vào nhóm các tác phẩm của các Giáo phụ Tông đồ (xem chương 4). Ngoài ra, còn có sự chồng lấn với các tường thuật về tử đạo, điển hình là tác phẩm "Sự Tử Đạo Polycarp" (chương 4), vốn cũng nói về một vị giáo phụ tông đồ.
 
