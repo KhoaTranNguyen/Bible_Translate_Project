@@ -219,7 +219,7 @@ Một điểm thần học đáng chú ý là sự khẳng định về **hội 
 
 #### 5. Hermas (100–155 SCN, Rô-ma)
 
-Tác phẩm dài nhất trong nhóm Giáo phụ Tông đồ là **Người Chăn Chiên của Hermas** (*The Shepherd* hay *Pastor*), gồm ba phần: **Thị kiến (Visions)**, **Ngụ ngôn (Similitudes)**, và **Điều răn (Mandates)** do Hermas biên soạn. Tính thống nhất của tác phẩm này từng bị nghi ngờ, nhưng có lẽ cách giải thích tốt nhất là nó do **một tác giả duy nhất** chấp bút, hoạt động tại **Rô-ma** trong khoảng ba đến bốn thập niên đầu thế kỷ thứ hai (nên phản ánh nhiều bối cảnh khác nhau trong từng phần).
+Tác phẩm dài nhất trong nhóm Giáo phụ Tông đồ là **Người Chăn Chiên của Hermas** (*The Shepherd* hay *Pastor*), gồm ba phần: **Khải tượng (Visions)**, **Ngụ ngôn (Similitudes)**, và **Điều răn (Mandates)** do Hermas biên soạn. Tính thống nhất của tác phẩm này từng bị nghi ngờ, nhưng có lẽ cách giải thích tốt nhất là nó do **một tác giả duy nhất** chấp bút, hoạt động tại **Rô-ma** trong khoảng ba đến bốn thập niên đầu thế kỷ thứ hai (nên phản ánh nhiều bối cảnh khác nhau trong từng phần).
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Good_shepherd_02b_close.jpg" width="500">
