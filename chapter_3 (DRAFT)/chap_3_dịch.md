@@ -181,10 +181,8 @@ Theo **Irenaeus**, Clement là người kế vị thứ ba của **Phi-e-rơ** t
 
 Nhiều nhà sử học Kháng Cách và một số nhà sử học Công Giáo La Mã đã nhận thấy rằng, vấn đề nảy sinh là do vào thời ấy trong Hội Thánh tại Rô-ma tồn tại **một tập thể các trưởng lão-giám mục (presbyter-bishops)**, chứ chưa có cơ cấu chỉ có **một giám mục đứng đầu**. Tuy nhiên, Irenaeus và những người khác đã chiếu những hình thức tổ chức sau này – tức chỉ có một giám mục cho mỗi hội thánh – ngược lại cho thời Clement [^2].
 
-##### 3.1. Tác giả:
 Tác giả có thể là một cựu nô lệ của gia tộc nghị sĩ La Mã **Clemens**, có khả năng là một người Ngoại bang cải đạo sang Do Thái giáo trước khi trở thành Cơ Đốc Nhân, hoặc một người Do Thái có học vấn Hy Lạp.
 
-##### 3.2. Hoàn cảnh ra đời:
 Hoàn cảnh của bức thư là sự chia rẽ trong hội thánh tại Cô-rinh-tô (người Cô-rinh-tô lại một lần nữa chia phe). Một số trưởng lão đã bị truất chức. Đây có phải là sự nổi loạn của lớp trẻ chống lại lớp già, hay một phong trào đầy ân tứ chống lại thẩm quyền cơ cấu? Những cách hiểu như vậy đã được nêu ra, nhưng bức thư thực ra chủ yếu đề cập đến **sự ganh tỵ** và **cạnh tranh cá nhân**.
 
 Việc tác giả thường xuyên nhắc đến phụ nữ trong các ví dụ và giáo huấn khiến người ta tự hỏi liệu phụ nữ có phải là thành phần nổi bật trong nhóm lãnh đạo sự nổi loạn này không. Sự can thiệp của hội thánh Rô-ma là nhằm làm dịu đi sự bất hòa trong hội thánh Cô-rinh-tô.
@@ -209,13 +207,13 @@ Một số nội dung đáng chú ý trong bức thư:
 
 **Thư thứ nhất của Clement** phản ánh vấn đề kéo dài trong lịch sử Hội thánh: **sự chia rẽ trong thân thể Đấng Christ**, và do đó, **nhấn mạnh nhu cầu cấp thiết** phải **cổ vũ sự hiệp một và hòa thuận**.
 
-#### Thư thứ hai của Clement (100/150 SCN, Cô-rinh-tô?)
+#### 4. Thư thứ hai của Clement (100/150 SCN, Cô-rinh-tô?)
 
 **Thư thứ hai của Clement** là một bài giảng khuyên dạy đạo đức. Dù được gắn liền với **Thư thứ nhất của Clement** trong truyền thống bản thảo, nhưng tác giả của nó lại khác hẳn, và cũng không được biết rõ danh tính. Có rất ít dữ liệu để xác định niên đại, song nhiều khả năng thuộc giai đoạn đầu đến giữa thế kỷ thứ hai, và nơi chép có thể là **Rô-ma**, **Alexandria**, hoặc (có phần thiên về) **Cô-rinh-tô**. Bài giảng này được trình bày bởi một giáo sư hoặc người đọc Kinh Thánh trong hội thánh, với chủ đề **ăn năn**.
 
 Một điểm thần học đáng chú ý là sự khẳng định về **hội thánh thiêng liêng** như **thân thể hiện hữu từ trước của Chúa Giê-xu Christ**. Bài giảng phản ánh mối bận tâm bền bỉ của Cơ Đốc Nhân về đời sống đạo đức, tức là **“sống một đời thánh khiết và công chính”** (Thư thứ hai của Clement 5).
 
-#### 4. Hermas (100–155 SCN, Rô-ma)
+#### 5. Hermas (100–155 SCN, Rô-ma)
 
 Tác phẩm dài nhất trong nhóm Giáo phụ Tông đồ là **Người Chăn Chiên của Hermas** (*The Shepherd* hay *Pastor*), gồm ba phần: **Thị kiến (Visions)**, **Ngụ ngôn (Similitudes)**, và **Điều răn (Mandates)** do Hermas biên soạn. Tính thống nhất của tác phẩm này từng bị nghi ngờ, nhưng có lẽ cách giải thích tốt nhất là nó do **một tác giả duy nhất** chấp bút, hoạt động tại **Rô-ma** trong khoảng ba đến bốn thập niên đầu thế kỷ thứ hai (nên phản ánh nhiều bối cảnh khác nhau trong từng phần).
 
@@ -236,12 +234,12 @@ Vấn đề đặc biệt được quan tâm là: **làm gì khi phạm tội sa
 
 **Người Chăn Chiên của Hermas** phản ánh vấn nạn còn tiếp diễn trong lịch sử hội thánh: làm sao để Cơ Đốc Nhân **sống trong thế gian nhưng không thuộc về thế gian**, và khích lệ đời sống trung tín cho những người đã nguội lạnh tình yêu ban đầu.
 
-#### 5. Ignatius – Giám mục An-ti-ốt, Syria (mất khoảng 117 SCN)
+#### 6. Ignatius – Giám mục An-ti-ốt, Syria (mất khoảng 117 SCN)
 
 **Ignatius**, giám mục tại **An-ti-ốt xứ Sy-ri**, đã viết **bảy bức thư chính thống** còn được lưu truyền, trong đó có một thư gởi hội thánh tại **Rô-ma**, khẩn cầu các Cơ Đốc Nhân ở đó **đừng can thiệp để cứu ông khỏi tử đạo**. Ignatius bị bắt dưới thời hoàng đế **Trajan** (98–117), và có lẽ vào cuối triều đại này, ông bị áp giải về **Rô-ma** để xử tử, có lẽ là một trong những tù nhân bị đem ra **cho thú dữ xé xác trong các cuộc chơi tại đấu trường** nhằm mua vui cho dân chúng.
 
 <p align="center">
-  <img src="https://oknovmir.eu/images/phocagallery/Bild/Art/Rome/P1170693_1.jpg" width="500">
+  <img src="https://oknovmir.eu/images/phocagallery/Bild/Art/Rome/P1170693_1.jpg">
 </p>
 
 <p align="center">
@@ -300,7 +298,7 @@ Ignatius cũng là người **đầu tiên dùng chữ “Hội thánh phổ th�
 
 Các thư của Ignatius xử lý một vấn đề muôn thuở: **sự giải thích đức tin khác biệt** từ những người tách mình khỏi cộng đồng hội thánh địa phương. Giải pháp của ông là **củng cố cơ cấu tổ chức của hội thánh** – một con đường mà lịch sử hội thánh thường xuyên chọn đi theo, nhưng kết quả về **sự hiệp nhất thuộc linh** thì **vừa thành công vừa thất bại**.
 
-#### 6. Polycarp (115/135 SCN, Smyrna)
+#### 7. Polycarp (115/135 SCN, Smyrna)
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Hosios_Loukas_%28diakonikon%29_-_Polycarp.jpg" width="500">
@@ -316,7 +314,7 @@ Bức thư còn tồn tại đến ngày nay mà Polycarp gửi tín hữu tại
 
 Polycarp thấm nhuần ngôn ngữ của Tân Ước đến nỗi bất cứ điều gì ông nói ra cũng được diễn đạt bằng chính ngôn từ ấy. Ông dệt những câu chữ từ các bức thư của Phao-lô, Phi-e-rơ, và Giăng vào bối cảnh mới để bày tỏ sứ điệp riêng của mình. Polycarp vẫn là hình ảnh tiêu biểu của người lãnh đạo Cơ Đốc đạo đức, đầy dẫy sự dạy dỗ của các sứ đồ và quan tâm đến đời sống công chính.
 
-#### 7. Papias (khoảng 130 SCN, Hierapolis)
+#### 8. Papias (khoảng 130 SCN, Hierapolis)
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Papias.png" width="500">
