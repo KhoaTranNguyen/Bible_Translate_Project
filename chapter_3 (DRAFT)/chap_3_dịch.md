@@ -60,7 +60,7 @@ Có một số Cơ Đốc nhân Do Thái khác, đôi khi được gọi là Naz
 
 ### C. Nhánh Elkesaites
 
-Một số Cơ Đốc nhân Do Thái khác lại hấp thụ các khuynh hướng Ngộ giáo (ở chương 5). Điều này được phản ánh nơi nhóm gọi là Elkesaites. Có một tiên tri tên là Elkesai, người này có liên hệ đến một quyển sách khải thị xuất hiện vào những năm đầu thế kỷ thứ hai. Bộ Cologne Mani Codex cũng kể lại rằng Mani, người sáng lập phong trào Manichaeism vào thế kỷ thứ ba, đã lớn lên trong một cộng đồng Elkesaite. Vì vậy, nó đã thiết lập một mối liên kết giữa các ý tưởng của họ cùng với sự phát triển sau này trong tư tưởng Ngộ giáo gắn liền với Mani.
+Một số Cơ Đốc nhân Do Thái khác lại hấp thụ các khuynh hướng Ngộ giáo (ở chương 5). Điều này được phản ánh nơi nhóm gọi là Elkesaites. Có một tiên tri tên là Elkesai, người này có liên hệ đến một quyển sách khải thị xuất hiện vào những năm đầu thế kỷ thứ hai. Bộ Cologne Mani Codex cũng kể lại rằng Mani, người sáng lập phong trào Manichaeism vào thế kỷ III, đã lớn lên trong một cộng đồng Elkesaite, qua đó cho thấy mối liên hệ giữa tư tưởng của họ và sự phát triển sau này của Ngộ giáo gắn với Mani.
 
 ### D. Các yếu tố Do Thái khác
 
