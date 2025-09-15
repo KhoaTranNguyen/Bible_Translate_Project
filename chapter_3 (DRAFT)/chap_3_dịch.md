@@ -28,8 +28,13 @@ Vì vậy, sự khước từ lẫn nhau giữa phần đông tín hữu Ngoại
 
 Eusebius, sử gia Hội Thánh thế kỷ thứ tư, ghi lại rằng trong cuộc Chiến tranh Do Thái–La Mã (66–70 SCN), các Cơ Đốc nhân ở Giê-ru-sa-lem đã chạy sang Pella, bên kia sông Jordan. Tính xác thực của tường thuật này có bị nghi vấn, và có thể có những chi tiết không chính xác; nhưng có lý do vững chắc để chấp nhận rằng đã có một cuộc chạy trốn của các Cơ Đốc nhân khỏi Giê-ru-sa-lem, và một số người đã quay lại sau chiến tranh.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/David_Roberts_-_The_Siege_and_Destruction_of_Jerusalem_by_the_Romans_Under_the_Command_of_Titus%2C_A.D._70.jpg/1920px-David_Roberts_-_The_Siege_and_Destruction_of_Jerusalem_by_the_Romans_Under_the_Command_of_Titus%2C_A.D._70.jpg)
-*(Hình: Sự vây hãm và phá hủy thành Giê-ru-sa-lem, David Roberts (1850))*
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/David_Roberts_-_The_Siege_and_Destruction_of_Jerusalem_by_the_Romans_Under_the_Command_of_Titus%2C_A.D._70.jpg/1920px-David_Roberts_-_The_Siege_and_Destruction_of_Jerusalem_by_the_Romans_Under_the_Command_of_Titus%2C_A.D._70.jpg" width="500">
+</p>
+
+<p align="center">
+  <em>Hình: Sự vây hãm và phá hủy thành Giê-ru-sa-lem, David Roberts (1850).</em>
+</p>
 
 Vào một thời điểm nào đó trước cuối thế kỷ thứ nhất, dù chi tiết nay không thể xác định, nhiều hội đường Do Thái đã thực hiện những biện pháp loại bỏ hoàn toàn sự hiện diện của Cơ Đốc nhân, nếu có còn sót lại. Các Cơ Đốc nhân Do Thái bị loại khỏi hội đường, đồng thời cũng không được các Hội Thánh Ngoại bang chấp nhận, vì các Hội Thánh này đang tự tách biệt khỏi những tập tục Do Thái trong khi vẫn nhận Kinh Thánh Do Thái làm cơ nghiệp cho chính mình. Khi La Mã cấm người Do Thái vào Giê-ru-sa-lem sau năm 135 SCN, thì chính Hội Thánh tại Palestine cũng đã trở nên phần lớn là tín hữu Ngoại bang.
 
@@ -85,21 +90,30 @@ Didache và 1 Clement có niên đại trùng lắp với những tác phẩm T�
 
 Những nhà biện giáo đầu tiên — như Quadratus và Aristides — xuất hiện cùng thời với một số Giáo phụ Tông đồ, và tác phẩm biện giáo được biết đến dưới tên "Thư gửi Diognetus" đôi khi cũng được xếp vào nhóm các tác phẩm của các Giáo phụ Tông đồ (xem chương 4). Ngoài ra, còn có sự chồng lấn với các tường thuật về tử đạo, điển hình là tác phẩm "Sự Tử Đạo Polycarp" (chương 4), vốn cũng nói về một vị giáo phụ tông đồ.
 
+<div align="center">
+
 | Tác phẩm  | Niên đại       | Địa phương       | Thể loại văn học    |
-| --------- | -------------- | ---------------- | ------------------- |
+|:---------:|:--------------:|:----------------:|:-------------------:|
 | Didache   | khoảng 100     | Syria            | Giáo luật Hội Thánh |
 | Barnabas  | 97/135?        | Alexandria?      | Thư – luận giải     |
-| 1 Clement | 96?            | Rô-ma             | Thư – luận giải     |
-| 2 Clement | 100/150        | Cô-rinh-tô?         | Bài giảng           |
-| Hermas    | 100–155        | Rô-ma             | Khải Huyền          |
+| 1 Clement | 96?            | Rô-ma            | Thư – luận giải     |
+| 2 Clement | 100/150        | Cô-rinh-tô?      | Bài giảng           |
+| Hermas    | 100–155        | Rô-ma            | Khải Huyền          |
 | Ignatius  | mất khoảng 117 | An-ti-ốt (Syria) | Các thư             |
 | Polycarp  | 115/135        | Smyrna           | Thư                 |
 | Papias    | khoảng 130     | Hierapolis       | Giải nghĩa          |
 
+</div>
+
 #### Didache (khoảng 100 SCN, Syria)
 
-![](https://upload.wikimedia.org/wikipedia/commons/d/d7/Didache.png)
-*(Hình Bản thảo Didache)*
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Didache.png" width="500">
+</p>
+
+<p align="center">
+  <em>Hình: Bản thảo Didache.</em>
+</p>
 
 Didache là một cẩm nang về đời sống Hội Thánh gồm ba phần: “Hai Con Đường” — sự sống và sự chết, trình bày các giáo huấn luân lý dành cho tân tín hữu. Cụ thể hơn, **Didache** gồm nhiều phần: các chỉ dẫn về báp-tem, kiêng ăn, cầu nguyện, Tiệc Thánh, cách đối xử với những nhà tiên tri và giáo sư lữ hành, sự nhóm ngày Chúa nhật, và việc chọn lựa các nhà lãnh đạo địa phương; và kết thúc bằng một phần kết luận mang tính **lai thế học**.
 
@@ -117,8 +131,13 @@ Didache phản ánh mối quan tâm thường trực trong lịch sử Hội Th�
 
 Song song với Didache trong sự dạy dỗ đạo đức của “Hai Con Đường” là **Thư Barnabas**, chỉ khác ở chỗ “Hai Con Đường” được đặt ở cuối thay vì đầu thư. Thư còn dùng thuật ngữ “đường sự sáng” và “đường sự tối tăm” (cũng gọi là “đường của Kẻ Đen Tối”). Đây là một luận giải được gửi dưới hình thức một bức thư.
 
-![](https://upload.wikimedia.org/wikipedia/commons/4/4a/Sinaiticus_text.jpg)
-*(Hình: Bản chép tay Codex Sinaiticus, bức thư "Thư của Barnabas" nằm dưới tiêu đề ΒΑΡΝΑΒΑ ΕΠΙΣΤΟΛΗ (Bức thư của Barnabas), bắt đầu từ tập 91, trang 2r, cột 2.)*
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Sinaiticus_text.jpg" width="500">
+</p>
+
+<p align="center">
+  <em>Hình: Bản chép tay Codex Sinaiticus, bức thư "Thư của Barnabas" nằm dưới tiêu đề ΒΑΡΝΑΒΑ ΕΠΙΣΤΟΛΗ (Bức thư của Barnabas), bắt đầu từ tập 91, trang 2r, cột 2.</em>
+</p>
 
 Barnabas thường được định niên đại quanh năm 135 SCN, và đây có lẽ là luận điểm hợp lý, dù các luận cứ cho niên đại này (hay bất cứ niên đại nào khác) vẫn còn một số vấn đề nằm trong chúng. **Không rõ danh tính tác giả**; và cả niên đại lẫn nội dung đều cho thấy đây không thể nào là Ba-na-ba mà chúng ta biết, tức người đồng hành của Phao-lô.
 
@@ -136,15 +155,17 @@ Tác giả dường như đặc biệt hãnh diện với lối giải nghĩa �
 
 Lập trường cực đoan của tác giả khi **thiêng liêng hóa** Cựu Ước và phủ nhận nó cho dân Do Thái không hề được ai khác (trong số những người chúng ta biết đến) theo sau. Tuy vậy, Barnabas đã đại diện cho một cách giải quyết vấn đề còn tồn tại mãi: **Cựu Ước có thẩm quyền được Hội Thánh công nhận, nhưng đồng thời Hội Thánh lại không còn thấy cần thiết phải giữ các thiết chế tôn giáo của nó.**
 
-![](https://www.walksinrome.com/uploads/2/5/1/0/25107996/st-peter-st-clement-a-detail-of-the-12th-century-mosaic-in-the-apse-of-the-church-of-san-clemente-rome_orig.jpeg)
-*(Hình: Bức tranh ghép khảm Phi-e-rơ và Clement (khoảng năm 1125) trong Vương cung thánh đường San Clemente, tại Rô-ma.)*
-
 #### Thư thứ nhất của Clement (96?, Rô-ma)
 
 **Thư thứ nhất của Clement** là tên được đặt cho bức thư từ “hội thánh của Đức Chúa Trời tạm trú tại **Rô-ma** gửi đến hội thánh của Đức Chúa Trời tạm trú tại **Cô-rinh-tô**.” Bức thư này được gán cho **Clement** trong các bản chép tay, và cũng được **Dionysius của Cô-rinh-tô** (khoảng năm 170) nhắc đến (Eusebius, *Lịch sử Hội thánh* 4.23.11). **Hermas** có đề cập đến một Clement ở Rô-ma, người có nhiệm vụ liên lạc với các hội thánh khác (*Khải tượng* 2.4.3). Tuy nhiên, Clement không viết dưới tên cá nhân mình; ông viết với tư cách một trưởng lão–giám mục, như người phát ngôn của hội thánh Rô-ma. Vì vậy, bức thư mang thẩm quyền cộng đồng (thay vì thẩm quyền sứ đồ hay giám mục).
 
-![](https://upload.wikimedia.org/wikipedia/commons/d/d5/Clemens_Romanus.jpg)
-*(Hình: Clement thành Rô-ma. Tranh khảm đá tại Thánh đường Thánh Sophia ở Kyiv, thế kỷ XI.)*
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Clemens_Romanus.jpg" width="500">
+</p>
+
+<p align="center">
+  <em>Hình: Clement thành Rô-ma. Tranh khảm đá tại Thánh đường Thánh Sophia ở Kyiv, thế kỷ XI.</em>
+</p>
 
 Thời điểm viết thường được gán vào triều đại của **Domitian** [^1], khoảng năm 96, nhưng điều này không chắc chắn, vì có người cho rằng bức thư có thể được viết sớm hơn, khoảng năm 70.
 
@@ -152,8 +173,13 @@ Theo **Irenaeus**, Clement là người kế vị thứ ba của **Phi-e-rơ** t
 
 Nhiều nhà sử học Kháng Cách và một số nhà sử học Công Giáo La Mã đã nhận thấy rằng, vấn đề nảy sinh là do vào thời ấy trong Hội Thánh tại Rô-ma tồn tại **một tập thể các trưởng lão-giám mục (presbyter-bishops)**, chứ chưa có cơ cấu chỉ có **một giám mục đứng đầu**. Tuy nhiên, Irenaeus và những người khác đã chiếu những hình thức tổ chức sau này – tức chỉ có một giám mục cho mỗi hội thánh – ngược lại cho thời Clement [^2].
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Saint_irenee_saint_irenee.jpg/800px-Saint_irenee_saint_irenee.jpg)
-*(Hình: Irenaeus thành Lyon. Kính màu của Lucien Bégule (1901), Nhà thờ St. Irenaeus.)*
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Saint_irenee_saint_irenee.jpg/800px-Saint_irenee_saint_irenee.jpg" width="500">
+</p>
+
+<p align="center">
+  <em>Hình: Irenaeus thành Lyon. Kính màu của Lucien Bégule (1901), Nhà thờ St. Irenaeus.</em>
+</p>
 
 ##### Tác giả:
 Tác giả có thể là một cựu nô lệ của gia tộc nghị sĩ La Mã **Clemens**, có khả năng là một người Ngoại bang cải đạo sang Do Thái giáo trước khi trở thành Cơ Đốc Nhân, hoặc một người Do Thái có học vấn Hy Lạp.
@@ -193,8 +219,13 @@ Một điểm thần học đáng chú ý là sự khẳng định về **hội 
 
 Tác phẩm dài nhất trong nhóm Giáo phụ Tông đồ là **Người Chăn Chiên của Hermas** (*The Shepherd* hay *Pastor*), gồm ba phần: **Thị kiến (Visions)**, **Ngụ ngôn (Similitudes)**, và **Điều răn (Mandates)** do Hermas biên soạn. Tính thống nhất của tác phẩm này từng bị nghi ngờ, nhưng có lẽ cách giải thích tốt nhất là nó do **một tác giả duy nhất** chấp bút, hoạt động tại **Rô-ma** trong khoảng ba đến bốn thập niên đầu thế kỷ thứ hai (nên phản ánh nhiều bối cảnh khác nhau trong từng phần).
 
-![](https://upload.wikimedia.org/wikipedia/commons/c/ce/Good_shepherd_02b_close.jpg)
-*(Hình: “Người Chăn Chiên của Hermas” hay “Người Chăn Hiền Lành”, thế kỷ III, Hầm mộ Rôma.)*
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Good_shepherd_02b_close.jpg" width="500">
+</p>
+
+<p align="center">
+  <em>Hình: “Người Chăn Chiên của Hermas” hay “Người Chăn Hiền Lành”, thế kỷ III, Hầm mộ Rôma.</em>
+</p>
 
 > *“Các sứ đồ đã nhận Phúc Âm cho chúng ta từ Chúa Giê-xu Christ; Chúa Giê-xu Christ được sai đến từ Đức Chúa Trời. … \[Các sứ đồ] rao giảng từng vùng, từng thành, và chỉ định những người tin đầu tiên, sau khi được Đức Thánh Linh thử nghiệm, làm giám mục và chấp sự cho những kẻ sẽ tin. … Sau đó, họ cũng đặt luật rằng nếu những người được chỉ định qua đời, thì những người khác đã được thử nghiệm phải kế vị chức vụ ấy.”*
 > *(Thư thứ nhất của Clement 42, 44)*
@@ -209,11 +240,21 @@ Vấn đề đặc biệt được quan tâm là: **làm gì khi phạm tội sa
 
 **Ignatius**, giám mục tại **An-ti-ốt xứ Sy-ri**, đã viết **bảy bức thư chính thống** còn được lưu truyền, trong đó có một thư gởi hội thánh tại **Rô-ma**, khẩn cầu các Cơ Đốc Nhân ở đó **đừng can thiệp để cứu ông khỏi tử đạo**. Ignatius bị bắt dưới thời hoàng đế **Trajan** (98–117), và có lẽ vào cuối triều đại này, ông bị áp giải về **Rô-ma** để xử tử, có lẽ là một trong những tù nhân bị đem ra **cho thú dữ xé xác trong các cuộc chơi tại đấu trường** nhằm mua vui cho dân chúng.
 
-![](https://oknovmir.eu/images/phocagallery/Bild/Art/Rome/P1170693_1.jpg)
-*(Hình: Đấu trường Flavian – Colosseum tại Rô-ma, nơi theo truyền thống, nhiều Cơ Đốc Nhân, có thể kể cả Ignatius, đã tử vì đạo.)*
+<p align="center">
+  <img src="https://oknovmir.eu/images/phocagallery/Bild/Art/Rome/P1170693_1.jpg" width="500">
+</p>
 
-![](https://upload.wikimedia.org/wikipedia/commons/5/56/Ignatius_of_Antiochie%2C_poss._by_Johann_Apakass_%2817th_c.%2C_Pushkin_museum%29.jpg)
-*(Hình: Ignatius thành An-ti-ốt, có thể do Johann Apakass thực hiện (thế kỷ XVII, Bảo tàng Pushkin))*
+<p align="center">
+  <em>Hình: Đấu trường Flavian – Colosseum tại Rô-ma, nơi theo truyền thống, nhiều Cơ Đốc Nhân, có thể kể cả Ignatius, đã tử vì đạo.</em>
+</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Ignatius_of_Antiochie%2C_poss._by_Johann_Apakass_%2817th_c.%2C_Pushkin_museum%29.jpg" width="500">
+</p>
+
+<p align="center">
+  <em>Hình: Ignatius thành An-ti-ốt (thế kỷ XVII, Bảo tàng Pushkin).</em>
+</p>
 
 Trên đường qua Tiểu Á, Ignatius viết **bốn thư từ Smyrna** (gửi các hội thánh Ê-phê-sô, Magnesia, Tralles tại Châu Á, và Rô-ma) và **ba thư từ Troas** (gửi các hội thánh Phi-la-đen-phi, Smyrna, và Polycarp – giám mục Smyrna). Về sau, bảy thư này bị thêm thắt và kèm theo sáu thư giả khác vào thế kỷ thứ tư, khiến hình thức phóng đại đó được biết đến lâu dài, cho đến khi các học giả hiện đại phục hồi bản gốc.
 
@@ -221,8 +262,13 @@ Số **bảy** có ý nghĩa đặc biệt trong truyền thống thư tín th�
 
 Ignatius tự xưng là **Theophorus** (“người mang Đức Chúa Trời”). Theo truyền thống, ông là giám mục thứ ba của An-ti-ốt, sau Phi-e-rơ và một người tên Evodius. **Việc chỉ còn nhớ được một cái tên giữa ông và sự hiện diện của Phi-e-rơ tại An-ti-ốt** cho thấy **phải đến cuối thế kỷ thứ nhất**, mô hình **một giám mục duy nhất lãnh đạo hội thánh tại An-ti-ốt** mới hình thành.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hosios_Loukas_%28south_west_chapel%2C_south_side%29_-_Ignatios.jpg/800px-Hosios_Loukas_%28south_west_chapel%2C_south_side%29_-_Ignatios.jpg)
-*(Hình: Bích họa Ignatius tại nhà nguyện tây nam của tu viện Hosios Loukas.)*
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hosios_Loukas_%28south_west_chapel%2C_south_side%29_-_Ignatios.jpg/800px-Hosios_Loukas_%28south_west_chapel%2C_south_side%29_-_Ignatios.jpg" width="500">
+</p>
+
+<p align="center">
+  <em>Hình: Bích họa Ignatius tại nhà nguyện tây nam của tu viện Hosios Loukas.</em>
+</p>
 
 Phong cách **nhiệt huyết, giàu tưởng tượng** của Ignatius trái ngược với **sự chín chắn, thực tế** trong **Thư thứ nhất của Clement**. Hai nhân vật Tông phụ có ảnh hưởng lớn nhất này có thể xem như đại diện cho hai xu hướng:
 * **Clement** tiêu biểu cho **tinh thần trật tự và hiệp nhất thực tiễn** đặc trưng của giáo hội Công giáo.
@@ -256,8 +302,13 @@ Các thư của Ignatius xử lý một vấn đề muôn thuở: **sự giải 
 
 #### Polycarp (115/135 SCN, Smyrna)
 
-![](https://upload.wikimedia.org/wikipedia/commons/b/bb/Hosios_Loukas_%28diakonikon%29_-_Polycarp.jpg)
-*(Hình: Biểu tượng Polycarp tại tu viện Hosios Loukas ở Boeotia, Hy Lạp.)*
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Hosios_Loukas_%28diakonikon%29_-_Polycarp.jpg" width="500">
+</p>
+
+<p align="center">
+  <em>Hình: Biểu tượng Polycarp tại tu viện Hosios Loukas ở Boeotia, Hy Lạp.</em>
+</p>
 
 Polycarp, giám mục của Smyrna, đã nhận một trong những bức thư của Ignatius và viết thư của chính mình gửi cho các tín hữu tại Phi-líp, một phần để đáp lại lời thỉnh cầu của họ về việc xin bản sao các bức thư của Ignatius. Ông cũng viết cho họ để dạy dỗ về sự **“công chính”**, bàn đến những **phẩm chất của đời sống Cơ Đốc Nhân**. Polycarp còn nhắc đến một vấn đề nội bộ tại Phi-líp liên quan đến một trưởng lão tên Valens, người đã sa ngã trước cám dỗ của lòng tham.
 
@@ -267,8 +318,13 @@ Polycarp thấm nhuần ngôn ngữ của Tân Ước đến nỗi bất cứ đ
 
 #### Papias (khoảng 130 SCN, Hierapolis)
 
-![](https://upload.wikimedia.org/wikipedia/commons/6/63/Papias.png)
-*(Hình: Papias thành Hierapolis, từ Biên niên sử Nuremberg.)*
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Papias.png" width="500">
+</p>
+
+<p align="center">
+  <em>Hình: Papias thành Hierapolis, từ Biên niên sử Nuremberg.</em>
+</p>
 
 Papias của thành Hierapolis đã viết năm cuốn *Giải Thích Các Lời Phán Của Chúa* (Explanations of the Oracles of the Lord, khoảng năm 130 SCN), nay đã thất lạc và chỉ được biết đến qua một số ít trích dẫn từ các tác giả sau này. Người ta đặc biệt chú ý đến lời chứng của ông rằng **Ma-thi-ơ đã viết Phúc Âm của mình** nguyên bản bằng **tiếng Hê-bơ-rơ**, và rằng **Mác đã trung thành ghi lại sự giảng dạy của Phi-e-rơ** (nhưng không theo thứ tự). Ông cũng có khả năng đã làm chứng cho Phúc Âm Giăng (và ngầm cho cả Lu-ca) nữa.
 
@@ -286,8 +342,13 @@ Một số tác phẩm Ngụy thư dường như được viết nhằm mục đ
 
 Tất cả các tác phẩm Ngụy thư đều có giá trị trong việc phản ánh các tư tưởng phổ biến vào thời điểm chúng được sáng tác, mặc dù chính việc xác định niên đại thường rất khó khăn. Phần bàn luận dưới đây được giới hạn ở những tác phẩm nhìn chung được cho là có cơ sở vững chắc nhất để gán cho niên đại thế kỷ II.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Codex_Tchacos_p33.jpg/800px-Codex_Tchacos_p33.jpg)
-*(Hình: Trang đầu tiên của Phúc Âm theo Giu-đa (trang 33 của Codex Tchacos).)*
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Codex_Tchacos_p33.jpg/800px-Codex_Tchacos_p33.jpg" width="500">
+</p>
+
+<p align="center">
+  <em>Hình: Trang đầu tiên của Phúc Âm theo Giu-đa (trang 33 của Codex Tchacos).</em>
+</p>
 
 Các ranh giới giữa chính thống và dị giáo không được nhận thức rõ ràng trong những vòng tròn mà một số tác phẩm này phát xuất. Chúng nhắc nhở rằng những sự sai lệch khỏi đức tin của các sứ đồ thường xảy ra trong lòng mộ đạo bình dân cũng như trong những suy luận thần học.
 
@@ -297,9 +358,13 @@ Các sách Phúc Âm ngụy kinh phản ánh những dạng chất liệu đư�
 
 Nhiều nội dung của sách Phúc Âm Lời phán của Thô-ma đã được biết đến, nhưng không có nhan đề, trong **ba mảnh thủ bản Hy Lạp**. **Văn bản Coptic** nằm trong **bộ sưu tập các codex được tìm thấy tại Nag Hammadi ở Thượng Ai Cập** đã cung cấp **phần văn bản** và **nhan đề còn thiếu**. Vì xuất hiện chung trong các **codex Nag Hammadi**, sách Phúc Âm này đã được mô tả như có **tính chất Ngộ giáo**, và nó quả thực có thể bị giải thích theo **hướng Ngộ giáo**, nhưng tác phẩm này có lẽ nên được mô tả chính xác hơn là **khổ hạnh** (xem chương 5) hay rộng hơn là **khắc kỷ**.
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png" width="500">
+</p>
 
-![](https://upload.wikimedia.org/wikipedia/commons/4/42/El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png)
-*(Hình: Phúc Âm Thô-ma, được tìm thấy trong bộ sưu tập Nag Hammadi (hiện lưu giữ tại Bảo tàng Coptic, Cairo).)*
+<p align="center">
+  <em>Hình: Phúc Âm Thô-ma, được tìm thấy trong bộ sưu tập Nag Hammadi (hiện lưu giữ tại Bảo tàng Coptic, Cairo).</em>
+</p>
 
 **MỘT SỐ NGỤY KINH TÂN ƯỚC THẾ KỶ II**
 | **Thể loại**   | **Tác phẩm**        |
@@ -375,44 +440,11 @@ Trong các tác phẩm khác, **Bài ca của Sa-lô-môn** phản ánh một đ
 
 [^1]: **“Triều đại Domitian”** ở đây chỉ thời kỳ trị vì của Hoàng đế Domitian (Titus Flavius Domitianus), vị hoàng đế cuối cùng của vương triều Flavius trong Đế quốc La Mã (81-96 SCN).
 
-[^2]: **Thực tế ban đầu (thế kỷ I)**:
-    * Các hội thánh Cơ Đốc Nhân đầu tiên (kể cả ở Rô-ma) thường được lãnh đạo bởi một tập thể **“presbyter-bishops”** (tạm dịch: các trưởng lão–giám mục).
+[^2]: Khi viết Against Heresies (thế kỷ II, khoảng năm 180 SCN), Irenaeus đưa ra danh sách các Giám mục Rô-ma kế vị từ Phi-e-rơ (**Linus, Anacletus, Clement, v.v.**). Ông muốn cho thấy rằng lẽ thật của đức tin được gìn giữ liên tục, có thể lần ngược trở lại qua **hàng ngũ những người lãnh đạo Hội Thánh**, đối lập với các nhóm rao giảng sự sai lạc.
+    Tuy nhiên, Irenaeus và một số người khác đã “đọc ngược” (read back) mô hình tổ chức thế kỷ II–III (chỉ có một giám mục lãnh đạo ở mỗi thành phố) và giả định điều đó vào thế kỷ I. **Họ giả định rằng** ngay từ đầu, Hội Thánh Rô-ma đã có một **Giám mục duy nhất** thay vì một tập thể **presbyter-bishops**. Điều này tạo ra **sự khó khăn cho các sử gia**: danh sách các “Giám mục đầu tiên” có vẻ liền mạch, nhưng thực tế lịch sử có thể phức tạp hơn.
 
-    * Lúc đó, từ ***presbyteros*** (trưởng lão) và ***episkopos*** (giám thị/giám mục) chưa phân biệt rạch ròi như sau này. Có thể coi họ như **một nhóm lãnh đạo tập thể**, chứ chưa có khái niệm **“một giám mục duy nhất”** quản lý cả hội thánh.
 
-    * Khi viết Against Heresies (thế kỷ II, khoảng năm 180 SCN), Irenaeus đưa ra danh sách các Giám mục Rô-ma kế vị từ Phi-e-rơ (**Linus, Anacletus, Clement, v.v.**). Ông muốn cho thấy rằng lẽ thật của đức tin được gìn giữ liên tục, có thể lần ngược trở lại qua **hàng ngũ những người lãnh đạo Hội Thánh**, đối lập với các nhóm rao giảng sự sai lạc.
-
-    ⚠️ Tuy nhiên:
-
-    - Irenaeus và một số người khác đã “đọc ngược” (read back) mô hình tổ chức thế kỷ II–III (chỉ có một giám mục lãnh đạo ở mỗi thành phố) và giả định điều đó vào thế kỷ I. **Họ giả định rằng** ngay từ đầu, Hội Thánh Rô-ma đã có **một Giám mục duy nhất** thay vì một tập thể **presbyter-bishops**.
-
-    👉 Kết quả:
-
-    * Điều này tạo ra sự khó khăn cho các sử gia: danh sách các “Giáo hoàng đầu tiên” có vẻ liền mạch, nhưng thực tế lịch sử có thể phức tạp hơn.
-
-    * Một số học giả Tin Lành và cả Công giáo thừa nhận: mô hình “một giám mục” có lẽ chỉ xuất hiện dần dần (thế kỷ II), chứ không chắc đã có ngay sau thời các sứ đồ.
-
-[^3]: Trong Hội Thánh ban đầu, ngoài Tiệc Thánh (Eucharist), các tín hữu thường tổ chức một bữa ăn chung gọi là “agápē” – dịch là “tiệc yêu thương”.
-    Giu-đe 1:12 nhắc đến “tiệc yêu thương” (ἀγάπαις) của các tín hữu, nơi mọi người cùng chia sẻ thức ăn với nhau trong tinh thần bình đẳng, hiệp một, và yêu thương.
+[^3]: Trong Hội Thánh ban đầu, ngoài Tiệc Thánh (Eucharist), các tín hữu thường tổ chức một bữa ăn chung gọi là **“agápē”** – dịch là **“tiệc yêu thương”**.
+    Giu-đe 1:12 nhắc đến **“tiệc yêu thương” (ἀγάπαις)** của các tín hữu, nơi mọi người cùng chia sẻ thức ăn với nhau trong tinh thần bình đẳng, hiệp một, và yêu thương.
 
     > "Những kẻ nầy là những vết nhơ trong bữa tiệc yêu thương của anh em; họ cứ ung dung chè chén say sưa với nhau, và chỉ biết lo cho chính mình. Họ là những đám mây không nước bị gió đùa đi; họ là những cây không quả vào cuối thu, chết hai lần, bị nhổ bật rễ." (RVV11)
-
-    👉 Ngoài Kinh Thánh, các giáo phụ Hội Thánh sơ khai cũng nhắc đến tiệc agápē:
-
-    * Tertullian (thế kỷ II–III) mô tả các Cơ Đốc nhân nhóm lại để ăn uống, cầu nguyện, và chia sẻ trong tình yêu thương.
-
-    * Augustine sau này phê phán một số lạm dụng của các bữa tiệc này, khiến Hội Thánh dần tách biệt tiệc agápē ra khỏi Tiệc Thánh.
-
-    ---
-
-    #### 🕊 **Tertullian – *Apology (Bào Chữa)*, chương 39**
-
-    > “Bữa tiệc của chúng tôi đã tự giải thích qua chính cái tên của nó. Nó được gọi bằng từ Hy Lạp **agápē**, nghĩa là tình yêu thương. Dù tốn kém thế nào đi nữa, khoản chi tiêu này nhân danh sự tin kính là một sự sinh lợi, vì nhờ những điều tốt đẹp trong bữa tiệc ấy mà người nghèo được hưởng lợi. Giống như đối với chính Đức Chúa Trời, con người được đánh giá theo tấm lòng của mình trước mặt Ngài. Vì vậy, sau khi rửa tay và thắp đèn, mỗi người được mời hát ngợi khen Đức Chúa Trời, hoặc từ Kinh Thánh, hoặc từ tấm lòng mình tùy theo khả năng. Cuối cùng, lời cầu nguyện khép lại bữa tiệc.”
-    > *(Tertullian, *Apology* 39, khoảng năm 197)*
-
-    ---
-
-    #### 🕊 **Augustine – *Thư 22* gửi Aurelius, Giám mục Carthage**
-
-    > “Đúng là có một thời các tín hữu đã giữ những bữa tiệc gọi là **agápē**, để tưởng nhớ người đã khuất; nhưng sau đó chúng đã bị bãi bỏ vì những sự thái quá và say sưa mà chúng gây ra, nên ngày nay không còn được thực hành nữa.”
-    > *(Augustine, *Epistle* 22, đầu thế kỷ V)*
