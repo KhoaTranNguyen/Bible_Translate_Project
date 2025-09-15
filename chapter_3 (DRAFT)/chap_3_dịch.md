@@ -171,8 +171,6 @@ Thời điểm viết thường được gán vào triều đại của **Domiti
 
 Theo **Irenaeus**, Clement là người kế vị thứ ba của **Phi-e-rơ** trong vai trò giám mục của Rô-ma, sau **Linus** và **Anacletus** (*Chống Lạc giáo* - *Aganist Heresies* 3.3.3; Eusebius, *Lịch sử Hội thánh* 3.15.34). Một truyền thống khác thì cho rằng ông là người kế vị trực tiếp của Phi-e-rơ (*Pseudo Clement, Thư gửi Gia-cơ 2*; *Tertullian, Quy tắc chống Lạc giáo 32 (Prescription against Heretics 32)*). Sau đó, **Epiphanius** tìm cách dung hòa các ghi chép này bằng cách nói rằng Phi-e-rơ đã phong chức cho Clement, nhưng Clement đã tạm thời nhường vị trí đó cho những người khác đến mãi sau này (*Panarion* 27.6).
 
-Nhiều nhà sử học Kháng Cách và một số nhà sử học Công Giáo La Mã đã nhận thấy rằng, vấn đề nảy sinh là do vào thời ấy trong Hội Thánh tại Rô-ma tồn tại **một tập thể các trưởng lão-giám mục (presbyter-bishops)**, chứ chưa có cơ cấu chỉ có **một giám mục đứng đầu**. Tuy nhiên, Irenaeus và những người khác đã chiếu những hình thức tổ chức sau này – tức chỉ có một giám mục cho mỗi hội thánh – ngược lại cho thời Clement [^2].
-
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Saint_irenee_saint_irenee.jpg/800px-Saint_irenee_saint_irenee.jpg" width="500">
 </p>
@@ -181,10 +179,12 @@ Nhiều nhà sử học Kháng Cách và một số nhà sử học Công Giáo 
   <em>Hình: Irenaeus thành Lyon. Kính màu của Lucien Bégule (1901), Nhà thờ St. Irenaeus.</em>
 </p>
 
-##### Tác giả:
+Nhiều nhà sử học Kháng Cách và một số nhà sử học Công Giáo La Mã đã nhận thấy rằng, vấn đề nảy sinh là do vào thời ấy trong Hội Thánh tại Rô-ma tồn tại **một tập thể các trưởng lão-giám mục (presbyter-bishops)**, chứ chưa có cơ cấu chỉ có **một giám mục đứng đầu**. Tuy nhiên, Irenaeus và những người khác đã chiếu những hình thức tổ chức sau này – tức chỉ có một giám mục cho mỗi hội thánh – ngược lại cho thời Clement [^2].
+
+##### 3.1. Tác giả:
 Tác giả có thể là một cựu nô lệ của gia tộc nghị sĩ La Mã **Clemens**, có khả năng là một người Ngoại bang cải đạo sang Do Thái giáo trước khi trở thành Cơ Đốc Nhân, hoặc một người Do Thái có học vấn Hy Lạp.
 
-##### Hoàn cảnh ra đời:
+##### 3.2. Hoàn cảnh ra đời:
 Hoàn cảnh của bức thư là sự chia rẽ trong hội thánh tại Cô-rinh-tô (người Cô-rinh-tô lại một lần nữa chia phe). Một số trưởng lão đã bị truất chức. Đây có phải là sự nổi loạn của lớp trẻ chống lại lớp già, hay một phong trào đầy ân tứ chống lại thẩm quyền cơ cấu? Những cách hiểu như vậy đã được nêu ra, nhưng bức thư thực ra chủ yếu đề cập đến **sự ganh tỵ** và **cạnh tranh cá nhân**.
 
 Việc tác giả thường xuyên nhắc đến phụ nữ trong các ví dụ và giáo huấn khiến người ta tự hỏi liệu phụ nữ có phải là thành phần nổi bật trong nhóm lãnh đạo sự nổi loạn này không. Sự can thiệp của hội thánh Rô-ma là nhằm làm dịu đi sự bất hòa trong hội thánh Cô-rinh-tô.
