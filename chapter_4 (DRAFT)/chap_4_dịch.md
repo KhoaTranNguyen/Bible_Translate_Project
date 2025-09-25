@@ -68,3 +68,39 @@ Triều đại Hadrian (117–138 SCN), để đối phó với những cuộc b
 Cuối cùng, triều đại Marcus Aurelius (161–180 SCN) là một giai đoạn khó khăn cho Cơ Đốc nhân, do nhiều tai họa liên tiếp tại các vùng khác nhau trong đế quốc. Dù các nhà biện giáo đầu tiên vẫn ca ngợi nhân cách của Marcus Aurelius, nhưng dưới triều ông, sự bách hại Cơ Đốc nhân đã trở nên nặng nề hơn. Có một làn sóng bắt bớ vào năm 166–168 SCN, thời điểm trùng với chiến tranh Parthia, áp lực từ người German ở biên giới Danube, và dịch bệnh bùng phát. Vì thế cho nên có lẽ đã có một sắc lệnh chung buộc mọi người dâng tế lễ cho các thần; dù điều này không nhắm thẳng vào Cơ Đốc Nhân, nhưng sự từ chối của họ đã khiến họ rơi vào tầm ngắm.
 
 Một làn sóng chống Cơ Đốc mới lại bùng lên vào khoảng năm 177 SCN, thúc đẩy nhiều hoạt động biện giáo. Sau khi cuộc nổi loạn do Avidius Cassius lãnh đạo vào năm 175 SCN bị dẹp yên, Marcus Aurelius đã thực hiện một chuyến đi phương Đông năm 176. Từ đó, các nghi ngờ mới nảy sinh đối với những nhóm nào không bày tỏ lòng trung thành theo tập tục dâng tế lễ cho Hoàng đế.
+
+### B. Thái độ của người ngoại đối với Cơ Đốc nhân
+
+Cơ Đốc Nhân đã khơi dậy sự thù ghét đáng kể trong quần chúng. Con người vốn có xu hướng tin điều xấu nhất về một nhóm sống tách biệt, có vẻ bí mật, thậm chí xa lạ. Khi thời thế thuận lợi, người ta có thể khoan dung với những kẻ có phong tục hay niềm tin lạ lùng; nhưng khi gian nan, thái độ sẽ trở nên tiêu cực. Cơ Đốc nhân thường bị quy trách nhiệm cho các tai họa, bởi họ không thờ các thần truyền thống. Một số người Do Thái còn đổ thêm dầu vào lửa, đặc biệt về vấn đề trung thành, khi họ làm cho nhà cầm quyền nhận thấy sự khác biệt giữa Do Thái và Cơ Đốc nhân.
+
+Hơn nữa, Cơ Đốc nhân thời kỳ đầu có vẻ bướng bỉnh. Quan trấn thủ Pliny Trẻ than phiền về điều này: từ góc nhìn của người La Mã, thì chỉ cần đốt một nhúm hương trên bàn thờ hoặc thề bởi hoàng đế là chuyện rất đơn giản; nhưng đối với những người Cơ Đốc thật, đây là điều họ tuyệt đối không thể làm. Một chính quyền mang tính toàn trị thì không thể dung thứ sự cứng cỏi ấy, vì dưới chế độ đó, đức hạnh tối thượng chính là sự vâng phục nhà cầm quyền hợp pháp.
+
+Người bình dân trong thế giới La Mã không có bổn phận thường xuyên phải dâng sinh tế—cũng giống như mệnh lệnh “đi tiếp đi” của cảnh sát ngày nay không có nghĩa là phải bước đi mãi mãi—nhưng nếu một viên quan hợp pháp ra lệnh phải làm lễ tế thần, thì buộc phải vâng phục. Khi Cơ Đốc nhân, bị ra lệnh đốt hương hay xưng Caesar là chúa, mà vẫn từ chối, thì nhà cầm quyền và người chung quanh đều có cái nhìn rất bất lợi.
+
+Các Giáo phụ biện hộ (Apologists) liên tục phải đáp lại ba cáo buộc khác: vô thần, ăn thịt người, và loạn luân. Những cáo buộc này nghe thật khó tin đối với chúng ta ngày nay, nhưng cần phải giải thích.
+
+“Vô thần” trong thế giới cổ không mang nghĩa lý thuyết, mà là thực tiễn: vô thần tức là không giữ các nghi lễ tôn giáo truyền thống, bất kể người ấy tin theo đạo nào. (Chẳng hạn, Epicurus có tin các thần Hy Lạp, nhưng vì ông cho rằng các thần không can thiệp vào đời sống con người—các nghi lễ chỉ để tôn kính họ mà thôi, không nên mong có lời đáp cho lời cầu nguyện—nên các môn đồ thường bỏ qua việc giữ lễ, và thế là bị xem là vô thần).
+
+Các Giáo phụ biện hộ khẳng định rằng Cơ Đốc nhân tin Đức Chúa Trời, Đức Chúa Giê-xu Christ, và Đức Thánh Linh (Justin Martyr còn thêm cả các thiên sứ thánh cho chắc), nhưng điều đó vẫn không làm thỏa mãn nền tảng của lời cáo buộc, vì Cơ Đốc nhân vẫn không giữ các nghi lễ truyền thống.
+
+Cáo buộc “ăn thịt người” có lẽ phát xuất từ cách nói của Cơ Đốc nhân về Tiệc Thánh: ăn thân và uống huyết của Chúa. Còn cáo buộc “loạn luân” có thể xuất phát từ việc tín hữu gọi nhau là “anh em” và “chị em”, cùng dự tiệc yêu thương (agape) chung với nhau.
+
+Những lời cáo buộc khác về sự đồi bại dường như bắt nguồn từ việc người La Mã không phân biệt giữa Cơ Đốc nhân thật với các nhóm Ngộ đạo phóng túng (dù họ cũng tự xưng là Cơ Đốc nhân). Nhưng các Giáo phụ chống lại tà giáo đã làm rõ rằng chính các nhóm Ngộ đạo ấy mới là những kẻ phạm tội tình dục.
+
+Những cáo buộc này càng dễ được tin hơn vì Cơ Đốc nhân tách mình khỏi các sinh hoạt bình thường của xã hội. Họ phải giữ khoảng cách, bởi hầu như mọi lãnh vực—thể thao, giải trí, chính trị, thương mại—đều ngập trong sự thờ hình tượng.
+
+Một dạng khinh bỉ khác của quần chúng đối với Cơ Đốc nhân được thể hiện qua bức vẽ graffiti tìm thấy ở La Mã: vẽ một người có đầu lừa bị đóng đinh, một người khác giơ tay chào kính, kèm hàng chữ: “Alexamenos thờ thần của nó.” Hình ảnh đầu lừa có lẽ phát xuất từ lời vu khống (biết được qua các nguồn ngoại giáo) rằng việc người Do Thái cấm bước vào Nơi Chí Thánh trong đền thờ Giê-ru-sa-lem (trái với đền thờ ngoại giáo, vốn luôn có tượng thần để dân chúng chiêm ngưỡng) là để che giấu sự xấu hổ, vì tượng thần của họ chính là… một con lừa.
+
+Các triết gia như Celsus, tác giả cuốn *Lời Chân Thật* (The True Word)—tác phẩm công kích Cơ Đốc nhân đầu tiên còn sót lại (chủ yếu được khôi phục từ tác phẩm *Chống Celsus* của Origen)—bày tỏ sự khinh bỉ trí thức, coi Cơ Đốc nhân là hạng vô dụng cho xã hội, một đám yếu hèn gồm đàn bà, trẻ con, và nô lệ. Hơn nữa, Cơ Đốc nhân chỉ kêu gọi con người “hãy tin,” mà không dùng đến lý luận triết học.
+
+Celsus nêu ra nhiều thắc mắc triết học mà sau này Porphyry và hoàng đế Julian sẽ phát triển thêm: Nếu đạo thật thì sao lại xuất hiện quá muộn trong lịch sử loài người? Những phép lạ của Giê-xu có phải là bùa phép? Việc Ngôi Lời nhập thể có thể xảy ra sao, vì điều đó dường như làm thay đổi bản tính của Thần? Và chẳng phải linh hồn bất tử là mục tiêu cao quý hơn sự sống lại của thân xác sao?
+
+Origen đáp lại rằng chính Đức Chúa Trời đã chuẩn bị đường lối cho Cơ Đốc giáo, và lời tiên tri được ứng nghiệm chứng minh lẽ thật ấy. Những phép lạ của Chúa Giê-xu không phải là tà thuật, điều này thấy rõ nơi sự biến đổi luân lý mà Ngài đem đến cho đời sống con người, cũng như nơi việc Ngài chẳng bao giờ dùng phép lạ để tư lợi. Sự nhập thể chỉ thay đổi hoàn cảnh, chứ không đổi bản tánh của Ngôi Lời. Sự sống lại đem đến một thể xác cao trọng hơn. Và sự lan rộng nhanh chóng của Cơ Đốc giáo là bằng chứng cho sự phù trợ của Đức Chúa Trời.
+
+Galen cũng chia sẻ nỗi bất mãn của Celsus khi thấy Cơ Đốc nhân thay lý trí bằng đức tin, nhưng ông ca ngợi đời sống đạo đức của họ (chương 8), coi đó là mẫu mực mà các triết gia muốn xây dựng bằng lý luận.
+
+Các triết gia Epictetus và Marcus Aurelius (người sau cũng là hoàng đế, trị vì 161–180) không chấp nhận sự sẵn sàng chịu tử đạo của Cơ Đốc nhân. Dù triết lý Khắc kỷ (Stoic) cho phép tự sát trong vài trường hợp, họ vẫn cho rằng Cơ Đốc nhân chỉ bị cuốn hút bởi cuồng tín mù quáng.
+
+Nhà châm biếm Lucian xứ Samosata là kẻ duy lý hay chế giễu, ông mỉa mai sự cả tin của Cơ Đốc nhân bị lừa bởi kẻ giả hình Peregrinus. Peregrinus vốn là một triết gia Khuyển nho (Cynic), đã từng giao du với Cơ Đốc nhân tại Palestine và đạt vị trí lãnh đạo trong hội thánh. Khi ông bị bỏ tù, Cơ Đốc nhân hết lòng lo liệu cho nhu cầu của ông; đến khi ông được thả, ông còn lấy được nhiều tiền bạc từ họ.
+
+Người đọc Cơ Đốc ngày nay, qua lời mỉa mai của Lucian, có thể nhận ra chính sự thực thi lời dạy của Chúa Giê-xu về việc chăm sóc những kẻ ở trong ngục tù.
