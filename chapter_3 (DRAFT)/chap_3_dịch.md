@@ -2,7 +2,7 @@
 
 title: "Chương 03: THỜI KỲ HẬU SỨ ĐỒ"
 date: 2025-05-25
-slug: "chuong-02"
+slug: "chuong-03"
 categories: ["Lịch Sử Hội Thánh"]
 tags: ["Lịch Sử"]
 authors: ["khoa"]
@@ -88,7 +88,7 @@ Văn liệu ngoài Kinh điển của giai đoạn này có thể được phân
 
 Chẳng hạn như Didache và 1 Clement, đây là hai tác phẩm có đồng thời với những tác phẩm có trong kinh điển Tân Ước muộn. Ngoài ra, thời kỳ của các Giáo phụ Tông đồ còn trùng với niên đại của một số tác phẩm Tân Ước Ngụy Thư và Ngụy Kinh Tân Ước — chẳng hạn như Phúc Âm Thô-ma, Phúc Âm Phi-e-rơ, và có lẽ là cả Bài ca của Sa-lô-môn (*Odes of Solomon*). Hơn thế nữa, có lẽ thư Ba-na-ba (Barnabas) cũng là một tác phẩm mạo danh.
 
-Những nhà biện giáo đầu tiên — như Quadratus và Aristides — xuất hiện cùng thời với một số Giáo phụ Tông đồ, và tác phẩm biện giáo được biết đến dưới tên "Thư gửi Diognetus" đôi khi cũng được xếp vào nhóm các tác phẩm của các Giáo phụ Tông đồ (xem chương 4). Ngoài ra, còn có sự chồng lấn với các tường thuật về tử đạo, điển hình là tác phẩm "Sự Tử Đạo Polycarp" (chương 4), vốn cũng nói về một vị giáo phụ tông đồ.
+Những Giáo phụ Biện giáo (Apologists) — như Quadratus và Aristides — xuất hiện cùng thời với một số Giáo phụ Tông đồ, và tác phẩm biện giáo được biết đến dưới tên "Thư gửi Diognetus" đôi khi cũng được xếp vào nhóm các tác phẩm của các Giáo phụ Tông đồ (xem chương 4). Ngoài ra, còn có sự chồng lấn với các tường thuật về tử đạo, điển hình là tác phẩm "Sự Tử Đạo Polycarp" (chương 4), vốn cũng nói về một vị giáo phụ tông đồ.
 
 <div align="center">
 
