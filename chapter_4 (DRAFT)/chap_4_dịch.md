@@ -187,6 +187,9 @@ Hai sự đáp ứng của Cơ Đốc nhân đối với các cuộc bắt bớ 
 ## III. CÁC NHÀ BIỆN GIÁO CƠ ĐỐC THẾ KỶ THỨ HAI
 
 **Bảng 1: Thông tin về các nhà biện giáo**
+
+<div align="center">
+
 | STT | Tên | Nơi chốn | Hoàng đế đương thời |
 | :--- | :--- | :--- | :--- |
 | **(1)** | **Những người được biết qua các phân đoạn:** | | |
@@ -199,6 +202,8 @@ Hai sự đáp ứng của Cơ Đốc nhân đối với các cuộc bắt bớ 
 | **(6)** | Athenagoras | Athens | Marcus Aurelius |
 | **(7)** | Theophilus | Anti-ốt | Commodus (180 – 92) |
 | **(8)** | Minucius Felix | Carthage? | Giữa thời Marcus Aurelius và Septimius Severus (193 – 211) |
+
+</div>
 
 ### A. Các Tác Phẩm
 
@@ -373,6 +378,8 @@ Tương lai trong tư tưởng Cơ Đốc thuộc về Justin, nhưng thái đ�
 
 **Bảng 2: Thông tin về các tác phẩm văn học tử đạo**
 
+<div align="center">
+
 | **Tài liệu** | **Niên đại** | **Địa điểm** |
 |---------------|--------------|---------------|
 | **Thư tín của các Hội Thánh** |  |  |
@@ -386,6 +393,9 @@ Tương lai trong tư tưởng Cơ Đốc thuộc về Justin, nhưng thái đ�
 | *Công vụ của các Thánh Pergamum* | k. 165–70 | Pergamum |
 | *Công vụ của các Thánh Tử Đạo Scilli* | 180 | Carthage |
 | *Công vụ của Apollonius* | k. 184 | Rô-ma |
+
+</div>
+
 
 Các tường thuật xác thực về sự tử đạo từ thế kỷ thứ hai được chia làm ba hình thức văn chương: **"thư tín"** của các hội thánh mô tả các sự kiện kèm theo và sự tử đạo của những người trong vòng họ, **"tường thuật thương khó"** (passions) thuật lại những ngày cuối cùng và cái chết của những người tử đạo, và **"công vụ"** kể lại các phiên tòa xét xử họ trước chính quyền. Các **"công vụ"** đôi khi bị cho là bản ghi lại biên bản tòa án của các phiên xét xử, nhưng, mặc dù có lẽ trong một số trường hợp dựa trên các hồ sơ như vậy, các tường thuật còn sót lại phản ánh rõ ràng sự biên tập và hiệu đính của Cơ Đốc nhân.
 
