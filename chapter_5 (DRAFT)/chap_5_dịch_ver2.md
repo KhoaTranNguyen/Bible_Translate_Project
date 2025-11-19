@@ -4,56 +4,75 @@
 
 Chương trước đã xem xét các vấn đề bên ngoài mà Hội Thánh phải đối mặt trong thế kỷ thứ hai: sự chống đối từ nhà nước và từ các nhà hội Do Thái. Chương này chuyển sang các vấn đề nội bộ liên quan đến việc vạch ra ranh giới cho giáo lý và thực hành được chấp nhận. Cách dùng từ hiện đại phân biệt giữa **tà giáo** (sai trật về giáo lý căn bản) và **sự ly khai** (sự chia rẽ về nhân sự, kỷ luật và thực hành, nơi không liên quan đến sai lầm giáo lý nền tảng).
 
-Như đã từng được nhận xét: "Những kẻ theo tà giáo thì sai lầm một cách tài tình; những kẻ ly khai thì sai lầm một cách cố chấp." Tuy nhiên, cách dùng từ cổ xưa của *hairesis* ("tà giáo") và *schisma* ("ly khai") ban đầu không phân biệt rạch ròi như vậy.
+Như đã từng được nhận xét: "Những kẻ theo tà giáo thì sai lầm một cách tài tình; còn những kẻ ly khai thì sai lầm một cách cố chấp." Tuy nhiên, cách dùng từ cổ xưa của *hairesis* ("tà giáo") và *schisma* ("ly khai") ban đầu không phân biệt rạch ròi như vậy.
 
 ## I. MARCION
 
-Có thể là không theo quy ước khi bắt đầu với Marcion, nhưng lập trường cơ bản của ông dễ nắm bắt hơn so với những người theo thuyết Ngộ Đạo (Gnostics) — điều này không có nghĩa là không có vấn đề gì trong việc giải thích Marcion — và cách tiếp cận của ông dường như thuần túy tôn giáo mà không mang nặng các lợi ích suy đoán như nhiều người "Ngộ Đạo".
+Có thể hơi không theo quy ước khi bắt đầu với Marcion, nhưng lập trường thần học căn bản của ông dễ nắm bắt hơn nhiều so với những người theo thuyết Ngộ Đạo (Gnostics) - không có ý nói rằng việc nghiên cứu Marcion hoàn toàn đơn giản hay không có khó khăn - và cách tiếp cận của ông dường như hoàn toàn mang tính tôn giáo mà có những mối quan tâm mang tính suy đoán như nhiều người thuộc phái "Ngộ Đạo".
 
-Marcion bắt đầu từ sự độc đáo của sự mặc khải Cơ Đốc, và ông đã thiết lập một hội thánh mới (điều mà hầu hết các giáo sư tà giáo đầu tiên khác không làm). Hội thánh của ông đã cạnh tranh với Hội Thánh lớn (Hội thánh chung) và tồn tại cho đến thế kỷ thứ năm.
+Marcion bắt đầu từ sự độc đáo của sự mặc khải Cơ Đốc, và ông đã thiết lập **một hội thánh mới** (điều mà hầu hết các giáo sư tà giáo đầu tiên khác không làm). Hội thánh của ông đã cạnh tranh với Hội Thánh lớn (Hội thánh chung) và tồn tại cho đến thế kỷ thứ năm.
 
-Marcion có đủ điểm chung với những người được gọi là "Ngộ Đạo" để trở thành một phần giới thiệu tốt, nhưng cũng đủ khác biệt để được xếp vào một nhóm riêng.
+Marcion có đủ nhiều điểm chung với những người theo phái "Ngộ Đạo" để có thể làm bước khởi đầu tốt khi nghiên cứu phong trào Ngộ đạo nói chung, nhưng cũng đủ khác biệt để được xếp vào một nhóm riêng, độc lập với họ.
 
 Trong khi bàn về Cơ Đốc giáo Do Thái, chúng ta thấy những cực đoan đến từ ảnh hưởng của Do Thái giáo; còn ở Marcion, chúng ta thấy những cực đoan từ phía Dân ngoại. Marcion có lập trường kiên quyết chống lại các nguồn gốc Do Thái của Cơ Đốc giáo.
 
-Marcion lớn lên ở Sinope, Pontus, nơi cha ông được cho là một giám mục. Ông là một chủ tàu và có tài sản đáng kể. Sự dạy dỗ sai lạc bị chống đối trong thư Tân Ước gửi tín hữu Cô-lô-se và các ý tưởng Ảo hình (Docetic) lưu hành ở Tiểu Á có thể là một phần trong nền tảng tôn giáo của ông, và thái độ bài Do Thái liên quan đến cuộc nổi dậy Bar Kokhba ở Palestine vào những năm 130 có thể đã ảnh hưởng đến ông, mặc dù quan điểm cơ bản của ông có thể đã phát triển sớm hơn.
+### A. Tiểu sử
 
-Marcion đến Rô-ma và dâng cho Hội Thánh một khoản tiền lớn. Tuy nhiên, giáo lý của ông bị bác bỏ vào năm 144, và tiền được trả lại cho ông. Ông tiến hành thành lập một hội thánh đối lập mà chỉ trong vài năm đã lan rộng gần như Hội Thánh lớn. Sự giàu có và khả năng tổ chức của Marcion đã cho phép ông tiếp quản một số nhóm Ngộ Đạo đang nổi lên, nhưng tổ chức và sự thờ phượng trong các cộng đồng của ông dường như tương tự với Hội Thánh lớn.
+Marcion lớn lên ở Sinope, Pontus, nơi cha ông được cho là một giám mục. Ông là một chủ tàu và có tài sản đáng kể. Sự dạy dỗ sai lạc bị chống đối trong thư Tân Ước gửi tín hữu Cô-lô-se và các ý tưởng Ảo hình (Docetic) lưu hành ở Tiểu Á có thể là một phần trong nền tảng tôn giáo của ông, và thái độ bài Do Thái liên quan đến cuộc nổi dậy Bar Kokhba ở Palestine vào những năm 130 có thể đã ảnh hưởng đến ông, mặc dù thế giới quan nền tảng của ông có thể đã phát triển sớm hơn.
 
-Marcion được biết đến với công việc của mình trên văn bản và quy điển Tân Ước. Ông bác bỏ Cựu Ước, không xem đó là Kinh Thánh cho Hội Thánh và ban hành một Tân Ước gồm các phiên bản đã được chỉnh sửa của Phúc Âm Lu-ca và mười thư tín Phao-lô (thiếu các Thư Tín Mục Vụ). Ông đã loại bỏ hoặc thay đổi các câu kinh thánh, thường là dựa trên cơ sở giáo điều. Của ông là bộ sưu tập cố định các sách Tân Ước lâu đời nhất được biết đến.
+Ít lâu sau, Marcion đến Rô-ma và đã dâng cho Hội Thánh một khoản tiền lớn. Tuy nhiên, giáo lý của ông bị bác bỏ vào năm 144, và số tiền đó đã được hoàn trả lại cho ông. Ông tiến hành thành lập một hội thánh đối lập mà chỉ trong vài năm đã lan rộng gần như Hội Thánh lớn. Sự giàu có và khả năng tổ chức của Marcion đã cho phép ông tiếp quản một số nhóm Ngộ Đạo đang nổi lên, nhưng tổ chức và sự thờ phượng trong các cộng đồng của ông dường như tương tự với Hội Thánh lớn.
 
-Ông đã viết cuốn *Antitheses* (Sự Đối Lập), trình bày những mâu thuẫn giữa Cựu Ước và Tân Ước, trong đó thần học của ông được thiết lập. Chúng ta biết đến tác phẩm này chủ yếu qua bộ sách năm quyển bác bỏ nó của Tertullian, *Chống Marcion* (Against Marcion).
+### B. Những đóng góp liên quan đến văn bản và quy điển
 
-Thần học của Marcion được mô tả là một tin lành về ân điển của Phao-lô được phóng đại. Một nhà phê bình đã đưa ra nhận định rằng trong hội thánh xưa "Chỉ có Marcion hiểu Phao-lô, và ông ta đã hiểu sai Phao-lô". Đây chắc chắn là một phán xét phiến diện của Tin Lành, nhưng thật khó để nhìn nhận Marcion, hay những người khác về vấn đề đó, tách biệt khỏi quan điểm riêng của một nhà giải nghĩa hiện đại.
+Marcion được biết đến với công việc của mình trên văn bản và quy điển Tân Ước. **Ông bác bỏ Cựu Ước**, không xem đó là Kinh Thánh cho Hội Thánh và ban hành một Tân Ước gồm các phiên bản đã được chỉnh sửa của Phúc Âm Lu-ca và mười thư tín Phao-lô (thiếu các Thư tín Mục vụ [1]). **Ông đã loại bỏ hoặc thay đổi các câu kinh thánh**, thường là dựa trên cơ sở giáo điều. Bộ sưu tập các sách Tân Ước của ông là bộ sưu tập cố định và lâu đời nhất mà chúng ta từng được biết đến về các sách Tân Ước.
+
+Ông đã viết cuốn *Antitheses* (Các Phản Đề), trình bày những mâu thuẫn giữa Cựu Ước và Tân Ước, trong đó thần học của ông được thiết lập. Chúng ta biết đến tác phẩm này chủ yếu từ sự bác bỏ trong bộ sách năm quyển của Tertullian, *Chống Marcion* (Against Marcion).
+
+### C. Thần học của Marcion
+
+Thần học của Marcion được mô tả là một tin lành về ân điển của Phao-lô được phóng đại. Một nhà phê bình đã đưa ra nhận định rằng, trong hội thánh xưa "Chỉ có Marcion hiểu Phao-lô, và ông ta đã hiểu sai Phao-lô". Dù nhận định đó rõ ràng mang tính phiến diện của truyền thống Tin Lành, nhưng thật khó để đánh giá Marcion — hay bất kỳ nhân vật lịch sử nào — mà không bị chi phối bởi góc nhìn và định kiến của người nghiên cứu hiện đại.
 
 > Trong một trong những câu nói dí dỏm của mình, Tertullian đã mô tả Marcion là "con chuột vùng Pontus đã gặm nát các sách Phúc Âm" (*Against Marcion* 1.1).
 
 Các điểm sau đây phản ánh những quan điểm cơ bản của Marcion như có thể được tái dựng từ những lời chỉ trích nhắm vào ông bởi các đối thủ trong hội thánh xưa:
 
-1.  **Có hai vị thần**—thần sáng tạo và thần cứu chuộc. Thuyết nhị nguyên của Marcion dường như không phải là vấn đề siêu hình, mà là sự suy luận từ trải nghiệm của con người về những mâu thuẫn trong cuộc sống.
+1.  **Có hai vị thần** — thần sáng tạo và thần cứu chuộc. Thuyết nhị nguyên của Marcion dường như không phải là vấn đề siêu hình, mà là sự suy luận từ trải nghiệm của con người về những mâu thuẫn trong cuộc sống.
+>
 2.  **Luật pháp và sự phán xét** thuộc về thần sáng tạo (Demiurge), còn sự cứu rỗi là công việc của Đức Chúa Cha (Đức Chúa Trời "Không Thể Biết" hoặc "Xa Lạ").
+>
 3.  **Cựu Ước** là sự mặc khải của thần sáng tạo. Nó tiên báo về Đấng Mê-si của người Do Thái (người Do Thái đã đọc Kinh Thánh của họ một cách chính xác). Chúa Giê-xu không phải là người làm trọn Cựu Ước (Ngài đến "không phải để làm trọn mà để hủy bỏ" Luật pháp). Đức Chúa Trời của Cựu Ước đã làm điều ác, tự mâu thuẫn và thích chiến tranh.
-4.  **Chúa Giê-xu được nhìn nhận theo cách Ảo hình (Docetic);** Ngài chỉ dường như chịu khổ. Tuy nhiên, cái chết của Ngài được mô tả như một sự mua chuộc. Sự phục sinh của Chúa Giê-xu là của linh hồn và tâm thần, và Ngài đã tự làm mình sống lại. Quan điểm này một lần nữa dường như không bắt nguồn từ lập trường siêu hình (ví dụ: sự bất khả năng chịu khổ của thần tánh), mà từ kinh nghiệm thông thường ghê tởm xác thịt như là thứ ô uế.
-    Sự ra đời về thể xác của Chúa Giê-xu là một chướng ngại vật đối với Marcion, vì vậy ông bắt đầu Phúc Âm của mình ở Lu-ca 3 với tuyên bố rằng vào năm thứ mười lăm đời trị vì của Tiberius, Chúa Giê-xu "đã giáng xuống" từ trời "đến thành Ca-bê-na-um xứ Ga-li-lê".
+>
+4.  **Chúa Giê-xu được nhìn nhận theo Thuyết Ảo hình (Docetic);** Ngài chỉ dường như chịu khổ. Tuy nhiên, cái chết của Ngài được mô tả như một sự mua chuộc. Sự phục sinh của Chúa Giê-xu là của hồn và linh, và Ngài đã tự làm mình sống lại. Quan điểm này một lần nữa dường như không bắt nguồn từ lập trường siêu hình (ví dụ: sự bất khả năng chịu khổ của thần tánh), mà từ kinh nghiệm thông thường ghê tởm xác thịt như là thứ ô uế.
+
+Sự ra đời về thể xác của Chúa Giê-xu là một chướng ngại vật đối với Marcion, vì vậy ông bắt đầu Phúc Âm của mình ở Lu-ca 3 với tuyên bố rằng vào năm thứ mười lăm đời trị vì của Tiberius, Chúa Giê-xu "đã giáng xuống" từ trời "đến thành Ca-bê-na-um xứ Ga-li-lê".
+>
 5.  **Phao-lô là sứ đồ chân chính duy nhất.** Mười Hai Sứ Đồ đã "Do Thái hóa", nên Đức Chúa Cha phải gọi Phao-lô để khôi phục tin lành chân chính, nhưng ngay cả các thư tín của ông cũng bị các kẻ Do Thái hóa thêm thắt vào.
+>
 6.  **Marcion giữ lập trường dựa trên một sự mặc khải bằng văn bản.** Tầm quan trọng của ông trong sự phát triển của quy điển sẽ được đánh giá trong chương tới.
-7.  **Khổ tu được nhấn mạnh.** Tình dục bị ghê tởm. Nước thay thế rượu trong Tiệc Thánh. Các thực phẩm liên quan đến sinh sản tình dục bị cấm—thịt và các sản phẩm từ sữa. Cá là nguồn protein duy nhất được phép. (Marcion nghĩ cá sinh sản như thế nào? Hay vấn đề nằm ở các thực phẩm dùng trong tế lễ ngoại giáo chứ không phải ở sự sinh sản?).
-    Chỉ những người không kết hôn mới được báp-têm, trừ khi ở cuối đời, vì vậy có hai cấp độ tín đồ trong các hội thánh Marcion: người trọn vẹn và người chưa trọn vẹn.
-8.  **Những người theo Chúa Giê-xu không ở dưới luật pháp.** Sự cứu rỗi là bởi ân điển duy nhất, và ân điển không cần luật pháp. Quan điểm của ông về đức tin và tội lỗi thiếu chiều sâu của Phao-lô.
+>
+7.  **Khổ tu được nhấn mạnh.** Tình dục bị ghê tởm. Nước thay thế rượu trong Tiệc Thánh. Các thực phẩm liên quan đến sinh sản bằng tình dục bị cấm — bao gồm thịt và các sản phẩm từ sữa. Cá là nguồn protein duy nhất được phép. (Marcion nghĩ cá sinh sản như thế nào? Hay vấn đề nằm ở các thực phẩm như thịt và sữa thường được dùng trong tế lễ ngoại giáo chứ không phải ở sự sinh sản?).
 
-Ảnh hưởng của Marcion là đáng kể, nhưng đã bị đánh giá quá cao bởi các nhà giải nghĩa thế kỷ hai mươi của ông. Hội thánh công giáo (catholic church) với tín điều, quy điển và chức giám mục không phải là sản phẩm của phản ứng đối với Marcion; nhưng phản ứng đối với ông đã củng cố một số xu hướng đang diễn ra và do đó đẩy nhanh quá trình phát triển của các thực hành này.
+Chỉ những người không kết hôn mới được báp-têm, trừ khi họ đang ở cuối đời, vì vậy có hai cấp độ tín đồ trong các hội thánh Marcion: **người trọn vẹn** và **người chưa trọn vẹn**.
+>
+8.  **Những người theo Chúa Giê-xu không ở dưới luật pháp.** Sự cứu rỗi là bởi ân điển duy nhất, và ân điển không cần luật pháp. Quan điểm của ông về đức tin và tội lỗi không thể sự sâu sắc được như Phao-lô.
 
-Chủ nghĩa khổ tu của Marcion rất hấp dẫn như một sự trọn vẹn của Cơ Đốc giáo và vì thế là một yếu tố trong ảnh hưởng khổ tu đối với Cơ Đốc giáo chính thống. Sự nhấn mạnh của ông vào cứu rỗi luận mà bỏ qua vũ trụ luận là một vấn đề lớn đối với các giáo phụ hội thánh công giáo xưa (chương 7).
+### D. Ảnh hưởng của Marcion đối với Cơ Đốc Giáo
 
-Việc tách rời Chúa Giê-xu Christ khỏi Đức Chúa Trời Tạo Hóa là một động lực lớn để các nhà tư tưởng chính thống bắt đầu hình thành giáo lý về Ba Ngôi. Justin Martyr giữ vững Cựu Ước bằng cách lập luận rằng nó tiên tri về hai lần đến của Đấng Mê-si—lần đầu trong tình yêu và lần sau trong sự phán xét.
+Ảnh hưởng của Marcion là đáng kể, nhưng đã bị các học giả, nhà nghiên cứu thế kỷ 20 về ông đánh giá quá cao. Hội thánh Công giáo (Catholic Church) với tín điều, quy điển và chức giám mục không bắt nguồn từ các phản ứng đối với Marcion; nhưng các phản ứng đối với ông đã củng cố một số xu hướng thời đó đang diễn ra và do đó, chúng đã đẩy nhanh quá trình phát triển của các thực hành này.
+
+Chủ nghĩa khổ tu của Marcion rất hấp dẫn như một sự trọn vẹn của Cơ Đốc giáo, và vì thế, nó là một trong những yếu tố ảnh hưởng đến sự khổ tu đối của Chính Thống Giáo (Orthodox). Sự nhấn mạnh của ông vào cứu rỗi luận mà bỏ qua vũ trụ luận là một vấn đề lớn đối với các giáo phụ Hội thánh Công giáo xưa (chương 7).
+
+### E. Sự biện hộ của các nhà biện giáo chống lại Marcion
+
+Ngoài ra, việc tách rời Chúa Giê-xu Christ khỏi Đức Chúa Trời Tạo Hóa là một động lực lớn để các nhà tư tưởng chính thống bắt đầu hình thành giáo lý về Ba Ngôi. Justin Martyr giữ vững Cựu Ước bằng cách lập luận rằng nó tiên tri về hai lần đến của Đấng Mê-si — lần đầu trong tình yêu và lần sau trong sự phán xét.
 
 Tertullian khẳng định rằng Đức Chúa Trời vừa là công bình vừa là tình yêu. Đức Chúa Trời phải bày tỏ kỷ luật trước tình yêu, và Đấng Sai Phái phải làm cho thẩm quyền của Ngài được biết đến (trong Cựu Ước) trước khi Đấng Được Sai Phái được chấp nhận. Ngược lại, Đức Chúa Trời của Marcion xuất hiện đột ngột mà không có bất kỳ sự chuẩn bị nào.
 
-Việc Hội Thánh bác bỏ sự dạy dỗ của Marcion đã chứng minh, cùng với những điều khác, sự nhận thức rằng Hội Thánh không thể từ bỏ nguồn gốc Cựu Ước của mình và những gì điều đó kéo theo về sự duy nhất của Đức Chúa Trời và sự tốt lành của sự sáng tạo.
+Bên cạnh những yếu tố khác, việc Hội Thánh bác bỏ sự dạy dỗ của Marcion đã chứng tỏ: **Hội Thánh nhận thức được rằng không thể từ bỏ nguồn gốc Cựu Ước của mình** và những gì Cựu Ước kéo theo hàm chứa về sự duy nhất của Đức Chúa Trời và sự tốt lành của sự sáng tạo.
 
-Marcion chia sẻ với nhiều người Ngộ Đạo tiền đề về một Đức Chúa Trời không thể biết khác biệt với đấng sáng tạo, thuyết nhị nguyên về vật chất và tinh thần, cách giải thích ảo hình về Chúa Giê-xu, thái độ tiêu cực đối với Cựu Ước và Đức Chúa Trời của nó, và mối quan tâm đến vấn đề cái ác trong thế giới.
+Ngược lại, Marcion giống với với nhiều người theo phái Ngộ Đạo rằng (1) sự tồn tại của một tiền đề về một Đức Chúa Trời "Không Thể Biết" khác biệt với đấng sáng tạo, (2) thuyết nhị nguyên về vật chất và tinh thần, (3) cách giải thích ảo hình về Chúa Giê-xu, (4) thái độ tiêu cực đối với Cựu Ước và Đức Chúa Trời của nó, và (5) mối quan tâm đến vấn đề cái ác trong thế giới.
 
-Ông khác biệt với họ ở chỗ bác bỏ thần thoại, tạo ra một tổ chức cho những người theo mình, tránh giải nghĩa theo lối ẩn dụ, và do đó tham gia vào phê bình văn bản để giải quyết các vấn đề ông tìm thấy trong văn bản.
+Ông khác biệt với họ ở những chỗ (1) bác bỏ thần thoại, (2) tạo ra một tổ chức cho những người theo mình, (3) tránh giải nghĩa theo lối ẩn dụ, và do đó (4) tham gia vào phê bình văn bản để giải quyết các vấn đề ông tìm thấy trong văn bản.
 
 ## II. THUYẾT NGỘ ĐẠO (GNOSTICISM)
 
