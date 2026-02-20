@@ -1,288 +1,479 @@
 # Lịch sử Hội thánh Tập Một: Từ Đấng Christ đến Tiền Cải chánh
 
-# Chương 5: Các Tà Giáo và Sự Ly Khai trong Thế Kỷ Thứ Hai
+# Chương 5: Các Tà Giáo và Ly Giáo trong Thế Kỷ Thứ Hai
 
-Chương trước đã xem xét các vấn đề bên ngoài mà Hội Thánh phải đối mặt trong thế kỷ thứ hai: sự chống đối từ nhà nước và từ các nhà hội Do Thái. Chương này chuyển sang các vấn đề nội bộ liên quan đến việc vạch ra ranh giới cho giáo lý và thực hành được chấp nhận. Cách dùng từ hiện đại phân biệt giữa **tà giáo** (sai trật về giáo lý căn bản) và **sự ly khai** (sự chia rẽ về nhân sự, kỷ luật và thực hành, nơi không liên quan đến sai lầm giáo lý nền tảng).
+Ở chương trước, chúng ta đã xem xét các vấn đề bên ngoài mà Hội Thánh phải đối mặt trong thế kỷ thứ hai: sự chống đối từ chính quyền và từ các nhà hội. Chương này sẽ chuyển hướng sang những nan đề nội bộ, cụ thể là nỗ lực vạch ra các ranh giới để xác định thế nào là giáo lý và thực hành được chấp nhận. Cách dùng từ hiện đại phân biệt giữa **tà giáo** (heresy — sai trật về giáo lý căn bản) và **ly giáo** (schism — sự chia rẽ xuất phát từ các cá nhân, vấn đề kỷ luật và thực hành, mà không liên quan đến những sai lệch về tín lý nền tảng).
 
-Như đã từng được nhận xét: "Những kẻ theo tà giáo thì sai lầm một cách tài tình; còn những kẻ ly khai thì sai lầm một cách cố chấp." Tuy nhiên, cách dùng từ cổ xưa của *hairesis* ("tà giáo") và *schisma* ("ly khai") ban đầu không phân biệt rạch ròi như vậy.
+Như đã từng được nhận xét: "Những kẻ theo tà giáo thì sai lầm một cách tài tình; còn những kẻ ly giáo thì sai lầm một cách cố chấp." Tuy nhiên, trong ngôn ngữ cổ đại, các thuật ngữ `hairesis` ("tà giáo") [^1] và `schisma` ("ly giáo") [^2] ban đầu vốn không có sự phân định rạch ròi như vậy.
 
 ## I. MARCION
 
-Có thể hơi không theo quy ước khi bắt đầu với Marcion, nhưng lập trường thần học căn bản của ông dễ nắm bắt hơn nhiều so với những người theo thuyết Ngộ Đạo (Gnostics) - không có ý nói rằng việc nghiên cứu Marcion hoàn toàn đơn giản hay không có khó khăn - và cách tiếp cận của ông dường như hoàn toàn mang tính tôn giáo mà có những mối quan tâm mang tính suy đoán như nhiều người thuộc phái "Ngộ Đạo".
+Có thể hơi không theo thông lệ khi chúng ta bắt đầu bằng việc tìm hiểu Marcion, nhưng lập trường thần học căn bản của ông dễ nắm bắt hơn nhiều so với những người theo thuyết Ngộ Đạo (Gnostics). Dĩ nhiên tôi không có ý nói rằng việc nghiên cứu về Marcion là dễ dàng hay không gặp chút nào khó khăn. Tuy nhiên, cách tiếp cận của ông dường như mang tính tôn giáo thuần túy, không bị pha trộn bởi những khuynh hướng suy diễn huyền bí như nhiều nhóm "Ngộ đạo".
 
-Marcion bắt đầu từ sự độc đáo của sự mặc khải Cơ Đốc, và ông đã thiết lập **một hội thánh mới** (điều mà hầu hết các giáo sư tà giáo đầu tiên khác không làm). Hội thánh của ông đã cạnh tranh với Hội Thánh lớn (Hội thánh chung) và tồn tại cho đến thế kỷ thứ năm.
+Đầu tiên, Marcion bắt đầu từ việc cho rằng sự mặc khải Cơ Đốc mang một tính chất hoàn toàn khác biệt, và ông đã tự thiết lập nên một giáo hội mới (điều mà hầu hết các nhóm tà giáo sơ khai khác không hề làm). Giáo hội của ông đã trở thành một thế lực cạnh tranh trực tiếp với Hội Thánh lớn (Hội thánh chung) và tiếp tục tồn tại cho đến tận thế kỷ thứ năm.
 
-Marcion có đủ nhiều điểm chung với những người theo phái "Ngộ Đạo" để có thể làm bước khởi đầu tốt khi nghiên cứu phong trào Ngộ đạo nói chung, nhưng cũng đủ khác biệt để được xếp vào một nhóm riêng, độc lập với họ.
+Marcion có đủ những điểm tương đồng với nhóm người bị gắn mác là phái "Ngộ đạo" để trở thành một sự dẫn nhập phù hợp, nhưng ông cũng có đủ những điểm khác biệt để được xếp vào một phân loại của riêng mình.
 
-Trong khi bàn về Cơ Đốc giáo Do Thái, chúng ta thấy những cực đoan đến từ ảnh hưởng của Do Thái giáo; còn ở Marcion, chúng ta thấy những cực đoan từ phía Dân ngoại. Marcion có lập trường kiên quyết chống lại các nguồn gốc Do Thái của Cơ Đốc giáo.
+Khi thảo luận về Cơ Đốc giáo gốc Do Thái (Jewish Christianity), chúng ta đã nhận thấy một số quan điểm cực đoan bắt nguồn từ những ảnh hưởng của Do Thái giáo; còn nơi Marcion, chúng ta lại bắt gặp những sự cực đoan đến từ phía dân Ngoại (Gentiles). Marcion đã giữ một lập trường kiên quyết chống lại cội rễ Do Thái của niềm tin Cơ Đốc.
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Apostle_John_and_Marcion_of_Sinope%2C_from_JPM_LIbrary_MS_748%2C_11th_c.jpg" width="500">
+</p>
+
+<p align="center">
+  <em>Hình 1: Bức tiểu họa Sứ đồ Giăng (trái) cùng với Marcion xứ Sinope (phải, theo học giả Eisler), được lấy từ bản thảo MS 748 lưu giữ tại Thư viện Morgan (thế kỷ 11). Mặt của Marcion có thể đã bị những tu sĩ cạo nát hoặc bôi bẩn để thể hiện sự phẫn nộ, khinh bỉ và trừng phạt về mặt thần học đối với ông.</em>
+</p>
+
 
 ### A. Tiểu sử
 
-Marcion lớn lên ở Sinope, Pontus, nơi cha ông được cho là một giám mục. Ông là một chủ tàu và có tài sản đáng kể. Sự dạy dỗ sai lạc bị chống đối trong thư Tân Ước gửi tín hữu Cô-lô-se và các ý tưởng Ảo hình (Docetic) lưu hành ở Tiểu Á có thể là một phần trong nền tảng tôn giáo của ông, và thái độ bài Do Thái liên quan đến cuộc nổi dậy Bar Kokhba ở Palestine vào những năm 130 có thể đã ảnh hưởng đến ông, mặc dù thế giới quan nền tảng của ông có thể đã phát triển sớm hơn.
+Marcion lớn lên tại Sinope, xứ Bông (Pontus), nơi cha ông được cho là một vị Giám mục. Ông là một thợ đóng tàu và đã thâu trữ được một khối tài sản đáng kể.
 
-Ít lâu sau, Marcion đến Rô-ma và đã dâng cho Hội Thánh một khoản tiền lớn. Tuy nhiên, giáo lý của ông bị bác bỏ vào năm 144, và số tiền đó đã được hoàn trả lại cho ông. Ông tiến hành thành lập một hội thánh đối lập mà chỉ trong vài năm đã lan rộng gần như Hội Thánh lớn. Sự giàu có và khả năng tổ chức của Marcion đã cho phép ông tiếp quản một số nhóm Ngộ Đạo đang nổi lên, nhưng tổ chức và sự thờ phượng trong các cộng đồng của ông dường như tương tự với Hội Thánh lớn.
+Những sự dạy dỗ sai trật từng bị lên án trong thư tín Tân Ước gửi cho Hội Thánh tại Cô-lô-se, cùng với các tư tưởng của phái Ảo Hình (Docetism) đang thịnh hành tại Tiểu Á có thể là một phần trong nền tảng tôn giáo của ông. Thêm vào đó, thái độ bài Do Thái gắn liền với cuộc nổi dậy [Bar Kokhba](https://thuyenphan.org/giao-duc-co-doc/nam-1/lich-su-hoi-thanh/chuong-03/#i-c%C3%A1c-nh%C3%A1nh-c%C6%A1-%C4%91%E1%BB%91c-gi%C3%A1o-do-th%C3%A1i) ở Palestine vào những năm 130 rất có thể đã tác động mạnh đến ông, mặc dù thế giới quan nền tảng của Marcion có lẽ đã được hình thành từ trước đó.
 
-### B. Những đóng góp liên quan đến văn bản và quy điển
+Ít lâu sau, Marcion đến Rô-ma và đã dâng cho Hội Thánh tại đây một khoản tiền lớn. Tuy nhiên, vào năm 144, giáo lý của ông bị bác bỏ, và toàn bộ số tiền đó đã được Hội Thánh hoàn trả lại. Sau sự kiện này, ông tiến hành thành lập một giáo hội đối lập; mà chỉ trong vài năm, đã trở nên lan rộng gần bằng chính Hội Thánh lớn (Hội Thánh chung). Sự giàu có cùng tài năng tổ chức của Marcion đã giúp ông thâu tóm được một số nhóm mang khuynh hướng Ngộ đạo đang nổi lên lúc bấy giờ. Tuy nhiên, cơ cấu tổ chức cũng như các hình thức thờ phượng trong cộng đồng của ông dường như vẫn giữ sự tương đồng với Hội Thánh lớn.
 
-Marcion được biết đến với công việc của mình trên văn bản và quy điển Tân Ước. **Ông bác bỏ Cựu Ước**, không xem đó là Kinh Thánh cho Hội Thánh và ban hành một Tân Ước gồm các phiên bản đã được chỉnh sửa của Phúc Âm Lu-ca và mười thư tín Phao-lô (thiếu các Thư tín Mục vụ [1]). **Ông đã loại bỏ hoặc thay đổi các câu kinh thánh**, thường là dựa trên cơ sở giáo điều. Bộ sưu tập các sách Tân Ước của ông là bộ sưu tập cố định và lâu đời nhất mà chúng ta từng được biết đến về các sách Tân Ước.
+<p align="center">
+  <img src="https://netbible.org/media/images/constable/60Pe1-1.jpg" width="500">
+</p>
 
-Ông đã viết cuốn *Antitheses* (Các Phản Đề), trình bày những mâu thuẫn giữa Cựu Ước và Tân Ước, trong đó thần học của ông được thiết lập. Chúng ta biết đến tác phẩm này chủ yếu từ sự bác bỏ trong bộ sách năm quyển của Tertullian, *Chống Marcion* (Against Marcion).
+<p align="center">
+  <em>Hình 2: Quê hương của Marcion, tức xứ Bông (Pontus) & Tiểu Á (Asia Minor) là những địa danh rất quen thuộc trong Tân Ước. Sứ đồ Phi-e-rơ đã gửi thư tín thứ nhất của mình cho các tín hữu rải rác tại "xứ Bông (Pontus), Ga-la-ti (Galatia), Cáp-pa-đốc (Cappadocia), A-si (Asia), và Bi-thi-ni (Bythinia)" (I Phi-e-rơ 1:1).</em>
+</p>
 
-### C. Thần học của Marcion
+### B. Bộ "Quy Điển" Tân Ước
 
-Thần học của Marcion được mô tả là một tin lành về ân điển của Phao-lô được phóng đại. Một nhà phê bình đã đưa ra nhận định rằng, trong hội thánh xưa "Chỉ có Marcion hiểu Phao-lô, và ông ta đã hiểu sai Phao-lô". Dù nhận định đó rõ ràng mang tính phiến diện của truyền thống Tin Lành, nhưng thật khó để đánh giá Marcion — hay bất kỳ nhân vật lịch sử nào — mà không bị chi phối bởi góc nhìn và định kiến của người nghiên cứu hiện đại.
+Marcion được biết đến nhiều nhất qua công trình của ông liên quan đến bản văn và quy điển (canon) của Tân Ước. **Ông đã chối bỏ hoàn toàn Cựu Ước**, không xem đó là Kinh Thánh cho Giáo hội của mình. Thay vào đó, ông ban hành một bộ Tân Ước riêng, bao gồm các phiên bản đã được chỉnh sửa của Phúc Âm Lu-ca và mười thư tín Phao-lô (ông cũng loại bỏ hoàn toàn các Thư tín Mục vụ [^3]).
+
+Ông đã tùy tiện cắt bỏ hoặc thay đổi các câu Kinh Thánh, và thường dựa trên định kiến giáo lý của riêng mình để làm điều đó. Mặc dù vậy, bộ sưu tập của ông lại được xem là tập hợp cố định và lâu đời nhất của các sách Tân Ước từng được biết đến trong lịch sử [^4].
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Oxford%2C_Sackler_Library_Ms_P._Oxy_2383_%28Papyrus_69%29_recto_Luke_22%2C_41-48.jpg/960px-Oxford%2C_Sackler_Library_Ms_P._Oxy_2383_%28Papyrus_69%29_recto_Luke_22%2C_41-48.jpg" width="500">
+</p>
+
+<center>
+
+*Hình 3: Papyrus 69 (được ký hiệu là P69 hoặc P.Oxy. 2383), một mảnh giấy cói cổ rất nổi tiếng chứa một phần bản văn bằng tiếng Hy Lạp của sách Phúc Âm Lu-ca đoạn 22. Học giả Claire Clivaz nhận định rằng đây là "bằng chứng về một ấn bản theo trường phái Marcion của Phúc Âm Luca" khi nó chứa văn bản của Lu-ca 22:41, nhưng sau đó nhảy thẳng sang câu 45 mà hoàn toàn vắng bóng câu 43 và 44.* [^5]
+
+</center>
+
+### C. Tác Phẩm "Antitheses" Và Sự Phản Biện Của Tertullian
+
+Marcion đã chấp bút tác phẩm *Antitheses* (Các Phản Đề), trình bày những mâu thuẫn giữa Cựu Ước và Tân Ước, trong đó, hệ thống thần học của ông được phác họa một cách rõ nét. Ngày nay, chúng ta biết đến tác phẩm này một cách gián tiếp, chủ yếu là thông qua bộ sách phản biện gồm năm quyển của Giáo phụ Tertullian, mang tựa đề *Chống Lại Marcion* (Against Marcion).
 
 > Trong một trong những câu nói dí dỏm của mình, Tertullian đã mô tả Marcion là "con chuột vùng Pontus đã gặm nát các sách Phúc Âm" (*Against Marcion* 1.1).
 
-Các điểm sau đây phản ánh những quan điểm cơ bản của Marcion như có thể được tái dựng từ những lời chỉ trích nhắm vào ông bởi các đối thủ trong hội thánh xưa:
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Tertullian2.png/960px-Tertullian2.png" width="500">
+</p>
 
-1.  **Có hai vị thần** — thần sáng tạo và thần cứu chuộc. Thuyết nhị nguyên của Marcion dường như không phải là vấn đề siêu hình, mà là sự suy luận từ trải nghiệm của con người về những mâu thuẫn trong cuộc sống.
->
-2.  **Luật pháp và sự phán xét** thuộc về thần sáng tạo (Demiurge), còn sự cứu rỗi là công việc của Đức Chúa Cha (Đức Chúa Trời "Không Thể Biết" hoặc "Xa Lạ").
->
-3.  **Cựu Ước** là sự mặc khải của thần sáng tạo. Nó tiên báo về Đấng Mê-si của người Do Thái (người Do Thái đã đọc Kinh Thánh của họ một cách chính xác). Chúa Giê-xu không phải là người làm trọn Cựu Ước (Ngài đến "không phải để làm trọn mà để hủy bỏ" Luật pháp). Đức Chúa Trời của Cựu Ước đã làm điều ác, tự mâu thuẫn và thích chiến tranh.
->
-4.  **Chúa Giê-xu được nhìn nhận theo Thuyết Ảo hình (Docetic);** Ngài chỉ dường như chịu khổ. Tuy nhiên, cái chết của Ngài được mô tả như một sự mua chuộc. Sự phục sinh của Chúa Giê-xu là của hồn và linh, và Ngài đã tự làm mình sống lại. Quan điểm này một lần nữa dường như không bắt nguồn từ lập trường siêu hình (ví dụ: sự bất khả năng chịu khổ của thần tánh), mà từ kinh nghiệm thông thường ghê tởm xác thịt như là thứ ô uế.
+<p align="center">
+  <em>Hình 4: Tertullian: Một trong những nhà thần học và biện giáo vĩ đại nhất của Hội Thánh Bắc Phi (nói tiếng La-tinh). Bộ sách Against Marcion của ông là một kiệt tác hộ giáo, bảo vệ sự hiệp nhất không thể tách rời giữa Cựu Ước và Tân Ước, giữa Đấng Tạo Hóa và Đấng Cứu Chuộc.</em>
+</p>
 
-Sự ra đời về thể xác của Chúa Giê-xu là một chướng ngại vật đối với Marcion, vì vậy ông bắt đầu Phúc Âm của mình ở Lu-ca 3 với tuyên bố rằng vào năm thứ mười lăm đời trị vì của Tiberius, Chúa Giê-xu "đã giáng xuống" từ trời "đến thành Ca-bê-na-um xứ Ga-li-lê".
->
-5.  **Phao-lô là sứ đồ chân chính duy nhất.** Mười Hai Sứ Đồ đã "Do Thái hóa", nên Đức Chúa Cha phải gọi Phao-lô để khôi phục tin lành chân chính, nhưng ngay cả các thư tín của ông cũng bị các kẻ Do Thái hóa thêm thắt vào.
->
-6.  **Marcion giữ lập trường dựa trên một sự mặc khải bằng văn bản.** Tầm quan trọng của ông trong sự phát triển của quy điển sẽ được đánh giá trong chương tới.
->
-7.  **Khổ tu được nhấn mạnh.** Tình dục bị ghê tởm. Nước thay thế rượu trong Tiệc Thánh. Các thực phẩm liên quan đến sinh sản bằng tình dục bị cấm — bao gồm thịt và các sản phẩm từ sữa. Cá là nguồn protein duy nhất được phép. (Marcion nghĩ cá sinh sản như thế nào? Hay vấn đề nằm ở các thực phẩm như thịt và sữa thường được dùng trong tế lễ ngoại giáo chứ không phải ở sự sinh sản?).
+### C. Thần học của Marcion
 
-Chỉ những người không kết hôn mới được báp-têm, trừ khi họ đang ở cuối đời, vì vậy có hai cấp độ tín đồ trong các hội thánh Marcion: **người trọn vẹn** và **người chưa trọn vẹn**.
+Thần học của Marcion từng được khắc họa như là một sự phóng đại thái quá về Phúc Âm ân điển của sứ đồ Phao-lô [^6]. Có một nhà phê bình đã đưa ra một câu nhận định nổi tiếng rằng, trong Hội Thánh cổ đại: "Chỉ duy nhất Marcion là hiểu được Phao-lô, nhưng chính ông lại hiểu sai về Phao-lô." Dù đây chắc chắn là một đánh giá mang tính phiến diện theo lăng kính của truyền thống Tin Lành, nhưng quả thật rất khó để nhìn nhận Marcion — hay bất kỳ nhân vật lịch sử nào — mà không bị chi phối bởi góc nhìn và định kiến của người nghiên cứu hiện đại.
+
+Những điểm sau đây phản ánh các quan điểm nền tảng của Marcion, được đúc kết và tái hiện lại dựa trên những lời chỉ trích mà các đối thủ của ông trong Hội Thánh sơ khai đã nhắm vào ông:
+
+1.  **Thuyết Nhị Nguyên về Đức Chúa Trời (Dualism):** Có hai vị thần — thần sáng tạo (thần của Cựu Ước) và thần cứu chuộc (thần của Tân Ước). Thuyết nhị nguyên của Marcion dường như không xuất phát từ các vấn đề siêu hình học phức tạp, mà là một sự suy luận bắt nguồn từ chính kinh nghiệm của con người về những nghịch lý và mâu thuẫn trong cuộc sống.
 >
-8.  **Những người theo Chúa Giê-xu không ở dưới luật pháp.** Sự cứu rỗi là bởi ân điển duy nhất, và ân điển không cần luật pháp. Quan điểm của ông về đức tin và tội lỗi không thể sự sâu sắc được như Phao-lô.
+2.  **Sự Phân Lập Giữa Luật Pháp Và Ân Điển:** Luật pháp và sự phán xét thuộc về thần sáng tạo (Demiurge), còn sự cứu rỗi là công việc của Đức Chúa Cha (Đức Chúa Trời "Không Thể Biết" - Unknown God - hoặc "Xa Lạ" - Strange God).
+>
+3.  **Chối Bỏ Hoàn Toàn Cựu Ước:** Cựu Ước là sự mặc khải của thần sáng tạo và chỉ tiên báo về Đấng Mê-si của dân Do Thái (ông cho rằng người Do Thái đã hiểu Kinh Thánh của họ một cách chính xác). Chúa Giê-xu không phải là Đấng làm ứng nghiệm Cựu Ước (Ngài đến "không phải để làm trọn, mà là để ***phá hủy***" Luật pháp). Theo Marcion, vị thần của Cựu Ước là đấng giáng họa, tự mâu thuẫn với chính mình và thích thú với chiến tranh.
+>
+4.  **Quan Điểm Ảo Hình Về Đấng Christ:** Chúa Giê-xu được nhìn nhận theo Thuyết Ảo hình (Docetism); Ngài chỉ *dường như* đang chịu khổ. Mặc dù vậy, cái chết của Ngài được mô tả như một sự mua chuộc. Sự phục sinh của Chúa Jêsus chỉ diễn ra ở khía cạnh linh hồn và tâm thần, và Ngài đã tự khiến mình sống lại. Quan điểm này một lần nữa dường như không bắt nguồn từ lập trường siêu hình học (ví dụ: cho rằng bản tính thần linh thì không thể chịu khổ đau), mà xuất phát từ cảm giác thông thường của con người: sự gớm ghiếc và ghê tởm xác thịt vì cho rằng nó là ô uế.
+
+Sự ra đời về thể xác của Chúa Giê-xu là một chướng ngại vật đối với Marcion. Vì vậy, ông đã cho bắt đầu sách Phúc Âm của mình (cắt xén từ Phúc Âm Lu-ca) ở ngay chương 3 với lời tuyên bố rằng: Vào năm thứ mười lăm đời hoàng đế [Tiberius](https://thuyenphan.org/giao-duc-co-doc/nam-1/lich-su-hoi-thanh/chuong-01/#i-%C4%91%E1%BA%BF-ch%E1%BA%BF-la-m%C3%A3), Chúa Giê-xu "đã ***giáng xuống***" từ trời "đến thành Ca-bê-na-um xứ Ga-li-lê".
+>
+5.  **Phao-lô là sứ đồ chân chính duy nhất.** Mười Hai Sứ Đồ kia đã bị "Do Thái hóa", vì vậy Đức Chúa Cha phải kêu gọi Phao-lô để phục hồi lại Phúc Âm chân thật. Nhưng Marcion cũng cho rằng ngay cả các thư tín của Phao-lô cũng bị kẻ theo Do Thái giáo ngụy tạo và thêm thắt vào.
+>
+6.  **Marcion lập nền tảng đức tin của mình trên một sự mặc khải thành văn.** Tầm quan trọng và những hệ lụy của ông đối với quá trình hình thành Quy điển (Canon) sẽ được đánh giá chi tiết trong chương tiếp theo.
+>
+7.  **Chủ nghĩa khổ tu được nhấn mạnh mạnh mẽ.** Tình dục bị coi là điều gớm ghiếc. Nước lã được dùng để thay thế cho rượu nho trong Lễ Tiệc Thánh. Các thực phẩm liên quan đến sự sinh sản hữu tính đều bị cấm — bao gồm thịt và các sản phẩm từ sữa. Cá là nguồn protein duy nhất được phép. (Đến đây, các học giả hiện đại thường đặt câu hỏi: Không rõ Marcion nghĩ loài cá sinh sản bằng cách nào nhỉ? Hay vấn đề thực sự nằm ở việc ông muốn tránh né các loại thực phẩm thường được dùng trong việc cúng tế thần tượng ngoại giáo, chứ không hẳn là ghê tởm bản thân việc sinh sản?).
+
+Chỉ những người không kết hôn mới được phép báp-têm, trừ khi họ đang ở cuối đời, vì vậy có hai cấp độ tín đồ trong các hội thánh Marcion: **người trọn vẹn** và **người chưa trọn vẹn**.
+>
+8.  **Những người theo Chúa Giê-xu không ở dưới luật pháp.** Sự cứu rỗi là duy bởi ân điển, và ân điển thì ***không cần*** đến bất kỳ luật pháp nào. Dẫu vậy, những quan điểm của ông về đức tin và tội lỗi lại thiếu đi chiều sâu như của Sứ đồ Phao-lô [^7].
 
 ### D. Ảnh hưởng của Marcion đối với Cơ Đốc Giáo
 
-Ảnh hưởng của Marcion là đáng kể, nhưng đã bị các học giả, nhà nghiên cứu thế kỷ 20 về ông đánh giá quá cao. Hội thánh Công giáo (Catholic Church) với tín điều, quy điển và chức giám mục không bắt nguồn từ các phản ứng đối với Marcion; nhưng các phản ứng đối với ông đã củng cố một số xu hướng thời đó đang diễn ra và do đó, chúng đã đẩy nhanh quá trình phát triển của các thực hành này.
+Tầm ảnh hưởng của Marcion là đáng kể, nhưng đã bị các học giả, nhà nghiên cứu của thế kỷ 20 đánh giá một cách quá cao. Trong đó, Hội Thánh phổ quát (catholic church) với (1) Tín điều (Creed), (2) Quy điển (Canon) và (3) Chức giám mục (Episcopate) vốn **không phải là sản phẩm** từ các phản ứng của họ đối với Marcion; nhưng các phản ứng này đã củng cố một số khuynh hướng vốn đã tồn tại từ trước. Do đó, chúng đã đẩy nhanh quá trình phát triển của các thực hành này.
 
-Chủ nghĩa khổ tu của Marcion rất hấp dẫn như một sự trọn vẹn của Cơ Đốc giáo, và vì thế, nó là một trong những yếu tố ảnh hưởng đến sự khổ tu đối của Chính Thống Giáo (Orthodox). Sự nhấn mạnh của ông vào cứu rỗi luận mà bỏ qua vũ trụ luận là một vấn đề lớn đối với các giáo phụ Hội thánh Công giáo xưa (chương 7).
+Chủ nghĩa khổ tu của Marcion rất hấp dẫn như một sự trọn vẹn của Cơ Đốc giáo, và vì thế, nó là một trong những yếu tố ảnh hưởng đến sự khổ tu đối trong Cơ Đốc giáo chính thống (orthodox Christianity). Sự nhấn mạnh của ông vào cứu chuộc học (soteriology) mà bỏ qua vũ trụ luận (cosmology) đã trở thành một nan đề lớn đối với các giáo phụ của Hội Thánh phổ quát thời kỳ đầu (sẽ được bàn kỹ ở chương 7).
 
-### E. Sự biện hộ của các nhà biện giáo chống lại Marcion
+### E. Phản Ứng Của Các Giáo Phụ
 
-Ngoài ra, việc tách rời Chúa Giê-xu Christ khỏi Đức Chúa Trời Tạo Hóa là một động lực lớn để các nhà tư tưởng chính thống bắt đầu hình thành giáo lý về Ba Ngôi. Justin Martyr giữ vững Cựu Ước bằng cách lập luận rằng nó tiên tri về hai lần đến của Đấng Mê-si — lần đầu trong tình yêu và lần sau trong sự phán xét.
+Việc Marcion cố tình tách rời Chúa Giê-xu Christ khỏi Đức Chúa Trời Tạo Hóa là một động lực lớn để các nhà tư tưởng chính thống bắt bắt tay vào việc hình thành nên giáo lý về Đức Chúa Trời Ba Ngôi (**Trinity**).
 
-Tertullian khẳng định rằng Đức Chúa Trời vừa là công bình vừa là tình yêu. Đức Chúa Trời phải bày tỏ kỷ luật trước tình yêu, và Đấng Sai Phái phải làm cho thẩm quyền của Ngài được biết đến (trong Cựu Ước) trước khi Đấng Được Sai Phái được chấp nhận. Ngược lại, Đức Chúa Trời của Marcion xuất hiện đột ngột mà không có bất kỳ sự chuẩn bị nào.
+[Justin Martyr](https://thuyenphan.org/giao-duc-co-doc/nam-1/lich-su-hoi-thanh/chuong-04/#b-justin-martyr---m%E1%BB%99t-nh%C3%A0-bi%E1%BB%87n-gi%C3%A1o-ti%C3%AAu-bi%E1%BB%83u) đã kiên quyết giữ vững Cựu Ước bằng cách lập luận rằng Cựu Ước tiên tri về **hai lần đến khác nhau** của Đấng Mê-si — lần thứ nhất trong tình yêu thương và lần tiếp theo trong sự phán xét.
 
-Bên cạnh những yếu tố khác, việc Hội Thánh bác bỏ sự dạy dỗ của Marcion đã chứng tỏ: **Hội Thánh nhận thức được rằng không thể từ bỏ nguồn gốc Cựu Ước của mình** và những gì Cựu Ước kéo theo hàm chứa về sự duy nhất của Đức Chúa Trời và sự tốt lành của sự sáng tạo.
+Tertullian thì khẳng định rằng ***Đức Chúa Trời là Đấng trọn vẹn cả sự công bình lẫn tình yêu thương***. Đức Chúa Trời phải thi hành sự kỷ luật trước khi bày tỏ tình yêu thương, và Đấng Sai Phái (Đức Chúa Cha) phải giãi bày uy quyền của Ngài (trong thời Cựu Ước) trước khi Đấng Được Sai Đi (Đức Chúa Con) có thể được nhân loại tiếp nhận. Ngược lại, vị thần của Marcion lại xuất hiện một cách quá đỗi đột ngột mà không hề có bất kỳ sự chuẩn bị hay báo trước nào trong dòng lịch sử.
 
-Ngược lại, Marcion giống với với nhiều người theo phái Ngộ Đạo rằng (1) sự tồn tại của một tiền đề về một Đức Chúa Trời "Không Thể Biết" khác biệt với đấng sáng tạo, (2) thuyết nhị nguyên về vật chất và tinh thần, (3) cách giải thích ảo hình về Chúa Giê-xu, (4) thái độ tiêu cực đối với Cựu Ước và Đức Chúa Trời của nó, và (5) mối quan tâm đến vấn đề cái ác trong thế giới.
+Bên cạnh những yếu tố khác, việc Hội Thánh bác bỏ sự dạy dỗ của Marcion đã chứng tỏ một nhận thức vô cùng sâu sắc: **Hội Thánh không thể nào chối bỏ cội rễ Cựu Ước của mình.** Điều này mang ý nghĩa sống còn, bởi nó bảo vệ chân lý về sự hiệp nhất của Đức Chúa Trời (Đấng Tạo Hóa và Đấng Cứu Chuộc chỉ là Một) và sự tốt lành của công trình sáng tạo do tay Ngài làm nên.
 
-Ông khác biệt với họ ở những chỗ (1) bác bỏ thần thoại, (2) tạo ra một tổ chức cho những người theo mình, (3) tránh giải nghĩa theo lối ẩn dụ, và do đó (4) tham gia vào phê bình văn bản để giải quyết các vấn đề ông tìm thấy trong văn bản.
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Saint_Justin_Martyr_by_Theophanes_the_Cretan.jpg" width="500">
+</p>
+
+<p align="center">
+  <em>Hình 5: Bức tranh Giáo phụ Justin Martyr của Theophanes người Crete vào thế kỷ 15. Dòng chữ Hy Lạp ở góc bên phải bức hình, "Ὁ ΦΙΛΟCΟΦΟς" (Nhà triết học). Chi tiết này rất quan trọng, bởi trước khi trở thành một trong những nhà biện giáo vĩ đại nhất của Cơ Đốc giáo sơ khai và chịu tử đạo, Justin vốn là một triết gia. Ông mặc áo choàng triết gia và luôn tin rằng Cơ Đốc giáo chính là "triết học chân chính nhất".</em>
+</p>
+
+### F. Sự so sánh với thuyết Ngộ Đạo (Gnostic)
+
+Để nhìn nhận một cách khách quan, chúng ta có thể đặt Marcion lên bàn cân với phái Ngộ đạo (Gnosticism):
+
+Những điểm **TƯƠNG ĐỒNG** (Điểm chung với phái Ngộ đạo):
+
+  1. **Tin vào một Đức Chúa Trời "Không Thể Biết"**, một vị thần hoàn toàn tách biệt với Đấng Tạo Hóa.
+
+  2. **Cổ xúy Thuyết Nhị Nguyên**, sự phân chia rạch ròi giữa vật chất (xấu xa) và tâm linh (tốt lành).
+
+  3. **Giải nghĩa về Đấng Christ theo lăng kính của phái Ảo Hình** (Docetism - chối bỏ thân xác vật lý của Chúa Giê-xu).
+
+  4. **Sự chối bỏ Cựu Ước**: Ông có thái độ tiêu cực, thù nghịch đối với Cựu Ước và Đức Chúa Trời của Cựu Ước.
+
+  5. **Nguồn gốc của sự ác**: Ông cũng trăn trở sâu sắc về nguồn gốc của sự ác trong thế gian.
+
+Những điểm **KHÁC BIỆT** (Điểm khiến Marcion trở thành một hệ phái riêng):
+
+  1. **Bác bỏ thần thoại**: Ông không vướng vào những hệ thống suy diễn các thần linh, tinh tú phức tạp và hoang đường như phái Ngộ đạo.
+
+  2. **Xây dựng cơ cấu**: Ông tự thiết lập một tổ chức giáo hội bài bản cho các môn đồ của mình.
+
+  3. **Giải kinh theo nghĩa đen**: Ông tránh xa phương pháp giải nghĩa ngụ ngôn (allegorical interpretation) vốn rất được phái Ngộ đạo ưa chuộng.
+
+  4. **Phê bình bản văn (Textual criticism)**: Chính vì đọc Kinh Thánh theo nghĩa đen, khi gặp những phân đoạn không phù hợp với giáo lý của mình, thay vì "ngụ ngôn hóa" chúng, ông chọn cách can thiệp trực tiếp vào bản thảo để cắt xén và chỉnh sửa.
 
 ## II. THUYẾT NGỘ ĐẠO (GNOSTICISM)
 
-Bản thân thuật ngữ "Gnosticism" (Thuyết Ngộ Đạo) đã có vấn đề. Nó bắt nguồn từ chữ Hy Lạp *gnosis*, ám chỉ tri thức trải nghiệm trực tiếp trái ngược với tri thức mệnh đề hoặc thực tế.
+Ngay chính thuật ngữ 'Thuyết Ngộ đạo' (Gnosticism) vốn dĩ đã có vấn đề. Từ này bắt nguồn từ *gnosis* trong tiếng Hy Lạp, dùng để chỉ sự hiểu biết đến từ kinh nghiệm trực tiếp và mối tương giao, tương phản với loại kiến thức chỉ thuần túy dựa trên lý thuyết hoặc dữ kiện.
 
-Có một nhóm trong thế kỷ thứ hai tự gọi mình là *Gnostikoi* ("Những người Ngộ Đạo"), nghĩa là "những người có khả năng đạt được tri thức" và sau đó là "những người hiểu biết". Nhưng bắt đầu từ Irenaeus, các nhà chống tà giáo Cơ Đốc đã mở rộng thuật ngữ này để bao gồm các đối thủ trong hội thánh, những người mà họ nhận thấy có một số điểm chung nhưng lại có các hệ thống tư tưởng khác nhau.
+Vào thế kỷ thứ hai, có một nhóm người tự xưng là Gnostikoi ('Gnostics'), mang ý nghĩa là 'những người có khả năng thấu đạt tri thức' và sau đó là 'những kẻ hiểu biết'. Nhưng bắt đầu từ thời Irenaeus, các nhà thần học chống tà giáo Cơ Đốc đã mở rộng phạm vi thuật ngữ này để gọi chung những kẻ đối nghịch trong Hội thánh — những nhóm người dù có hệ thống tư tưởng khác biệt nhau, nhưng lại được nhận diện là có cùng một số điểm tương đồng về sự sai lạc.
 
-Vì vậy, cần nhớ rằng "Thuyết Ngộ Đạo" đã trở thành một thuật ngữ bao trùm cho những gì thực chất là một tâm trạng và thái độ đối với thế giới và nguồn gốc của nó (và ngay cả những thái độ này cũng khác nhau) hơn là một giải pháp duy nhất cho các vấn đề mà một số người cảm thấy. Tức là, Thuyết Ngộ Đạo là một phong trào hơn là một cách tiếp cận nhất quán.
+Do đó, chúng ta cần ghi nhớ rằng 'Thuyết Ngộ đạo' đã trở thành một thuật ngữ bao trùm, dùng để chỉ về một tâm thế và thái độ đối với thế giới cùng cội nguồn của nó (dẫu rằng những thái độ này cũng rất đa dạng), hơn là một giải pháp duy nhất cho những nan đề mà một số người trăn trở. Nói cách khác, Thuyết Ngộ đạo mang tính chất của một phong trào hơn là một hệ thống tư tưởng nhất quán.
 
-Phong trào tôn giáo của Thuyết Ngộ Đạo được đặc trưng bởi một tri thức trực giác về nguồn gốc, bản chất và định mệnh cuối cùng của bản chất thuộc linh của con người.
+Phong trào tôn giáo này được đặc trưng bởi sự hiểu biết qua trực giác về cội nguồn, bản chất và đích đến cuối cùng của bản chất thuộc linh nơi con người.
 
 ### A. Nguồn Tư Liệu Nghiên Cứu
 
-Việc nghiên cứu Thuyết Ngộ Đạo đã bị cản trở trong một thời gian dài bởi thực tế là nguồn thông tin chính của chúng ta là các tác giả chống tà giáo của hội thánh. Các tác giả chính đã thảo luận về Thuyết Ngộ Đạo và bảo tồn tư liệu Ngộ Đạo là Irenaeus, Clement thành Alexandria, Tertullian, Hippolytus và Epiphanius. Những người Ngộ Đạo cũng được biết đến qua các bài viết chống lại họ của triết gia Hy Lạp Plotinus.
+Công tác nghiên cứu về Thuyết Ngộ đạo từ lâu đã gặp nhiều trở ngại, bởi lẽ nguồn tư liệu chính yếu mà chúng ta có được đều đến từ các trước tác giả chống tà giáo trong Hội thánh. Những tác giả chính yếu đã luận bàn về Thuyết Ngộ đạo và còn lưu giữ các tài liệu của phái này bao gồm Irenaeus, Clement thành Alexandria, Tertullian, Hippolytus và Epiphaniu. Ngoài ra, người ta cũng biết đến những người theo phái Ngộ đạo qua các tác phẩm phản biện của triết gia Hy Lạp Plotinus.
 
-Ngay cả khi các tác giả này bảo tồn các trích dẫn từ các tác phẩm Ngộ Đạo, chúng thường bị tách khỏi ngữ cảnh và luôn được sử dụng cho mục đích tranh luận. Trong lịch sử, thường thì kẻ thua cuộc chỉ được biết đến qua mô tả của đối thủ, và ít người muốn được nhớ đến chỉ qua những gì kẻ thù nói về mình.
+Ngay cả khi các tác giả này có bảo tồn các trích dẫn từ các tác phẩm Ngộ Đạo, thì những trích dẫn ấy thường bị tách rời khỏi ngữ cảnh và luôn được sử dụng với mục đích đả kích hoặc biện giáo. Lịch sử thường cho thấy rằng kẻ bại trận chỉ được biết đến qua lời mô tả của những người đối nghịch, và hẳn chẳng ai lại muốn hậu thế nhớ đến mình chỉ qua những gì kẻ thù nói về mình.
 
-Một số bổ sung cho những gì các giáo phụ chống tà giáo nói đã có sẵn từ một vài tác phẩm Ngộ Đạo gốc được bảo tồn bằng tiếng Coptic, từ các văn bản Hermetic (một dạng Ngộ Đạo ngoại giáo), và từ các nguồn Manichaean và Mandaean sau này (hai phong trào chịu ơn Thuyết Ngộ Đạo trước đó).
+Để bổ sung cho những gì các giáo phụ chống tà giáo đã nói, chúng ta cũng có được một vài nguyên bản của phái Ngộ đạo được lưu giữ bằng tiếng Coptic, từ các văn bản Hermetic (Hermetic writings — một hình thức Ngộ đạo thuộc ngoại giáo), cùng các nguồn tư liệu từ phái Manichaean và Mandaean về sau (đây là hai phong trào chịu ảnh hưởng sâu sắc từ Thuyết Ngộ đạo thời kỳ đầu).
 
-Tình hình này đã thay đổi đáng kể với việc phát hiện ra một bộ sưu tập mười hai cuốn sách (codex) (cộng với các tờ khác) vào năm 1945 tại Nag Hammadi ở Ai Cập, được viết vào thế kỷ thứ tư và chứa hầu hết các tác phẩm Ngộ Đạo gốc trong bản dịch tiếng Coptic. Việc xuất bản các tác phẩm này trong các ấn bản phê bình và bản dịch đáng tin cậy đã biến chúng thành trọng tâm chính cho việc nghiên cứu Thuyết Ngộ Đạo cổ đại.
+Tuy nhiên, cục diện nghiên cứu đã thay đổi hoàn toàn vào năm 1945 với sự kiện tìm thấy tại Nag Hammadi, Ai Cập, một bộ sưu tập gồm mười hai tập thủ bản (codices) cùng một số trang rời khác. Những tài liệu này được viết vào thế kỷ thứ tư chứa hầu hết các tác phẩm Ngộ Đạo gốc trong bản dịch tiếng Coptic. Việc xuất bản các tác phẩm này qua các ấn bản được hiệu đính kỹ lưỡng cùng những bản dịch đáng tin cậy đã đưa chúng trở thành trọng tâm chính cho việc nghiên cứu về Thuyết Ngộ đạo cổ đại.
 
-Bộ sưu tập Nag Hammadi có thể được nhóm lại thành năm loại văn bản (xem biểu đồ). Trong số này, quan trọng nhất là hai loại đầu tiên: (1) những tác phẩm gần với tư tưởng "Ngộ Đạo" nguyên thủy hơn—được đặt tên là "Sethian", "Barbelognostic", "Ophite", hoặc các tên khác và có thể đại diện cho các biến thể trong một trường phái hoặc các hệ thống riêng biệt—và (2) những tác phẩm từ trường phái Valentinian.
+Bộ sưu tập Nag Hammadi có thể được phân loại khái quát thành năm nhóm văn phẩm.
 
-Các tường thuật của các giáo phụ cung cấp một phần cấu trúc thần thoại của các hệ thống Ngộ Đạo, nhưng các tài liệu Nag Hammadi mới cung cấp nhiều hơn về tinh thần sống động và các phương pháp giải thích được sử dụng. Loại nguồn này giúp giải thích loại nguồn kia.
+Trong số đó, hai nhóm đầu tiên nắm giữ vai trò quan trọng nhất:
+
+    1. Những tác phẩm gần gũi với tư tưởng 'Ngộ đạo' nguyên thủy — thường được gắn với các tên gọi như "Sethian", "Barbelognostic", "Ophite", hoặc các danh xưng khác; chúng có thể đại diện cho những biến thể trong cùng một trường phái hoặc là những hệ thống riêng biệt.
+
+    2. Những tác phẩm thuộc trường phái Valentinian.
+
+Nếu như các ký thuật của các Giáo phụ phác họa nên cấu trúc thần thoại của các hệ thống Ngộ đạo, thì những tài liệu mới tìm thấy tại Nag Hammadi lại làm toát lên tinh thần sống động và các phương pháp giải kinh mà họ đã sử dụng. Hai nguồn tư liệu này bổ trợ và giúp giải nghĩa lẫn nhau.
+
+```mermaid
+%%{init: {"theme": "base"}}%%
+mindmap
+  root(("**THƯ VIỆN**<br/>**NAG HAMMADI**"))
+    (("1. Các Tác phẩm<br/>Sethian"))
+      ("Tập trung vào<br/>Thần thoại Cội nguồn")
+        ("Sách Kín của Giăng<br/>(Apocryphon of John)")
+        ("Khải huyền của A-đam<br/>(Apocalypse of Adam)")
+        ("Bản chất các Đấng Cai trị<br/>(Hypostasis of the Archons)")
+        ("Phúc Âm của người Ai Cập<br/>(Gospel of the Egyptians)")
+        ("Tư tưởng Tiên khởi Tam dạng<br/>(Trimorphic Protennoia)")
+      ("Tập trung vào<br/>Sự thăng thiên của Linh hồn")
+        ("Zostrianos")
+        ("Allogenes<br/>(Người Ngoại bang)")
+        ("Ba Bia đá của Seth<br/>(Three Steles of Seth)")
+    (("2. Các Tác phẩm<br/>phái Valentinian"))
+      ("Phúc Âm Sự Thật<br/>(Gospel of Truth)")
+      ("Luận về Sự Phục sinh<br/>(Treatise on the Resurrection)")
+      ("Sách chuyên khảo Tam phần<br/>(Tripartite Tractate)")
+      ("Phúc Âm Phi-líp<br/>(Gospel of Philip)")
+    (("3. Truyền thống Thô-ma<br/>tại Sy-ri"))
+      ("Phúc Âm Thô-ma<br/>(Gospel of Thomas)")
+      ("Sách của Thô-ma Kẻ Chiến đấu<br/>(Book of Thomas the Contender)")
+    (("4. Các Tác phẩm<br/>dòng Hermetic"))
+      ("Asclepius")
+    (("5. Các Tác phẩm khác, bao<br/>gồm các tác phẩm đạo đức<br/>  hoặc khôn ngoan của<br/>Cơ Đốc giáo phi Ngộ đạo"))
+      ("Lời dạy của Silvanus<br/>(Teachings of Silvanus)")
+      ("Các câu danh ngôn của Sextus<br/>(Sentences of Sextus)")
+```
 
 ### B. Vấn Đề Nguồn Gốc
 
-Trước khi phát hiện ra thư viện Nag Hammadi, ba nguồn gốc khác nhau cho tư tưởng Ngộ Đạo đã được giả định:
+Trước khi phát hiện ra thư viện Nag Hammadi, tư tưởng Ngộ Đạo đã được cho là bắt nguồn từ ba nguồn gốc khác nhau:
 
-1.  Quan điểm của các giáo phụ rằng Thuyết Ngộ Đạo là một tà giáo Cơ Đốc, là kết quả của việc các Cơ Đốc nhân giải thích đức tin của họ cho chính mình và hàng xóm bằng các thuật ngữ triết học, đã có sự ủng hộ của giới học giả hiện đại.
-2.  Quan điểm ngược lại, trình bày Thuyết Ngộ Đạo về cơ bản là một phong trào phi Cơ Đốc (một số người truy nguyên nó đến Ba Tư)—đại diện cho tâm trạng tuyệt vọng, dung hợp của thời cổ đại muộn đã tái cấu trúc một thế giới quan triết học từ các thần thoại và vị thần cũ, và trong quá trình đó đã khoác lên một lớp vỏ Cơ Đốc giáo, thứ mà sau đó cung cấp một mô hình cho các trí thức Cơ Đốc giải thích đức tin của họ—được ủng hộ bởi trường phái lịch sử tôn giáo và tiếp tục có nhiều người ủng hộ.
-3.  Một quan điểm ít phổ biến hơn cho rằng sự suy đoán Ngộ Đạo bắt đầu trong các giới Do Thái, có lẽ như một nỗ lực tìm kiếm sự vĩnh cửu khi vương quốc của Đức Chúa Trời không đến (ví dụ: các aeon như là các "thời đại" của thời gian trong thuyết khải huyền đã trở thành các thành phần vũ trụ của pleroma thần thánh trong Thuyết Ngộ Đạo), đã tìm thấy sự ủng hộ mới nhờ các tài liệu Nag Hammadi.
+1.  Quan điểm của các Giáo phụ cho rằng Thuyết Ngộ Đạo là một tà giáo Cơ Đốc là kết quả của việc các Cơ Đốc nhân giải thích đức tin của họ cho chính mình và láng giềng bằng các thuật ngữ triết học. Quan điểm này đã được giới học giả hiện đại ủng hộ.
 
-Dường như có những yếu tố sự thật trong cả ba cách giải thích. Một số ý tưởng trong Thuyết Ngộ Đạo đã cũ hơn Cơ Đốc giáo, nhưng một hệ thống Ngộ Đạo hoàn chỉnh chưa được xác định trước Cơ Đốc giáo. Một số biểu hiện của Thuyết Ngộ Đạo, đặc biệt là những biểu hiện bị các giáo phụ chống lại, là các tà giáo Cơ Đốc. Một số hệ thống Ngộ Đạo được biết đến từ các văn bản Nag Hammadi cho thấy sự gần gũi với Do Thái giáo, nếu không muốn nói là thực sự có nguồn gốc Do Thái.
+2.  Quan điểm ngược lại, trình bày Thuyết Ngộ Đạo về cơ bản là một phong trào phi Cơ Đốc (một số người truy nguyên nó đến Ba Tư). Nó đại diện cho tâm trạng tuyệt vọng và pha trộn của thời cổ đại muộn, khi mà con người ta tái cấu trúc một thế giới quan triết học từ các thần thoại và vị thần cũ, và đã khoác lên một lớp vỏ Cơ Đốc giáo trong quá trình đó. Về sau, nó đã cung cấp một mô hình cho các trí thức Cơ Đốc giải thích đức tin của họ — được ủng hộ bởi trường phái lịch sử tôn giáo và tiếp tục có nhiều người ủng hộ.
 
-Các tác phẩm Ngộ Đạo tại Nag Hammadi không có đặc điểm Cơ Đốc rõ ràng có thể chỉ ra rằng Thuyết Ngộ Đạo ban đầu hoặc cũng là một phong trào phi Cơ Đốc, nhưng không nhất thiết, vì nếu những tác phẩm này có thể được đọc bởi các Cơ Đốc nhân, chúng cũng có thể là các sáng tác của Cơ Đốc giáo.
+3.  Một quan điểm ít phổ biến hơn cho rằng sự suy đoán Ngộ Đạo bắt đầu trong các giới Do Thái, có lẽ như một nỗ lực tìm kiếm sự vĩnh hằng khi vương quốc của Đức Chúa Trời dường như không bao giờ đến (ví dụ: các aeon như là các "thời đại" của thời gian trong thuyết khải huyền đã trở thành các thành phần vũ trụ của pleroma thần thánh trong Thuyết Ngộ Đạo), đã tìm thấy sự ủng hộ mới nhờ các tài liệu Nag Hammadi.
+
+Dường như trong cả ba cách giải thích đều có phần nào sự thật bên trong. (1) Một số ý tưởng trong Thuyết Ngộ Đạo có nguồn gốc từ trước Cơ Đốc giáo, nhưng một hệ thống Ngộ Đạo hoàn chỉnh chưa được xác định trước Cơ Đốc giáo. (2) Một số biểu hiện của Thuyết Ngộ Đạo, đặc biệt là những biểu hiện bị các giáo phụ chống lại, được cho là các tà giáo Cơ Đốc. (3) Một số hệ thống Ngộ Đạo được biết đến từ các văn bản Nag Hammadi cho thấy sự gần gũi với Do Thái giáo, nếu không muốn nói là thực sự có nguồn gốc Do Thái.
+
+Các tác phẩm Ngộ Đạo tại Nag Hammadi không có đặc điểm Cơ Đốc rõ ràng cũng có thể chỉ ra rằng đây là Thuyết Ngộ Đạo ban đầu hoặc ít nhất nó cũng là một phong trào phi Cơ Đốc. Nhưng điều đó không nhất thiết phải đúng hoàn toàn, vì nếu những tác phẩm này có thể được đọc bởi các Cơ Đốc nhân, chúng cũng có thể là các sáng tác của Cơ Đốc giáo.
 
 Một quan điểm trung dung sẽ là Thuyết Ngộ Đạo và Cơ Đốc giáo đã lớn lên cùng nhau nhưng từ các nguồn khác nhau. Chúng có một số tương tác trong thế kỷ thứ nhất và phát triển thành các hình thức xác định như các tôn giáo riêng biệt trong thế kỷ thứ hai.
 
-Một số tác giả đương đại phân biệt giữa "Gnosis" (Sự hiểu biết) và "Gnosticism" (Thuyết Ngộ Đạo), sử dụng thuật ngữ trước cho bầu không khí rộng lớn hơn thích hợp cho lối suy nghĩ Ngộ Đạo và thuật ngữ sau cho các hệ thống tư tưởng đã phát triển.
+Một số tác giả đương đại phân biệt giữa "Gnosis" (Sự hiểu biết) và "Gnosticism" (Thuyết Ngộ Đạo). Họ sử dụng thuật ngữ đầu tiên cho một khái niệm rộng lớn hơn, thích hợp hơn cho lối suy nghĩ Ngộ Đạo; và thuật ngữ thứ hai cho các hệ thống tư tưởng đã phát triển.
 
-Như A. D. Nock đã nói: "Ngoài phong trào Cơ Đốc, đã có một lối suy nghĩ Ngộ Đạo, nhưng không có hệ thống tư tưởng Ngộ Đạo." Ông tiếp tục: "Chính sự xuất hiện của Chúa Giê-xu và niềm tin rằng Ngài là một thực thể siêu nhiên xuất hiện trên trái đất đã kết tủa các yếu tố trước đó lơ lửng trong dung dịch".
+Như A. D. Nock đã nói: "Ngoài phong trào Cơ Đốc, đã có một lối suy tư Ngộ Đạo, nhưng không có một hệ thống tư tưởng Ngộ Đạo nào cả." Ông tiếp tục: "Chính sự xuất hiện của Chúa Giê-xu và niềm tin rằng Ngài là một thực thể siêu nhiên xuất hiện trên trái đất đã "kết tủa" các nguyên tố vốn trước đó bay lơ lửng trong dung dịch".
 
 Các hệ thống Ngộ Đạo phát triển đầy đủ mà chúng ta biết từ các giáo phụ và được phản ánh trong thư viện Nag Hammadi, bất kể tiền thân của chúng là gì, đều thuộc về thế kỷ thứ hai. Chính Thuyết Ngộ Đạo Cơ Đốc đã tạo ra tác động, vì những người theo thuyết Tân Platon coi Thuyết Ngộ Đạo là một sự sai lệch của Cơ Đốc giáo; đối với họ, những người Ngộ Đạo là những Cơ Đốc nhân với một loại yêu sách trở thành trí thức được đặc trưng bởi thuyết nhị nguyên nồng nhiệt và tính quy về con người (anthropocentricity) cực đoan.
 
-Nói rằng Thuyết Ngộ Đạo có nguồn gốc phi Cơ Đốc không nhất thiết có nghĩa là nó có trước Cơ Đốc giáo. Bất kể các điểm tiếp xúc giữa Cơ Đốc giáo và Thuyết Ngộ Đạo là gì, tuyên bố trước có thể được khẳng định; tuyên bố sau không được xác nhận.
+Nói rằng Thuyết Ngộ Đạo có nguồn gốc phi Cơ Đốc thì nó không nhất thiết phải có trước Cơ Đốc giáo đâu. Bất kể các điểm chung giữa Cơ Đốc giáo và Thuyết Ngộ Đạo là gì, thì tuyên bố đầu tiên có thể được khẳng định, nhưng tuyên bố thứ hai thì chưa có gì xác nhận được.
 
 ### C. Các Thành Phần Của Thuyết Ngộ Đạo
 
 Cuộc tranh luận về nguồn gốc chỉ ra các yếu tố đã đi vào các hệ thống Ngộ Đạo phát triển của thế kỷ thứ hai. Những hệ thống này chứa đựng các thành phần Do Thái, ngoại giáo và Cơ Đốc.
 
-Nhiều suy đoán Ngộ Đạo có thể được giải thích là nảy sinh từ những suy ngẫm về các chương đầu của sách Sáng Thế Ký. Một số phát triển trong Do Thái giáo có thể được xem là nền tảng cho sự xuất hiện của Thuyết Ngộ Đạo: ảnh hưởng của tư duy nhị nguyên, các suy đoán bí truyền, nhân cách hóa Sự Khôn Ngoan, các thực thể trung gian được tìm thấy trong thiên sứ học phát triển. Do đó, nhiều người hiện nay tìm đến môi trường của Do Thái giáo dị giáo hoặc cụ thể là những người Do Thái nổi loạn chống lại di sản tôn giáo của họ để tìm nguồn gốc của Thuyết Ngộ Đạo.
+Nhiều suy tư Ngộ Đạo có thể được giải thích là nảy sinh từ những suy ngẫm về các chương đầu của sách Sáng Thế Ký. Một số phát triển trong Do Thái giáo có thể được xem là nền tảng cho sự xuất hiện của Thuyết Ngộ Đạo: ảnh hưởng của tư duy nhị nguyên, các suy tư bí truyền, nhân cách hóa Sự Khôn Ngoan, hay các thực thể trung gian được tìm thấy trong thiên sứ học phát triển. Do đó, nhiều người hiện nay đang tìm đến những nơi của Do Thái giáo dị giáo hoặc cụ thể là những người Do Thái nổi loạn chống lại di sản tôn giáo của họ để tìm nguồn gốc của Thuyết Ngộ Đạo.
 
-Triết học Hy Lạp cung cấp một thành phần lớn khác trong Thuyết Ngộ Đạo. Ảnh hưởng của Tân Pythagoras có thể được nhìn thấy trong sự đánh giá tiêu cực về vật chất, các thực hành khổ tu và các suy đoán về vũ trụ. Một số người nói về Thuyết Ngộ Đạo như là "Chủ nghĩa Platon chạy hoang", vì những tuyên bố trong Plato được phát triển bởi những người Ngộ Đạo: một hữu thể tối cao xa xôi và linh hồn bất tử nhưng bị giam cầm trong thể xác. Các sự tương đồng ngoại giáo cũng có thể được tìm thấy trong văn học Hermetic và Sấm Truyền Chaldaean.
+Triết học Hy Lạp cung cấp một thành phần lớn mà chúng ta chưa bàn tới trong Thuyết Ngộ Đạo. Ảnh hưởng của Tân Pythagoras có thể được nhìn thấy trong sự đánh giá tiêu cực về vật chất, các thực hành khổ tu và các suy đoán về vũ trụ. Một số người nói về Thuyết Ngộ Đạo như là "Chủ nghĩa Platon chạy hoang", vì những tuyên bố trong Plato được phát triển bởi những người Ngộ Đạo: một hữu thể tối cao xa xôi và linh hồn bất tử nhưng bị giam cầm trong thể xác. Các sự tương đồng ngoại giáo cũng có thể được tìm thấy trong văn học Hermetic và Sấm Truyền Chaldaean.
 
-Nhiều điều trong Tân Ước, đặc biệt là Phao-lô và Giăng, tỏ ra dễ bị giải thích theo hướng Ngộ Đạo, đến nỗi một số học giả hiện đại coi các tác giả Tân Ước này là đang sử dụng tư duy Ngộ Đạo để hình thành các ý tưởng của riêng họ.
+Nhiều điều trong Tân Ước, đặc biệt là Phao-lô và Giăng, được cho là dễ bị giải thích theo hướng Ngộ Đạo, đến nỗi một số học giả hiện đại coi các tác giả Tân Ước này là đang sử dụng tư duy Ngộ Đạo để hình thành các ý tưởng của riêng họ.
 
-Mặc dù chúng ta vẫn tiếp tục thói quen nói về Thuyết Ngộ Đạo như thể nó là một thực thể đơn lẻ, nhưng điều này khó có thể xảy ra. Mỗi giáo sư Ngộ Đạo đã lấy các yếu tố thành phần này và ghép chúng lại với nhau theo một lối suy nghĩ Ngộ Đạo để xây dựng hệ thống của riêng mình. Do đó, có rất nhiều sự đa dạng trong các chi tiết của các hệ thống của các giáo sư Ngộ Đạo khác nhau. Thuyết Ngộ Đạo là tập hợp của một loạt các phản ứng cá nhân đối với tình hình tôn giáo được thực hiện bởi các giáo sư, những người không nghĩ mình là lập dị.
+Mặc dù chúng ta vẫn tiếp tục thói quen nói về Thuyết Ngộ Đạo như thể nó là một thực thể đơn lẻ, nhưng điều này khó có thể xảy ra. Mỗi giáo sư Ngộ Đạo đã lấy các yếu tố thành phần này và ghép chúng lại với nhau theo một lối suy nghĩ Ngộ Đạo để xây dựng hệ tư tưởng của riêng mình. Do đó, có rất nhiều sự đa dạng khi ta nói đến các chi tiết của từng lối suy nghĩ từ các giáo sư Ngộ Đạo khác nhau. Thuyết Ngộ Đạo là tập hợp của một loạt các phản ứng cá nhân đối với tình hình tôn giáo được thực hiện bởi các giáo sư, những người không nghĩ mình là lập dị.
 
 ### D. Đặc Điểm Chung Của Các Thần Thoại Ngộ Đạo
 
-Mỗi giáo sư Ngộ Đạo có hệ thống tư tưởng riêng để đại diện cho thực tại. Điều gắn kết mỗi cộng đồng Ngộ Đạo với nhau là thần thoại về nguồn gốc, ý thức về bản sắc nhóm và ngôn ngữ nội bộ.
+Mỗi giáo sư Ngộ Đạo có hệ thống tư tưởng riêng để đại diện cho thực tại của họ. Điều gắn kết mỗi cộng đồng Ngộ Đạo với nhau là thần thoại về nguồn gốc, ý thức về bản sắc nhóm và ngôn ngữ nội bộ.
 
 Các đặc điểm chính của các thần thoại khác nhau là: (1) yếu tố thần linh ban đầu sản sinh ra các nguyên lý thuộc linh khác; (2) một "lỗi lầm" đã xảy ra trong thế giới thần linh, thuộc linh; (3) kết quả là vật chất ra đời; (4) một số bản chất thuộc linh tinh khiết được gieo vào (một số) linh hồn; (5) một "đấng cứu chuộc" bày tỏ con đường thoát khỏi thế giới vật chất cho yếu tố thần linh; (6) linh hồn đi qua các cõi của các kẻ cai trị thế gian trong hành trình trở về quê hương thuộc linh của mình.
 
-Nỗ lực của Thuyết Ngộ Đạo nhằm giải thích vấn đề cái ác đã đặt ra một sự sa ngã trong thế giới thần linh, trong thiên tính. Nỗ lực "đẩy lên trên" vấn đề cái ác này là một giải pháp đáng chú ý, nhưng cuối cùng không thỏa đáng cho một trong những câu hỏi triết học khó khăn của con người.
+Nỗ lực của Thuyết Ngộ Đạo nhằm giải thích vấn đề cái ác đã đặt ra một sự sa ngã trong thế giới thần linh, trong thiên tính. Nỗ lực "đề cao" vấn đề cái ác này là một điều đáng chú ý, nhưng hoàn toàn không thỏa đáng để trở thành câu trả lời cho một trong những câu hỏi triết học khó khăn của con người.
 
 Cách giải quyết câu hỏi này là một biểu hiện của việc sử dụng khái niệm "tương ứng siêu hình" mang tính nửa thơ ca, nửa triết học của Ngộ Đạo, đặc biệt là Valentinian. Áp dụng ý tưởng của Plato về các thực tại trần thế như là sự mô phỏng của thế giới Ý niệm, những người Ngộ Đạo xem các thành phần của *pleroma* (sự đầy trọn) tương đương với tổng thể bản chất thuộc linh của nhân loại. Có một bản sao trên trời của linh hồn. Theo đó, các câu chuyện Phúc Âm được đọc như những phản chiếu của vở kịch diễn ra trong thế giới thiên thượng.
 
 Do đó, bất chấp thuyết nhị nguyên của nó, "Sự hiểu biết (gnosis) của Thuyết Ngộ Đạo bao gồm bản sắc thần thánh của người biết (người Ngộ Đạo), cái được biết (bản chất thần thánh của cái tôi siêu việt của một người), và phương tiện mà người đó biết (gnosis như một khả năng thần thánh tiềm ẩn cần được đánh thức và hiện thực hóa)" (Bianchi).
 
-### E. Các Giáo Sư Chính
+### E. Các Giáo Sư Chính Bị Coi Là Dị Giáo
 
-Các tác giả chống tà giáo của hội thánh đầu tiên đã truy nguyên "Thuyết Ngộ Đạo" đến Simon Magus, "cha đẻ của mọi tà giáo". Gia phả tà giáo này trong các giáo phụ có vẻ nhân tạo, bị ảnh hưởng bởi các danh sách kế thừa khác nhau được sử dụng trong thời cổ đại, và lời kể trong Công vụ chương 8 không gợi ý rằng Simon nắm giữ bất kỳ giáo lý "Ngộ Đạo" đặc biệt nào.
+| Tên | Thời gian | Địa điểm |
+| --- | --- | --- |
+| **Simon Magus** | Thế kỷ thứ nhất | Samaria và Rome |
+| **Menander** | Cuối thế kỷ thứ nhất | Samaria và Antioch |
+| **Cerinthus** | Cuối thế kỷ thứ nhất | Tiểu Á (Asia Minor) |
+| **Saturninus** | Đầu thế kỷ thứ hai | Antioch |
+| **Carpocrates** | Đầu thế kỷ thứ hai | Alexandria |
+| **Basilides** | Đầu thế kỷ thứ hai | Alexandria |
+| **Valentinus** | Thế kỷ thứ hai | Alexandria và Rome |
+| **Ptolemy** | Thế kỷ thứ hai | Rome? |
+| **Theodotus** | Thế kỷ thứ hai | Alexandria? |
+| **Heracleon** | Thế kỷ thứ hai | Italy? |
+
+#### Simon Magnus
+
+Các tác giả chống tà giáo của hội thánh đầu tiên đã truy nguyên "Thuyết Ngộ Đạo" đến Simon Magus, "cha đẻ của mọi tà giáo". Gia phả tà giáo này trong các giáo phụ trông có vẻ nhân tạo, và bị ảnh hưởng bởi các danh sách kế thừa khác nhau được sử dụng trong thời cổ đại. Trong khi lời kể trong Công vụ chương 8 không gợi ý rằng Simon nắm giữ bất kỳ giáo lý "Ngộ Đạo" đặc biệt nào.
 
 Có thể đã có sự nhầm lẫn giữa Simon trong Công vụ 8 và một Simon khác, là một người Ngộ Đạo; hoặc Công vụ 8 có thể không kể toàn bộ câu chuyện; hoặc Simon đang trên đường trở thành một người Ngộ Đạo, và những người theo ông sau này có thể đã trở thành người Ngộ Đạo.
 
-Dù sao đi nữa, việc gán Thuyết Ngộ Đạo cho Simon có thể chỉ ra nguồn gốc Samaritan, điều mà một số người hiện nay đang hướng tới. Giáo lý sau này được gán cho Simon có các đặc điểm của các sơ đồ Ngộ Đạo ở chỗ nó bao gồm một sự sa ngã khỏi thiên tính và sự giáng xuống của một quyền năng thiên thượng (chính Simon) để mang lại sự cứu rỗi.
+Dù sao đi nữa, việc gán Thuyết Ngộ Đạo cho Simon có thể chỉ ra nguồn gốc Samaritan, điều mà một số người hiện nay đang hướng tới. Giáo lý sau này được gán cho Simon có các đặc điểm của các thuyết Ngộ Đạo ở chỗ nó bao gồm một sự sa ngã khỏi thiên tính và sự giáng xuống của một quyền năng thiên thượng (chính Simon) để mang lại sự cứu rỗi.
+
+#### Cerinthus
 
 Các báo cáo dường như mâu thuẫn được đưa ra về giáo lý của Cerinthus, người được cho là đã bị sứ đồ Giăng chống đối ở Ê-phê-sô. Báo cáo sớm nhất còn sót lại (Irenaeus) đặt Cerinthus vào quỹ đạo Ngộ Đạo: Một Quyền Năng thấp hơn chứ không phải Đức Chúa Trời Tối Cao đã tạo ra thế giới; Chúa Giê-xu là con trai của Giô-sép và Ma-ri, người vượt trội hơn những người khác về sự công bình và khôn ngoan; Đấng Christ thần linh đã giáng xuống trên ông dưới hình dạng một con chim bồ câu khi ông chịu báp-têm và bay đi trước khi ông bị đóng đinh, vì vậy Đấng Christ vẫn là một thực thể thuộc linh không chịu khổ.
 
-Một báo cáo muộn hơn một chút biến Cerinthus thành một giáo sư của thuyết thiên hy niên Do Thái và gán sách Khải Huyền cho ông. Một cách để dung hòa sự phi lý dường như của những bức tranh này về Cerinthus là ông đã đi trước Marcion bằng cách nói rằng sự mong đợi của người Do Thái về một vương quốc cứu thế trên trái đất là một cách đọc chính xác các lời tiên tri Cựu Ước, nhưng Đấng Christ đã bày tỏ người Cha không biết và một sự cứu rỗi thuộc linh.
+Một báo cáo muộn hơn một chút biến Cerinthus thành một giáo sư của thuyết thiên hy niên Do Thái và gán sách Khải Huyền cho ông. Một cách để dung hòa sự phi lý dường như của những bức tranh này về Cerinthus là ông đã đi trước Marcion bằng cách nói rằng sự mong đợi của người Do Thái về một vương quốc cứu thế trên trái đất là một cách đọc chính xác các lời tiên tri Cựu Ước, nhưng Đấng Christ đã bày tỏ cho chúng ta một người Cha "không biết" và một sự cứu rỗi thuộc linh.
 
-Irenaeus đã vạch ra một dòng dõi dẫn từ Simon đến Menander, Saturninus và Basilides. Đối với Saturninus, ông gán cho một bản tóm tắt gọn gàng tương ứng với các yếu tố chính của thần thoại Ngộ Đạo cơ bản: Người Cha không biết đã tạo ra các cấp độ khác nhau của các thực thể thiên sứ; bảy trong số các thiên sứ này đã tạo ra thế giới và con người đầu tiên. Đức Chúa Trời của người Do Thái là một trong những thiên sứ này. Đấng Christ, là vô hình, chỉ đến trong hình dạng để lật đổ Đức Chúa Trời của người Do Thái và cứu những con người tốt lành. Những người theo ông từ bỏ hôn nhân và sinh sản, và ăn chay.
+#### Saturninus
 
-Carpocrates cũng khẳng định rằng thế giới được tạo ra bởi các thiên sứ, những kẻ thấp kém hơn nhiều so với người Cha không sinh ra. Chúa Giê-xu được sinh ra bởi Giô-sép giống như những người khác, nhưng vì sự tinh khiết của linh hồn Ngài, quyền năng từ trên cao đã giáng xuống Ngài, cho phép Ngài thoát khỏi những kẻ cai trị thế gian. Những linh hồn giống như linh hồn của Chúa Giê-xu cũng nhận được quyền năng để thoát khỏi những kẻ cai trị thế gian và thậm chí có thể trở nên mạnh hơn các môn đồ của Chúa Giê-xu hoặc thậm chí chính Chúa Giê-xu.
+Irenaeus đã vạch ra một dòng dõi dẫn từ Simon đến Menander, Saturninus và Basilides. Đối với Saturninus, ông gán cho một bản tóm tắt gọn gàng tương ứng với các yếu tố chính của thần thoại Ngộ Đạo cơ bản: Người Cha "không biết" đã tạo ra các cấp độ khác nhau của các thực thể thiên sứ; bảy trong số các thiên sứ này đã tạo ra thế giới và con người đầu tiên. Đức Chúa Trời của người Do Thái là một trong những thiên sứ này. Đấng Christ, là vô hình, chỉ đến trong hình dạng để lật đổ Đức Chúa Trời của người Do Thái và cứu những con người tốt lành. Những người theo ông từ bỏ hôn nhân và sinh sản, và ăn chay.
+
+#### Carpocrates
+
+Carpocrates cũng khẳng định rằng thế giới được tạo ra bởi các thiên sứ, những kẻ thấp kém hơn nhiều so với người Cha "không được sinh ra". Chúa Giê-xu được sinh ra bởi Giô-sép giống như những người khác, nhưng vì sự tinh khiết của linh hồn Ngài, quyền năng từ trên cao đã giáng xuống Ngài, cho phép Ngài thoát khỏi những kẻ cai trị thế gian. Những linh hồn giống như linh hồn của Chúa Giê-xu cũng nhận được quyền năng để thoát khỏi những kẻ cai trị thế gian và thậm chí có thể trở nên mạnh hơn các môn đồ của Chúa Giê-xu hoặc thậm chí chính Chúa Giê-xu.
 
 Những người theo Carpocrates tự gọi mình là "Gnostics" (Những người Ngộ Đạo), nhưng họ có những đặc điểm không giống những người khác được gọi là Ngộ Đạo. Họ dạy về sự luân hồi và trái ngược với sự khổ tu liên quan đến tình dục (đặc trưng của những người Ngộ Đạo khác), họ là những người phóng túng, tham gia vào sự vô luân tình dục. Con trai của Carpocrates, Epiphanes, bảo vệ sự bừa bãi dựa trên cơ sở của một "luật tự nhiên" biến mọi thứ thành tài sản chung.
 
-Basilides có một vũ trụ luận phức tạp hơn nhiều so với các giáo sư khác, những người tìm cách kết hợp Cơ Đốc giáo với các suy đoán Ngộ Đạo. Người Cha không sinh ra (hoặc "Đức Chúa Trời không tồn tại", tức là Đức Chúa Trời vượt ra ngoài sự tồn tại, trong một phiên bản khác) đã sinh ra các phẩm chất thuộc linh khác nhau và từ đó sản sinh ra "các quyền năng, chủ quyền và thiên sứ", mỗi bộ cho tất cả 365 tầng trời. Trong số các thực thể thiên thượng có một Archon (Kẻ cai trị) là Đức Chúa Trời của người Do Thái. Người Cha không sinh ra đã sai Con đầu lòng là Tâm trí (hoặc Trí tuệ) của mình để giải phóng những người tin vào người khỏi quyền lực của những thực thể đã tạo ra thế giới. Sứ giả này tương ứng với Chúa Giê-xu, người đã làm phép lạ nhưng không chịu khổ. Simon người Cyrene, người đã vác thập tự giá của Chúa Giê-xu, đã bị đóng đinh một cách ngu dốt thế chỗ Ngài, trong khi Chúa Giê-xu, mang hình dạng của Simon, đứng bên cạnh và cười nhạo họ rồi thăng thiên vô hình về với Cha, đấng đã sai Ngài. Sự cứu rỗi chỉ thuộc về linh hồn, không phải thể xác. Những người theo ông sẵn sàng trong thời kỳ bắt bớ để chối bỏ rằng họ là Cơ Đốc nhân, vì họ, giống như các thiên sứ, không thể chịu khổ.
+#### Basilides
+
+Basilides có một vũ trụ luận phức tạp hơn nhiều so với các giáo sư khác, những người tìm cách kết hợp Cơ Đốc giáo với các suy đoán Ngộ Đạo. Người Cha "không được sinh ra" (hoặc "Đức Chúa Trời không tồn tại", tức là Đức Chúa Trời vượt ra ngoài sự tồn tại, trong một phiên bản khác) đã sinh ra các phẩm chất thuộc linh khác nhau và từ đó sản sinh ra "các quyền năng, chủ quyền và thiên sứ", mỗi bộ cho tất cả 365 tầng trời. Trong số các thực thể thiên thượng có một Archon (Kẻ cai trị) là Đức Chúa Trời của người Do Thái. Người Cha không sinh ra đã sai Con đầu lòng là Tâm trí (hoặc Trí tuệ) của mình, để giải phóng những người tin vào người, khỏi quyền lực của những thực thể đã tạo ra thế giới. Sứ giả này tương ứng với Chúa Giê-xu, người đã làm phép lạ nhưng không chịu khổ. Simon người Cyrene, người đã vác thập tự giá của Chúa Giê-xu, đã bị đóng đinh một cách ngu dốt thế chỗ Ngài, trong khi Chúa Giê-xu, mang hình dạng của Simon, đứng bên cạnh và cười nhạo họ rồi thăng thiên vô hình về với Cha, đấng đã sai Ngài. Sự cứu rỗi chỉ thuộc về linh hồn, không phải thể xác. Những người theo ông sẵn sàng để chối bỏ rằng họ là Cơ Đốc nhân trong thời kỳ bắt bớ, vì họ, giống như các thiên sứ, không thể chịu khổ.
+
+#### Valentinus
 
 Trong số những người mà các giáo phụ gọi là "Gnostics", giáo sư có ảnh hưởng nhất cho đến nay là thiên tài tôn giáo Valentinus, một nhà cải cách thần học Ngộ Đạo theo hướng Cơ Đốc. Valentinus được giáo dục ở Alexandria, và sau khi giảng dạy ở đó, ông đến Rô-ma, nơi ông hoạt động trong hội thánh. Theo báo cáo, thất vọng vì hy vọng được bầu làm giám mục không thành, và gặp nhiều sự chống đối đối với sự dạy dỗ của mình, ông đã biến mất.
 
-Rất ít điều chắc chắn là từ Valentinus còn lại, nhưng có ý kiến cho rằng *Phúc Âm Sự Thật* được tìm thấy tại Nag Hammadi là một bài giảng của ông. Valentinus rõ ràng là "Cơ Đốc" hơn những người tiền nhiệm Ngộ Đạo của mình, nhưng ông cũng chiếm dụng ngôn ngữ của Plato đầy đủ hơn.
+Rất ít điều có thể chắc chắn là còn sót lại từ Valentinus, nhưng có ý kiến cho rằng *Phúc Âm Sự Thật* được tìm thấy tại Nag Hammadi là một bài giảng của ông. Valentinus rõ ràng là "Cơ Đốc" hơn những người Ngộ Đạo tiền nhiệm của mình, nhưng ông cũng dầm mình trong triết học của Plato nhiều hơn họ.
 
-Hơn nữa, chủ nghĩa thần bí của Valentinus đã sửa đổi chủ nghĩa thần bí Ngộ Đạo bằng cách hiểu sự cứu rỗi đến thông qua *gnosis*, tri thức về (hoặc sự làm quen trải nghiệm với) đấng cứu thế, bản thân và Đức Chúa Trời. Thần thoại về nguồn gốc của ông bắt đầu không phải với một đơn tử (monad) ban đầu (thực thể đơn lẻ tối hậu) mà với một cặp nguyên lý đầu tiên, Đấng Không Thể Diễn Tả (Vực Sâu) và Sự Im Lặng. Sử dụng ngôn ngữ nông nghiệp, Valentinus nói rằng họ đã sản sinh ra các cặp đôi khác để cấu thành *ogdoad* ("bộ tám") đầu tiên; từ đó xuất phát hai mươi hai quyền năng khác, tạo thành tổng cộng ba mươi *aeon* trong *pleroma* (sự đầy trọn [của vũ trụ thuộc linh]).
+Hơn nữa, chủ nghĩa thần bí của Valentinus đã sửa đổi chủ nghĩa thần bí Ngộ Đạo bằng cách hiểu sự cứu rỗi đến thông qua *gnosis*, tri thức về (hoặc sự trải nghiệm làm quen với) đấng cứu thế, bản thân và Đức Chúa Trời. Thần thoại của ông về nguồn gốc thế giới bắt đầu không phải với một đơn tử ban đầu (một thực thể đơn lẻ tối hậu) mà với một cặp nguyên lý đầu tiên, đó là Đấng Không Thể Diễn Tả (Vực Sâu) và Sự Im Lặng. Sử dụng ngôn ngữ nông nghiệp, Valentinus nói rằng họ đã sản sinh ra các cặp đôi khác để cấu thành *ogdoad* ("bộ tám") đầu tiên; từ đó xuất phát hai mươi hai quyền năng khác, tạo thành tổng cộng ba mươi *aeon* trong *pleroma* (sự đầy trọn [của vũ trụ thuộc linh]).
 
 Một trong những *aeon* này (tên là Sophia, từ tiếng Hy Lạp cho Sự Khôn Ngoan, trong các phiên bản khác của thần thoại) đã nổi loạn và sinh ra Đấng Christ và một cái bóng (vật chất). Đấng Christ trở về *pleroma*, và "người mẹ" nổi loạn đã phát ra Demiurge (đấng sáng tạo). Chúa Giê-xu là một sự phát xuất từ Đấng Christ hoặc từ các *aeon* khác của *pleroma*. Các thực thể trần thế như nhân loại và hội thánh do đó được xem như là những phản chiếu của các thực tại thuộc linh.
 
-Những người theo Valentinus được cho là đã chia thành hai trường phái, phương Tây (ví dụ: Heracleon và Ptolemy) và phương Đông (ví dụ: Theodotus và Bar Daisan hoặc Bardesanes). Những đóng góp ban đầu của riêng họ cho việc giải thích Kinh Thánh chứng thực sự xuất sắc của Valentinus với tư cách là một giáo sư. Heracleon có lẽ đã viết bài giải kinh đầu tiên về một sách Tân Ước, Phúc Âm Giăng, và Ptolemy đưa ra một sơ đồ ba phần để giải thích Luật pháp Cựu Ước, một phần đến từ chính Đức Chúa Trời, một phần từ Môi-se, và một phần từ các trưởng lão. Các giáo phụ cung cấp các báo cáo đầy đủ hơn về những người kế nhiệm ông so với chính Valentinus.
+Những người theo Valentinus được cho là đã chia thành hai trường phái, phương Tây (ví dụ: Heracleon và Ptolemy) và phương Đông (ví dụ: Theodotus và Bar Daisan hoặc Bardesanes). Những đóng góp ban đầu của riêng họ cho việc giải thích Kinh Thánh chứng thực Valentinus với tư cách là một giáo sư xuất sắc. Heracleon có lẽ đã viết bài giải kinh đầu tiên về một sách Tân Ước, Phúc Âm Giăng, và Ptolemy đưa ra một thuyết ba phần để giải thích Luật pháp Cựu Ước, một phần đến từ chính Đức Chúa Trời, một phần từ Môi-se, và một phần từ các trưởng lão. Các giáo phụ cung cấp các báo cáo đầy đủ hơn về những người kế nhiệm ông so với chính Valentinus.
 
-Thường rất khó để rút ra những suy luận từ một hệ thống trí tuệ đến các thực tế xã hội mà nó vận hành, và điều này đặc biệt đúng với Thuyết Ngộ Đạo. Ví dụ, sự nổi bật của các yếu tố nữ tính trong *pleroma* của những người Ngộ Đạo dường như không nhất thiết chuyển thành sự bình đẳng của phụ nữ trong các cộng đồng Ngộ Đạo.
+#### Các Giáo sư Nữ
 
-Tuy nhiên, có những nữ giáo sư nổi bật trong một số giới Ngộ Đạo: ví dụ, một người phụ nữ không tên của giáo phái Cainite, mà sự chê bai phép báp-têm bằng nước của bà đã khiến Tertullian viết *Về Báp-têm*, và Philoumene, một nữ tiên tri và giáo sư có ảnh hưởng đến môn đồ của Marcion là Apelles.
+Rất khó để tìm sự liên hệ giữa một hệ thống trí tuệ đến những thực tế xã hội mà nó vận hành, và điều này đặc biệt đúng với Thuyết Ngộ Đạo. Ví dụ, sự bình đẳng của phụ nữ trong các cộng đồng Ngộ Đạo không nhất thiết phải bắt nguồn sự nổi bật của các yếu tố nữ tính trong *pleroma* của những người Ngộ Đạo.
 
-Tuy nhiên, dường như không có bất kỳ dòng nhất quán nào về sự cởi mở lớn hơn đối với vai trò lãnh đạo của phụ nữ giữa các hội thánh "tà giáo", cũng như không có sự thù địch nhất quán đối với phụ nữ với tư cách là phụ nữ giữa những người "chính thống".
+Tuy nhiên, có những nữ giáo sư nổi bật trong một số giới Ngộ Đạo: ví dụ, một người phụ nữ không tên của giáo phái Cainite, mà bà đã khiến Tertullian viết *Về Báp-têm* (On Baptism) vì sự chê bai của bà về phép báp-têm bằng nước. Và Philoumene, một nữ tiên tri và giáo sư có ảnh hưởng đến môn đồ của Marcion là Apelles.
 
-### F. Các Thần Thoại Mẫu Về Sự Sáng Tạo và Cứu Rỗi Của Ngộ Đạo
+Tuy nhiên, không có bất kỳ sự nhất quán nào về sự cởi mở lớn hơn đối với vai trò lãnh đạo của phụ nữ giữa các hội thánh "tà giáo", cũng như không có sự thù địch nhất quán nào đối với phụ nữ với tư cách là phụ nữ giữa những hội thánh "chính thống".
 
-Hai sự mở rộng sâu rộng của sơ đồ Ngộ Đạo cơ bản đã tồn tại: một từ hình thức "Sethian" của Thuyết Ngộ Đạo và được viết bởi một tín đồ, tìm thấy trong *Apocryphon of John* (cũng được Irenaeus biết đến trong một phiên bản hơi khác); cái kia từ Valentinianism, hệ thống của Ptolemy được Irenaeus mô tả chi tiết.
+### F. Các Thần Thoại Ngộ Đạo Mẫu Về Sự Sáng Tạo và Cứu Rỗi
 
-Theo *Apocryphon of John*, Nguyên Lý Đầu Tiên, "Cha của Mọi Sự", bằng phương tiện của Nguyên Lý Thứ Hai, "Barbelo", đã lấp đầy thế giới thần thánh bằng các sự phát xuất. Đấng tạo ra thế giới này là một Thợ Thủ Công độc ác, "Ialdabaoth". Sự tạo dựng A-đam diễn ra trong hai giai đoạn: đầu tiên, A-đam chỉ được làm bằng linh hồn; ở giai đoạn thứ hai, một vỏ bọc vật chất bao bọc ông.
+Hiện còn lưu lại hai bản diễn giải chi tiết về hệ thống tư tưởng Ngộ Đạo cơ bản: (1) Một bản thuộc phái "Seth," do chính một tín đồ chấp bút và được tìm thấy trong cuốn *Apocryphon of John* (Irenaeus cũng biết đến một phiên bản hơi khác của tài liệu này), (2) Bản còn lại thuộc phái Valentinian, tức hệ thống của Ptolemy, cũng được Irenaeus mô tả rất chi tiết.
 
-*Apocryphon of John* đã là một phiên bản Cơ Đốc của sơ đồ Ngộ Đạo, vì một trong những thực thể thuộc linh là một "Đấng Christ" tiền hữu, và nội dung của tác phẩm được trình bày như một sự mặc khải sau phục sinh của Chúa Giê-xu, tuy nhiên người mặc khải thực sự là Barbelo.
+Theo *Apocryphon of John*, Nguyên Lý Đầu Tiên, tức "Cha của Mọi Sự", thông qua Nguyên Lý Thứ Hai, "Barbelo", đã khiến cho thế giới linh thiêng sung mãn bởi các thực thể phát xuất từ Ngài. Kẻ tạo dựng nên thế giới vật chất này là một Thợ Tạo tác gian ác, tên là "Ialdabaoth". Công cuộc tạo dựng A-đam diễn ra qua hai giai đoạn: thoạt tiên, A-đam được tạo nên chỉ thuần túy bằng linh hồn; đến giai đoạn thứ hai, một lớp vỏ vật chất mới bao bọc lấy ông.
 
-Sự mở rộng của Ptolemy về phiên bản hệ thống Ngộ Đạo của Valentinus rõ ràng là "Cơ Đốc" hơn, mặc dù "không chính thống", và tìm cách đưa ra những giải thích có trật tự hơn cho bức tranh về thế giới thuộc linh.
+*Apocryphon of John* vốn đã là một phiên bản mang sắc thái Cơ Đốc của thuyết Ngộ Đạo, vì một trong các thực thể thuộc linh được nhắc đến là “Đấng Christ” tiền hữu, và nội dung tác phẩm được trình bày như là sự mặc khải của Chúa Jêsus sau khi Ngài phục sinh; tuy nhiên, đấng mặc khải đích thực trong đó lại là Barbelo.
 
-Có sự nhân đôi của các Đấng Christ và Sự Khôn Ngoan cao hơn và thấp hơn. Đấng Christ cao hơn là sự phát xuất từ Trí Tuệ và có Đức Thánh Linh làm phối ngẫu; Đấng Christ thấp hơn, hay Chúa Giê-xu, còn được gọi là Đấng Cứu Thế, là sự phát xuất từ tất cả các *aeon* và đã giáng xuống trên Chúa Giê-xu được sinh ra bởi Ma-ri. Sự Khôn Ngoan cao hơn, Sophia, là một trong ba mươi *aeon*; niềm đam mê của bà đối với Vực Sâu (người Cha hoàn hảo) đã sinh ra Sự Khôn Ngoan thấp hơn, Achamoth, người sau đó đã sinh ra Demiurge (đấng tạo ra thế giới) và cuối cùng trở thành vợ của Chúa Giê-xu đấng cứu thế.
+Sự giải trình của Ptolemy về hệ thống Ngộ đạo theo phái Valentinus thì mang tính chất “Cơ Đốc” một cách rõ ràng hơn, dù vẫn là “không chính thống,” và tìm cách đưa ra những lời giải thích có trật tự hơn về bức tranh của thế giới thuộc linh.
 
-Con người được chia thành ba loại—những người thuộc về vật chất và sẽ bị hư mất, những người thuộc về tâm hồn (psychics) hay Cơ Đốc nhân bình thường, và những người thuộc về tâm linh (spirituals) hay Cơ Đốc nhân Valentinian. Hai nhóm sau nhận được các loại cứu rỗi khác nhau.
+Sự phân đôi (Doubling) giữa Đấng Christ và sự Khôn Ngoan (Wisdom) ở thượng giới và hạ giới được mô tả:
+
+  * Đấng Christ thượng giới là sự phát xuất từ Trí Tuệ (Intellect) và có Đức Thánh Linh là phối ngẫu.
+
+  * Đấng Christ hạ giới, hay Jêsus, còn gọi là Đấng Cứu Thế, là sự phát xuất từ tất cả các *aeon*; Ngài đã giáng trên con người Jêsus, là người được Ma-ri sanh hạ.
+
+Sự Khôn Ngoan thượng giới, Sophia, vốn là một trong ba mươi*aeon*. Lòng khao khát mãnh liệt của bà đối với Vực Thẳm (tức Người Cha toàn hảo) đã sản sinh ra Sự Khôn Ngoan hạ giới, gọi là Achamoth. Achamoth lại sinh ra Thợ Tạo Tác (Demiurge - kẻ dựng nên thế gian này) và cuối cùng trở thành phối ngẫu [^8] của Jêsus, Đấng Cứu Thế.
+
+Con người được phân chia thành ba loại:
+
+  * Hạng người xác thịt (Material): Những kẻ này chắc chắn sẽ bị hư mất.
+
+  * Hạng người tâm hồn (Psychics): Tức là các Cơ Đốc nhân bình thường.
+
+  * Hạng người thuộc linh (Spirituals): Tức là các Cơ Đốc nhân theo phái Valentinus.
+
+Hai nhóm sau sẽ nhận lãnh những phương cách cứu rỗi khác biệt nhau.
 
 ### G. Các Sai Lầm Giáo Lý và Ý Nghĩa Của Thuyết Ngộ Đạo
 
-Trái ngược với xu hướng trong nghiên cứu đương đại là đặt ra sự đa dạng đáng kể trong Cơ Đốc giáo nguyên thủy (được thảo luận thêm bên dưới), những phản ứng của nhiều Cơ Đốc nhân thế kỷ thứ hai đối với các giáo lý được thảo luận trong chương này cho thấy rằng một số giáo lý cơ bản thường được coi là căn bản đối với đức tin Cơ Đốc.
+Trái với khuynh hướng nghiên cứu đương đại thường cho rằng Cơ Đốc giáo trong giai đoạn sơ khai rất đa dạng và thiếu nhất quán (vấn đề này sẽ được bàn kỹ hơn ở phần sau), thì thái độ phản kháng của nhiều Cơ Đốc nhân thế kỷ thứ hai đối với những tà thuyết được đề cập trong chương này lại minh chứng một điều ngược lại: có những giáo lý cốt lõi đã được thừa nhận chung là nền tảng không thể thay đổi của đức tin Cơ Đốc.
 
-Những người đã chiếm ưu thế như là Cơ Đốc nhân chính thống kết luận rằng những người Ngộ Đạo, bao gồm cả Valentinian, đã phủ nhận một số giáo lý căn bản:
+Những người sau này được xác lập là Cơ Đốc nhân chính thống đã đi đến kết luận rằng phái Ngộ đạo (Gnostics), bao gồm cả phái Valentinus, đã chối bỏ những tín lý nền tảng sau đây:
 
-1.  Sự đồng nhất của Đấng Tạo Hóa (người mà những người Ngộ Đạo coi là một nhân vật thấp kém hơn và tốt nhất là mơ hồ về mặt đạo đức) với Đức Chúa Trời tối cao duy nhất.
-2.  Sự tốt lành của trật tự thọ tạo của vũ trụ (hầu hết người Ngộ Đạo coi vật chất là xấu).
-3.  Sự nhập thể trọn vẹn của Đấng Christ (mặc dù có những biến thể trong cách Đấng Christ thần thánh liên hệ với Chúa Giê-xu con người).
-4.  Sự mặc khải trong các sự kiện lịch sử (thay vì trong thần thoại suy đoán và các truyền thống bí mật).
-5.  Sự cứu chuộc bởi huyết thập tự giá (thập tự giá được xử lý theo nghĩa bóng ngay cả trong Valentinianism).
-6.  Sự phục sinh của thân thể (và không chỉ của linh hồn).
+1.  Sự đồng nhất giữa Đấng Tạo Hóa (người mà phái Ngộ đạo coi là một nhân vật thấp kém và nhập nhằng về đạo đức) với Đức Chúa Trời tối cao duy nhất.
+2.  Sự tốt lành của trật tự thọ tạo trong vũ trụ (trong khi phần lớn phái Ngộ đạo xem vật chất là xấu xa).
+3.  Sự nhập thể trọn vẹn của Đấng Christ (mặc dù phái Ngộ đạo có nhiều biến thể khác nhau về mối liên hệ giữa Đấng Christ thần tánh và con người Jêsus).
+4.  Sự mặc khải thông qua các sự kiện lịch sử (thay vì qua những huyền thoại suy diễn và các truyền thống bí truyền).
+5.  Sự cứu chuộc nhờ huyết trên thập tự giá (thập tự giá bị coi là hình bóng ẩn dụ ngay cả trong phái Valentinian).
+6.  Sự phục sinh của thân xác (chứ không chỉ đơn thuần là sự sống lại của linh hồn).
 
-Không có gì ngạc nhiên khi những người tiên phong trong việc phát triển thần học chính thống đã bác bỏ những lời dạy mà họ liên kết với việc bác bỏ các giáo lý này.
+Không có gì ngạc nhiên khi những người tiên phong đặt nền móng cho thần học chính thống đã quyết liệt bác bỏ những sự dạy dỗ bị xem là chối bỏ các tín lý này.
 
-Bất chấp những gì các đối thủ của họ nhận thấy là những sai lầm giáo lý căn bản, tư tưởng Ngộ Đạo tỏ ra hấp dẫn đối với nhiều người. Các Cơ Đốc nhân Ngộ Đạo đại diện cho một nỗ lực giải thích đức tin của họ theo các thuật ngữ của bầu không khí triết học và tôn giáo thời đó và do đó vật lộn với các vấn đề họ nhận thấy trong bản chất của thế giới và sự tồn tại của con người.
+Bất chấp những gì phe đối lập của họ nhận thấy là những sai lạc nghiêm trọng giáo lý căn bản, tư tưởng Ngộ Đạo vẫn tỏ ra đầy sức hấp dẫn đối với nhiều người. Các Cơ Đốc nhân theo phái Ngộ đạo tiêu biểu cho nỗ lực giải nghĩa đức tin dưới lăng kính của bối cảnh triết học và tôn giáo đương thời, mà qua đó đã vật lộn với những nan đề mà họ nhận thấy trong bản chất của thế gian và kiếp nhân sinh.
 
+Chính vì những lo ngại này mà phái Valentinian đã có ảnh hưởng đặc biệt đến các nhà thần học Cơ Đốc chính thống tại Alexandria trong quá trình xây dựng hệ thống thần học của họ. Chúng ta thường học hỏi từ chính những đối thủ của mình, đôi khi theo những cách mà bản thân không hề hay biết. Trong nỗ lực biện bác những tư tưởng sai lạc, tư duy thần học của chính chúng ta lại được nâng cao nhờ việc tiếp thu và chắt lọc những yếu tố từ chính các quan điểm mà mình đang khước từ.
 
-
-Vì những lo ngại này, Valentinianism đặc biệt ảnh hưởng đến các nhà tư tưởng Cơ Đốc chính thống ở Alexandria trong việc phát triển thần học của họ. Người ta học hỏi, đôi khi không nhận ra, từ các đối thủ của mình, và trong việc bác bỏ các ý tưởng khác, suy nghĩ của chính mình được nâng cao bằng cách hấp thụ các yếu tố từ các quan điểm bị bác bỏ.
-
-Hơn nữa, Thuyết Ngộ Đạo cho thấy một mối quan tâm đến sự cứu rỗi. Mặc dù phương tiện để đạt được điều này là thông qua tri thức, Thuyết Ngộ Đạo như một tôn giáo cứu chuộc đã làm chứng cho nhu cầu của linh hồn con người về một điều gì đó vượt ra ngoài thế giới này để thỏa mãn khát vọng của họ.
+Hơn nữa, Thuyết Ngộ Đạo cho thấy một mối quan tâm đến sự cứu rỗi. Mặc dù phương tiện để đạt được điều này là thông qua tri thức, Thuyết Ngộ Đạo như một tôn giáo cứu chuộc đã minh chứng cho nhu cầu của linh hồn con người: họ cần một điều gì đó vượt trổi hơn thế gian này để thỏa lấp những khát khao sâu thẳm của mình.
 
 ### H. Bài Học Từ Cuộc Đấu Tranh Với Thuyết Ngộ Đạo
 
-Mặc dù văn hóa và triết học luôn định hình các biểu hiện của Cơ Đốc giáo ở một mức độ nào đó, Thuyết Ngộ Đạo minh họa cho sự nguy hiểm của việc cho phép một hệ thống tư tưởng "bên ngoài" mang tính quyết định đối với cấu trúc của Cơ Đốc giáo.
+Mặc dù văn hóa và triết học luôn có phần nào tác động đến cách Cơ Đốc giáo được bày tỏ, nhưng Ngộ đạo thuyết là một minh chứng sống động về sự nguy hiểm khi cho phép một hệ tư tưởng "ngoại lai" chi phối và định đoạt chính cốt lõi của niềm tin Cơ Đốc.
 
-Rủi ro là điều phải chấp nhận trong nỗ lực liên hệ đức tin Cơ Đốc với bất kỳ nền văn hóa nào mà người ta thấy mình ở trong đó, nhưng kết quả của một sự chiếm dụng cực đoan như vậy cảnh báo chống lại việc chuyển từ giao tiếp sang chấp nhận. Mối đe dọa của Thuyết Ngộ Đạo có thể không nằm nhiều ở các hệ thống niềm tin chính thống cho bằng ở bản sắc (do sự đồng hóa).
+Rủi ro là điều tất yếu mà chúng ta phải đối diện khi nỗ lực đem đức tin Cơ Đốc đi vào bất kỳ nền văn hóa nào. Tuy nhiên, hậu quả từ sự vay mượn thái quá như vậy là một lời cảnh tỉnh nghiêm khắc: chớ để nỗ lực truyền tải sứ điệp biến chất thành sự thỏa hiệp và chấp nhận các tư tưởng thế gian. Mối đe dọa của Ngộ đạo thuyết không chỉ dừng lại ở việc tấn công vào hệ thống tín lý chính thống, mà nguy hiểm hơn, nó đe dọa đến chính bản sắc của Cơ Đốc nhân (thông qua sự đồng hóa).
 
-Một bài học liên quan có liên quan đến việc sử dụng từ ngữ. Người ta có thể có những từ ngữ đúng nhưng ý tưởng sai. Những người Ngộ Đạo có thể sử dụng Kinh Thánh Cơ Đốc và tuân theo tín điều Cơ Đốc, bởi vì họ đã gán cho những từ ngữ này một ý nghĩa khác.
+Một bài học liên quan có liên quan đến việc sử dụng từ ngữ. Người ta có thể có những từ ngữ đúng nhưng ý tưởng sai. Những người Ngộ Đạo có thể hoàn toàn sử dụng Kinh Thánh Cơ Đốc và tuân theo tín điều Cơ Đốc, bởi vì họ đã gán cho những từ ngữ này một ý nghĩa hoàn toàn khác biệt [^9].
 
-Hơn nữa, Thuyết Ngộ Đạo có thể đóng vai trò như một lời cảnh báo chống lại sự kiêu ngạo trí thức. Các nhà tư tưởng Ngộ Đạo cá nhân thực sự có thể khiêm tốn, nhưng bản thân cách tiếp cận Ngộ Đạo đã tạo ra các giai cấp khác nhau đặt những người có "cái nhìn sâu sắc thực sự" vào một trại đặc biệt cao hơn các Cơ Đốc nhân bình thường. Chủ nghĩa tinh hoa trí thức luôn là một mối nguy hiểm cho những người "hiểu biết".
+Hơn thế nữa, Ngộ đạo thuyết còn là một lời cảnh tỉnh về sự kiêu ngạo của tri thức. Có thể cá nhân các nhà tư tưởng Ngộ đạo vẫn giữ lòng khiêm nhường, nhưng chính cách tiếp cận của hệ thống này đã tạo ra một sự phân chia giai cấp: đặt những kẻ tự cho mình có "sự hiểu biết chân thật" vào một vị thế đặc biệt, cao trọng hơn những Cơ Đốc nhân thông thường. Chủ nghĩa tinh hoa trí thức luôn là một mối nguy hiểm chực chờ đối với những kẻ tự cho mình là "người hiểu biết."
 
-Tranh cãi Ngộ Đạo chứng minh tầm quan trọng của các thể chế. Theo nghĩa rộng, những người Ngộ Đạo có thể được nói là có một "hội thánh", nhưng họ vẫn gần gũi hơn với tổ chức xã hội của một trường học trong đó các môn đồ tiếp tục các giáo lý và thực hành của giáo sư họ. Tuy nhiên, Cơ Đốc giáo đã tạo ra các mối liên kết tổ chức mạnh mẽ hơn đoàn kết các thành viên của nó.
+Cuộc tranh luận với phái Ngộ đạo đã minh chứng cho tầm quan trọng của tính thể chế. Theo nghĩa rộng, có thể nói phái Ngộ đạo cũng có một "hội thánh" riêng, nhưng thực chất họ gần gũi hơn với mô hình tổ chức xã hội của một trường phái tư tưởng, nơi các môn đồ tiếp nối sự dạy dỗ và thực hành từ giáo sư mình. Trái lại, Cơ Đốc giáo đã thiết lập nên những mối liên kết tổ chức bền chặt hơn để hiệp nhất các thành viên.
 
-Bất chấp mọi thất bại trong suốt lịch sử, "hội thánh thể chế" đã bảo tồn đức tin Cơ Đốc. Và điều đó cũng đúng với tất cả các giáo sư và giáo lý đã tồn tại: Trừ khi một thể chế hiện thân và duy trì một ý tưởng, ý tưởng đó sẽ thất bại.
+Bất chấp mọi khiếm khuyết trong suốt dòng lịch sử, chính "Hội Thánh thể chế" (Institutional Church) đã gìn giữ đức tin Cơ Đốc. Và quy luật này cũng đúng với mọi bậc thầy và mọi giáo lý đã tồn tại: Nếu không có một thể chế để cụ thể hóa và lưu truyền một tư tưởng, thì tư tưởng đó ắt sẽ lụi tàn.
 
-Tuy nhiên, việc công nhận thực tế này trong thế kỷ thứ hai không nên được đưa ra một cách thiếu phê phán, vì sự thừa nhận rằng giáo lý chính thống được bảo tồn giữa hội thánh phẩm trật phải được cân bằng bởi sự thừa nhận rằng những kẻ "tà giáo" thường bảo tồn các quan điểm kinh thánh hơn về sự tự do và mục vụ của hội thánh.
+Tuy nhiên, việc nhận diện thực tế này trong thế kỷ thứ hai không nên được chấp nhận một cách thiếu phê phán. Bởi lẽ, bên cạnh việc công nhận rằng giáo lý chính thống (orthodox) được bảo tồn trong lòng hội thánh có phân cấp (hierarchical church), chúng ta cũng cần phải cân nhắc một sự thật tương đối rằng: các nhóm bị coi là "tà giáo" đôi khi lại lưu giữ những quan điểm mang tính Kinh Thánh hơn về sự tự do và mục vụ trong Hội Thánh.
 
 ## III. PHONG TRÀO MONTANUS (MONTANISM)
 
-Marcionism và Gnosticism đã trở thành các tà giáo nguyên mẫu đối lập với Cơ Đốc giáo chính thống. Theo một cách tương tự, Montanism, như một phong trào ban đầu với các đặc điểm giáo phái, sau một thời gian hoạt động trong hội thánh lớn, đã bị buộc phải ly khai. Không có sự khác biệt giáo lý nền tảng nào liên quan, nhưng sự khác biệt trong thực hành và các vấn đề kỷ luật cuối cùng đã tạo ra quá nhiều xáo trộn để có thể được dung nạp trong cùng các hội chúng.
+Trong khi Thuyết Marcion và Ngộ đạo thuyết trở thành những tà giáo điển hình đối lập với Cơ Đốc giáo chính thống, thì phong trào Montanus lại là một phong trào sơ khai mang đặc tính ly giáo. Sau một thời gian hoạt động trong lòng hội thánh lớn, phong trào này đã bị buộc phải ly khai. Thực tế, không có sự khác ly giáo lý nền tảng nào liên quan, nhưng chính sự khác biệt trong thực hành và các vấn đề kỷ luật cuối cùng đã tạo ra quá nhiều xáo trộn, khiến họ không thể tiếp tục hiệp nhất trong cùng một hội chúng.
 
-Phong trào Montanism lấy tên từ Montanus, người—cùng với hai phụ nữ, Priscilla và Maximilla—vào những năm 150 hoặc 170 đã bắt đầu một phong trào tiên tri ở Phrygia. Những người ủng hộ phong trào gọi nó là "Lời Tiên Tri Mới"; các đối thủ của họ gọi nó là "tà giáo Phrygia (hoặc Kataphrygian)".
+Tên gọi của phong trào này bắt nguồn từ Montanus. Vào khoảng thập niên 150 hoặc 170, ông cùng với hai người phụ nữ là Priscilla và Maximilla đã khởi xướng một phong trào tiên tri tại vùng Phrygia. Những người theo phong trào này tự gọi đức tin của mình là "Lời Tiên Tri Mới"; trong khi đó, những người phản đối lại gọi đây là "tà giáo Phrygia" (hay "ly giáo Kataphrygian").
 
-Phong trào lan rộng từ Tiểu Á đến Rô-ma và Bắc Phi. Các nhà phê bình phản đối rằng lời tiên tri của Montanist liên quan đến một loại nhập thần nào đó và nói trong trạng thái ngất ngây điên cuồng, không giống như các tiên tri trong Kinh Thánh, những người vẫn giữ trọn vẹn sự hiểu biết của mình. Người Montanist xem lời tiên tri và các ân tứ thuộc linh là dấu hiệu của Cơ Đốc giáo sứ đồ. Đấng Yên Ủi (Đức Thánh Linh) được hứa trong Phúc Âm Giăng được coi là đang nói trong họ, và các đối thủ sau này trích dẫn Montanus như thể chính ông tuyên bố mình là Đấng Yên Ủi.
+Phong trào này đã lan rộng từ Tiểu Á đến La Mã và Bắc Phi. Các nhà phê bình cho rằng các lời tiên tri của phái Montanus mang dấu hiệu của một loại nhập thần nào đó và nói trong trạng thái ngây dại, phấn khích quá độ — điều này trái ngược với những tiên tri trong Kinh Thánh, vốn là những người luôn giữ được tâm trí tỉnh táo và sáng suốt. Ngược lại, những người theo phái Montanus lại xem tiên tri và các ân tứ thuộc linh là dấu ấn của Cơ Đốc giáo thời Sứ đồ. Họ tin rằng Đấng Yên Ủi (Đức Thánh Linh) được hứa ban trong Phúc âm Giăng đang phán qua họ; tuy nhiên, các đối thủ sau này đã trích dẫn lời Montanus và cáo buộc ông tự xưng mình chính là Đấng Yên Ủi.
 
-Sự khác biệt trong thực hành và mức độ nhấn mạnh sớm xuất hiện giữa những người Montanist và dòng chính của hội thánh. Người cải đạo nổi tiếng nhất của họ, Tertullian, đã bị thu hút bởi sự nghiêm ngặt hơn của phong trào và phát triển nó: tuân thủ các đợt kiêng ăn nghiêm ngặt hơn, cấm tái hôn ngay cả sau khi vợ/chồng qua đời, và cấm chạy trốn để thoát khỏi sự tử đạo.
+Chẳng bao lâu sau, những khác biệt trong lối thực hành và mức độ nhấn mạnh đức tin đã nảy sinh giữa phái Montanus và dòng chảy chính yếu của Hội thánh. Tín hữu lừng danh nhất của họ, Tertullian, đã bị thu hút bởi lối sống kỷ luật khắt khe của phong trào này và càng phát triển nó thêm: tuân thủ các đợt kiêng ăn nghiêm ngặt hơn, cấm tái hôn ngay cả sau khi vợ/chồng qua đời, và cấm tín đồ chạy trốn để tránh khỏi cuộc tử đạo.
 
-Việc người Montanist có sự hăng hái hơn các Cơ Đốc nhân khác để tình nguyện tử đạo dường như không nhất thiết là đúng. Các học giả hiện đại đã gán cho người Montanist những kỳ vọng tận thế mãnh liệt tập trung vào Pepuza, một ngôi làng ở Phrygia mà họ gọi là "Giê-ru-sa-lem", nhưng cách giải thích tận thế về Pepuza dường như là một sự phát triển sau này và một kỳ vọng thiên hy niên cụ thể không được chứng thực cho Montanism thời kỳ đầu.
+Việc các tín hữu phái Montanus sốt sắng tình nguyện chịu tử đạo hơn những Cơ Đốc nhân khác dường như không phải lúc nào cũng đúng. Các học giả hiện đại đã gán cho phái Montanus những mong đợi mãnh liệt về tận thế, tập trung vào Pepuza — một ngôi làng ở vùng Phrygia mà họ gọi là "Giê-ru-sa-lem". Tuy nhiên, việc giải thích Pepuza theo quan điểm tận thế có vẻ là một sự phát triển về sau; hơn nữa, những kỳ vọng cụ thể về thuyết thiên hy niên (vương quốc ngàn năm bình an) vẫn chưa được chứng thực trong giai đoạn đầu của phong trào Montanus.
 
+Bên cạnh vai trò nổi bật của phụ nữ trong giai đoạn khởi đầu của phong trào tiên tri này, họ vẫn tiếp tục giữ những vị trí quan trọng trong quá trình phát triển về sau (có thể đã có một nữ tiên tri sau này tên là Quintilla). Thậm chí, họ còn đảm nhiệm các chức vụ trong Hội thánh mà phía chính thống không cho phép phụ nữ nắm giữ.
 
+Cuộc tranh luận về vấn đề tiên tri thực chất liên quan đến câu hỏi về **thẩm quyền trong Hội thánh**: Ai là người nắm giữ thẩm quyền và thẩm quyền đó nên được thực thi như thế nào. Phái Montanus dường như không phản đối cấu trúc tổ chức của Hội thánh, họ chỉ muốn khẳng định rằng các ân tứ thuộc linh cũng cần có một vị trí xứng đáng. Tuy nhiên, cách phản hồi của Hội thánh đã đẩy cuộc tranh chấp này thành vấn đề về tổ chức và chức vụ thánh. Để đối phó với việc phái Montanus nhân danh thẩm quyền của Đức Thánh Linh, Hội thánh dường như đã đưa ra ba sự phát triển mang tính đối trọng.
 
-Bên cạnh sự nổi bật của phụ nữ trong thời kỳ đầu của phong trào tiên tri này, họ tiếp tục đóng vai trò quan trọng trong sự phát triển sau này của nó (có thể có một nữ tiên tri sau này tên là Quintilla) và nắm giữ các chức vụ hội thánh không được phép đối với họ bởi những người chính thống.
+  1. Các thượng hội đồng giám mục đầu tiên (*synods of bishops*) được ghi lại đã được tổ chức ở Tiểu Á để xem xét hướng giải quyết thỏa đáng đối với phái Montanus. Những cuộc họp này tương đương với một hội đồng dân sự (*koinon*), nơi quy tụ các lãnh đạo của hệ thống tôn giáo hoàng gia tại các thành phố trong một tỉnh để thảo luận về những vấn đề chung. Những cuộc họp sơ khai này của các giám mục nhằm thảo luận về sự vận hành của Đức Thánh Linh đã đặt nền tảng thực tiễn cho lý thuyết rằng: Đức Thánh Linh vận hành thông qua các hội đồng của Hội Thánh.
 
-Cuộc tranh luận về lời tiên tri liên quan đến câu hỏi về quyền bính trong hội thánh: Ai có nó và nó nên được thực thi như thế nào. Người Montanist dường như không chống đối tổ chức của hội thánh, mà chỉ đòi một chỗ đứng cho các ân tứ thuộc linh, nhưng phản ứng của hội thánh đã đặt cuộc tranh luận dưới khía cạnh tổ chức và chức vụ. Lời kêu gọi đến thẩm quyền của Đức Thánh Linh dường như đã bị phản bác trong hội thánh bởi ba sự phát triển.
+  2. Nguồn thẩm quyền của Kinh Thánh được đặc biệt nhấn mạnh. Người ta lập luận rằng lời tiên tri của phái Montanus không phải là lời tiên tri thật theo tiêu chuẩn Kinh Thánh, bởi vì nó mang tính trạng thái ngây dại (ecstatic).
 
-1.  Các thượng hội đồng giám mục đầu tiên được ghi lại đã được tổ chức ở Tiểu Á để xem xét hành động thích hợp liên quan đến người Montanist. Các cuộc họp như vậy có thể so sánh với một hội đồng dân sự (*koinon*) đưa các nhà lãnh đạo của sự thờ phượng hoàng đế tại các thành phố của một tỉnh lại với nhau để thảo luận về các vấn đề cùng quan tâm. Những cuộc họp sớm này của các giám mục để thảo luận về công việc của Đức Thánh Linh đã đặt nền tảng trong thực hành thực tế của hội thánh cho lý thuyết rằng Đức Thánh Linh làm việc thông qua một công đồng.
-2.  Nguồn quyền bính trong Kinh Thánh được nhấn mạnh. Lời tiên tri của Montanist không phải là lời tiên tri thực sự theo tiêu chuẩn Kinh Thánh, người ta lập luận, vì nó mang tính ngất ngây (ecstatic).
-3.  Các giám mục tuyên bố là những lãnh đạo thuộc linh thực sự của hội thánh, sở hữu Đức Thánh Linh nhờ lý do chức vụ của họ. Khi các giám mục tuyên bố quyền bính sứ đồ và giảng dạy trong hội thánh để chống lại các giáo sư Ngộ Đạo, thì các giám mục cũng phản bác lời kêu gọi đến các tiên tri của Montanist bằng sự sở hữu Thánh Linh của chính họ. Do đó, bộ ba ban đầu gồm các sứ đồ, tiên tri và giáo sư giờ đây bắt đầu tập trung vào giám mục.
+  3. Các giám mục khẳng định mình mới là những lãnh đạo thuộc linh chân chính của Hội thánh, được đầy dẫy Đức Thánh Linh thông qua chức vụ của mình. Giống như cách các giám mục đã khẳng định thẩm quyền sứ đồ và giảng dạy để đối trọng với các giáo sư Ngộ đạo, giờ đây họ cũng đối phó với việc phái Montanus nhân danh các tiên tri bằng cách khẳng định chính mình mới là những người có sự hiện diện của Đức Thánh Linh. Do đó, bộ ba "Sứ đồ, Tiên tri và Giáo sư" thời kỳ đầu giờ đây bắt đầu tập trung quyền hạn vào vai trò của Giám mục.
 
-Montanism có thể được hiểu như một sự phản kháng chống lại sự thế tục hóa và hình thức ngày càng tăng trong hội thánh. Nó đã giành được nhiều người theo, những người không hài lòng với "chủ nghĩa tinh hoa" của Ngộ Đạo và với sự thích nghi ngày càng tăng của hội thánh với thế gian. Montanism có một số đặc điểm hấp dẫn: Nó tự thể hiện mình như một sự trở lại với Cơ Đốc giáo nguyên thủy, nó là một tôn giáo của sự hồ hởi cảm xúc và các cấu trúc tổ chức ít cứng nhắc hơn, và nó đưa ra một sự mặc khải trực tiếp liên quan đến những gì dường như là một lối sống cam kết hơn.
+Phong trào Montanus có thể được hiểu như một tiếng chuông cảnh tỉnh chống lại sự thỏa hiệp với thế gian và thói chuộng hình thức ngày càng gia tăng trong Hội thánh. Phong trào này đã thu hút được nhiều tín hữu — những người vốn cảm thấy bất mãn với lối thần học "tinh hoa" của thuyết Ngộ đạo cũng như sự thích nghi ngày càng tăng của hội thánh với thế gian. Phái Montanus sở hữu nhiều đặc điểm hấp dẫn: Họ tự thân là một lời kêu gọi quay trở lại với Cơ Đốc giáo nguyên thủy; đó là một đời sống đức tin đầy rẫy sự vui mừng phấn hưng, ít bị gò bó bởi các cấu trúc tổ chức cứng nhắc; đồng thời, họ mang đến những khải thị trực tiếp hướng tới một lối sống tận hiến và cam kết hơn.
 
-Tuy nhiên, những sự thái quá của chính Montanism đã làm mất uy tín của phong trào. Không hiếm khi, một phong trào phản ứng lại dao động sang một cực đối lập và các đối thủ của nó càng xác nhận mạnh mẽ hơn các thực hành đang bị phản ứng lại. Tại sao? Những đối thủ đó kết luận rằng vì những người đang cố gắng sửa chữa rõ ràng là sai lầm, thì những gì họ đang phản ứng lại hẳn là đúng đắn.
+Tuy nhiên, chính những biểu hiện thái quá của phái Montanus đã làm mất đi uy tín của phong trào này. Khi một phong trào mang tính phản kháng đẩy vấn đề sang một thái cực đối lập, thì những người phản đối họ lại càng bám chặt hơn vào những thực hành cũ. Tại sao vậy? Bởi vì những người phản đối kết luận rằng: một khi những kẻ đang nỗ lực "chấn chỉnh" đã lộ rõ sai lầm, thì hẳn là những điều mà họ đang phản kháng bấy lâu nay chắc chắn là đúng đắn.
 
 ## IV. PHÁI KHỔ TU (ENCRATISM)
 
-"Encratism" (từ tiếng Hy Lạp, *egkrateia*, "có trong quyền lực của mình", "tự chủ") là một trong những từ được dùng cho "khổ tu" (tiếng Hy Lạp, *askesis*, "kỷ luật vận động viên") và theo nghĩa tích cực đã hiện diện trong Cơ Đốc giáo ngay từ đầu.
+"Encratism" (từ tiếng Hy Lạp, *egkrateia*, nghĩa là "nắm quyền kiểm soát bản thân" hay "tiết độ") là một thuật ngữ được dùng để chỉ về "khổ tu" (tiếng Hy Lạp, *askesis*, nghĩa là "kỷ luật vận động viên"). Theo ý nghĩa tích cực, tinh thần kỷ luật này đã hiện diện trong Cơ Đốc giáo ngay từ thuở ban đầu.
 
-Tuy nhiên, một số thực hành khổ tu bị coi là thái quá—từ chối rượu, thịt động vật và hôn nhân. Nơi những thực hành khổ tu này được chấp nhận bởi những người chính thống, chúng bị chỉ trích trong thực hành của những người khác là xuất phát từ những động cơ sai lầm, nghĩa là, không bắt nguồn từ việc từ bỏ điều gì đó tốt đẹp để phục vụ mục tiêu cao hơn hoặc thuộc linh (điều được chấp thuận) mà từ việc coi thế giới thọ tạo là xấu (điều là tà giáo, như trong Thuyết Ngộ Đạo).
+Tuy nhiên, một số thực hành khổ hạnh đã bị xem là thái quá và cực đoan — chẳng hạn như việc tuyệt đối kiêng cữ rượu, thịt và từ chối hôn nhân.
 
-Những người theo phái Khổ Tu (Encratites)—dù không chấp nhận quan điểm của Thuyết Ngộ Đạo về nguồn gốc thế giới và coi vật chất là nhất thiết xấu—vẫn coi một số thực hành, đặc biệt là sự sinh sản của con người, là xấu và là một trở ngại cho đời sống cao thượng hơn. Một yếu tố khác ảnh hưởng đến hành vi khổ tu là sự liên kết của một số thực phẩm động vật và rượu với tế lễ ngoại giáo. Do đó, những người khổ tu kiêng thức ăn động vật và thay thế nước cho rượu trong Tiệc Thánh.
+Vấn đề nằm ở chỗ: Dẫu những thực hành khổ hạnh này đôi khi vẫn được giới Chính giáo chấp nhận, nhưng chúng sẽ bị lên án nghiêm khắc nếu xuất phát từ những động cơ sai trật. Cụ thể, sự sai trật không nằm ở hành động, mà ở quan niệm:
 
-Sự phổ biến của lối sống khổ tu như đại diện cho một hình thức tâm linh cao hơn phản ánh một tâm trạng tuyệt vọng về thế giới được tìm thấy trong thế kỷ thứ hai và thứ ba trong các giới ngoại giáo cũng như Cơ Đốc giáo. Khi đồng nhất với tình cảm nổi bật này, phái Khổ Tu đã hấp thụ tâm linh của thế giới xung quanh vào biểu hiện Cơ Đốc giáo của mình và thu hút nhiều người theo. Xu hướng Khổ Tu nổi bật trong các sách công vụ ngoại kinh của các sứ đồ và theo một số học giả, đặc trưng nhất cho quan điểm của Phúc Âm Thô-ma.
+* **Động cơ đúng (Được chấp thuận)**: Là sự hy sinh, từ bỏ những điều vốn dĩ tốt lành (như thức ăn, hôn nhân) để hướng đến một mục đích thuộc linh cao trọng hơn.
 
-Văn học chống tà giáo liên kết một phái Khổ Tu tà giáo đặc biệt với nhà biện giáo Tatian. Dường như sau cái chết của thầy mình là Justin, ông trở về phương Đông và trở thành một người ủng hộ các ý tưởng Khổ Tu, lên án hôn nhân và việc ăn thịt. Các tác giả chống tà giáo thấy đặc biệt đáng phản đối kết luận của ông rằng A-đam sẽ không được cứu.
+* **Động cơ sai (Bị coi là tà giáo)**: Là xem thế giới thọ tạo và vật chất tự bản chất là xấu xa, dơ bẩn (đây là quan điểm tương tự như Ngộ đạo thuyết).
 
-Bất chấp một số điểm tương đồng được Irenaeus và những người khác ghi nhận, Tatian không nên được coi là một Valentinian; phương Đông Syria đã không coi ông là tà giáo. Ông cũng không bắt đầu phái Khổ Tu, như Irenaeus tuyên bố, nhưng, liên kết mình với xu hướng chung này của hội thánh Syriac, ông đã trở thành một trong những phát ngôn viên hàng đầu của nó.
+Những người theo phái Khổ Tu (Encratites) — dù không chấp nhận các quan điểm của phái Ngộ đạo về nguồn gốc thế gian và không coi vật chất là điều tất yếu phải xấu xa — nhưng vẫn xem một số thực hành, đặc biệt là sự sinh sản của con người, là xấu và là rào cản cho đời sống thuộc linh cao thượng. Một yếu tố khác ảnh hưởng đến lối sống khổ hạnh này là sự liên hệ giữa một số loại thịt và rượu với các nghi thức cúng tế của ngoại giáo. Do đó, những người khổ tu kiêng cữ hoàn toàn các thức ăn từ động vật và dùng nước lã thay cho rượu trong nghi thức Tiệc Thánh.
 
-## V. TÀ GIÁO CÓ TRƯỚC CHÍNH THỐNG GIÁO KHÔNG?
+Sự phổ biến của lối sống khổ tu, được xem như biểu hiện của một đẳng cấp thuộc linh cao trọng hơn, phản ánh tâm trạng bi quan và chán chường thế gian vốn lan tràn trong thế kỷ thứ hai và thứ ba, không chỉ trong giới ngoại giáo mà ngay cả trong các cộng đồng Cơ Đốc. Bằng cách hòa mình vào tâm lý chủ đạo này, phái Khổ Tu đã du nhập tinh thần của thế giới xung quanh vào trong cách bày tỏ niềm tin Cơ Đốc của họ, và nhờ đó thu hút được rất nhiều môn đồ. Khuynh hướng Khổ Tu này đặc biệt nổi bật trong các sách Công Vụ Các Sứ Đồ ngụy kinh (apocryphal acts), và theo nhận định của một số học giả, đây cũng là đặc điểm tiêu biểu nhất cho quan điểm thần học của sách Phúc Âm Thô-ma (Gospel of Thomas).
 
-Nghiên cứu hiện đại về lịch sử sơ khai của Cơ Đốc giáo đã nhấn mạnh sự đa dạng của các niềm tin và thực hành hiện diện trong những thế kỷ đầu, ngay cả trong những giới sau này được coi là chính thống.
+Các tác phẩm văn học chống tà giáo thường đặc biệt gắn liền phái Khổ Tu (Encratism) với tên tuổi của nhà biện giáo Tatian. Dường như sau khi thầy của ông là Giáo phụ Justin qua đời, Tatian đã trở về phương Đông và trở thành người cổ võ nhiệt thành cho các tư tưởng Khổ Tu, kịch liệt lên án hôn nhân và việc ăn thịt. Các tác giả chống tà giáo đặc biệt phản đối kết luận của ông rằng tổ phụ A-đam sẽ không được cứu rỗi.
 
-Việc thiết lập "chính thống giáo" được xem là thành tựu của các giám mục và giáo phụ hoạt động khoảng năm 200 SCN, những người có sự hiệp thông với hội thánh tại Rô-ma. Đặc điểm của chính thống giáo này và những người quan trọng trong các tiêu chuẩn của nó sẽ được xem xét trong hai chương tới. Nếu chính thống giáo được định nghĩa bằng các thuật ngữ thể chế và các tuyên bố cố định về niềm tin, thì luận điểm về sự thành tựu muộn của chính thống giáo có thể được duy trì.
+Mặc dù Giáo phụ Irenaeus và những người khác đã ghi nhận một số điểm tương đồng, nhưng không nên xem Tatian là người thuộc phái Valentinian (Ngộ đạo thuyết); trong khi Giáo hội tại Syria ở phương Đông lại không coi ông là kẻ tà giáo. Ông cũng không phải là người khởi xướng phái Khổ Tu như lời Irenaeus cáo buộc, nhưng bằng cách hòa mình vào khuynh hướng chung này của Giáo hội Syria, ông đã trở thành một trong những người phát ngôn hàng đầu của phong trào ấy.
 
-Sự đa dạng chắc chắn đã hiện diện ngay từ đầu (như chính Tân Ước cho thấy, trong những gì nó chống lại—nếu không phải trong những cách khác) và tiếp tục sau khi các tiêu chuẩn khách quan của chính thống giáo được hình thành.
+## V. VẬY TÀ GIÁO CÓ TRƯỚC CHÍNH GIÁO KHÔNG?
 
-Mặt khác, các lãnh đạo hội thánh chống lại các phong trào được thảo luận ở trên không xem mình là những người đổi mới mà là những người bảo vệ các giáo lý đã được truyền lại cho họ từ các sứ đồ và các cộng sự của các sứ đồ. Đã có những tiêu chuẩn về niềm tin và thực hành chung nằm trong sự dạy dỗ sớm nhất của các sứ đồ.
+Các công trình nghiên cứu hiện đại về lịch sử Cơ Đốc giáo sơ khai thường nhấn mạnh đến sự đa dạng về niềm tin và thực hành mà đã hiện diện trong những thế kỷ đầu tiên, ngay cả trong nội bộ những nhóm sau này được coi là chính thống.
 
-Theo nghĩa này, một "chính thống giáo" và các tiêu chuẩn về những gì cấu thành nên "chính thống giáo" đã hiện diện trước các lập trường sau này bị coi là tà giáo hay ly khai, ngay cả khi các phong trào ủng hộ các giáo lý này đã sử dụng các tư liệu có sớm hơn Cơ Đốc giáo. Đã có một thông điệp được thừa kế và các quy tắc ứng xử được thừa kế cho phép xác định các giáo lý khác là lệch lạc và có thể được hệ thống hóa trong các quy tắc được thảo luận trong chương tới.
+Họ xem rằng, sự xác lập nên cái gọi là "Chính giáo" là thành quả của các Giám mục và các Giáo phụ hoạt động vào khoảng năm 200 SCN, là những người có sự hiệp thông với Hội Thánh tại Rô-ma. Những đặc điểm của nền chính giáo này, và những nhân vật quan trọng trong việc định hình các chuẩn mực của nó, sẽ được xem xét kỹ hơn trong hai chương kế tiếp.
 
-Các vấn đề về sự lệch lạc giáo lý và xu hướng ly khai đã gây khó khăn cho hội thánh Cơ Đốc ngay từ đầu. Làm thế nào để đức tin và thực hành chân chính được phân định và bảo vệ? Hội thánh ban đầu đã áp dụng các chiến lược mà với các mức độ hiệu quả khác nhau tiếp tục được sử dụng trong các thế kỷ tiếp theo. Chúng ta sẽ chuyển sang các chiến lược này.
+Nếu chính giáo được định nghĩa bằng các thuật ngữ thể chế và các tuyên bố cố định về niềm tin, thì luận điểm về sự hình thành muộn của chính giáo (tức xuất hiện sau tà giáo) có thể được xem là có cơ sở.
+
+Về sự đa dạng về niềm tin, điều này chắc chắn đã hiện diện ngay từ thuở ban đầu (như chính Tân Ước đã minh chứng qua những tà thuyết mà sách này lên án — chưa kể đến những khía cạnh khác) và tình trạng này vẫn tiếp diễn ngay cả sau khi các chuẩn mực khách quan của Chính giáo được thiết lập.
+
+Tuy nhiên, những vị lãnh đạo Hội Thánh — những người đã đứng lên chống lại các phong trào tà giáo được đề cập ở trên — không hề xem mình là những kẻ tân tạo (innovators), mà họ xác quyết mình là những người bảo vệ các sự dạy dỗ đã được truyền thừa lại từ các Sứ đồ và những bạn đồng lao của các ngài. Ngay trong sự dạy dỗ ban đầu của các Sứ đồ vốn đã chứa đựng những chuẩn mực về đức tin và những thực hành chung cho Hội Thánh.
+
+Theo ý nghĩa này, một nền "chính giáo" và các chuẩn mực cấu thành nên nó đã hiện diện đã hiện diện trước các lập trường sau này bị coi là tà giáo hay ly khai, ngay cả khi các phong trào ủng hộ các giáo lý này đã sử dụng các tư liệu có sớm hơn Cơ Đốc giáo. Đã có một sứ điệp được kế thừa và những chuẩn mực đạo đức được truyền lại, cho phép nhận diện các sự dạy dỗ khác là sai lạc; chính những yếu tố cốt lõi này về sau đã được hệ thống hóa thành các quy tắc sẽ được thảo luận trong chương kế tiếp.
+
+Những vấn nạn liên quan đến sự sai lạc về giáo lý và xu hướng ly khai đã đeo bám Hội Thánh Cơ Đốc ngay từ buổi ban đầu. Làm thế nào để nhận biết và bảo vệ đức tin chân chính cùng nếp sống đạo đúng đắn? Hội Thánh sơ khai đã áp dụng những chiến lược mà với các mức độ hiệu quả khác nhau, vẫn tiếp tục được sử dụng trong các thế kỷ về sau. Chúng ta sẽ cùng chuyển sang tìm hiểu về những chiến lược này trong những chương tiếp theo.
+
+----
+[^1]: **Tà giáo/Dị giáo (Heresy)**: Bắt nguồn từ chữ Hy Lạp hairesis, ban đầu có nghĩa là "sự lựa chọn" hoặc "một phe phái" (như phái Pha-ri-si hay Sa-đu-sê). Về sau, trong Hội Thánh, nó mang nghĩa tiêu cực chỉ việc chọn tin theo những giáo lý sai trật, đi ngược lại Kinh Thánh (ví dụ: chối bỏ thần tánh của Đấng Christ).
+
+[^2]: **Ly giáo (Schism)**: Bắt nguồn từ chữ Hy Lạp schisma, nghĩa là "sự xé rách" hoặc "sự chia rẽ". Trong I Cô-rinh-tô 1:10, Phao-lô khuyên tín hữu "chớ có sự chia rẽ (schismata) trong anh em". Ly giáo thường xảy ra khi một nhóm tách khỏi Hội Thánh vì bất đồng quan điểm về cách điều hành, lãnh đạo, hoặc kỷ luật, chứ không hẳn là vì họ từ bỏ các chân lý cốt lõi của Phúc Âm.
+
+[^3]: **Thư tín Mục vụ (Pastoral Epistles)**: Bao gồm I & II Ti-mô-thê và Tít. Marcion loại bỏ các thư này vì trong đó Phao-lô khẳng định mạnh mẽ sự tốt lành của Đấng Tạo Hóa, trật tự của Hội Thánh và tầm quan trọng của Cựu Ước (như trong II Ti-mô-thê 3:16: "Cả Kinh Thánh đều là bởi Đức Chúa Trời soi dẫn").
+
+[^4]: Vì **Marcion** bị Giáo hội sơ khai lên án gay gắt là kẻ dị giáo (arch-heretic), các tác phẩm và cuốn Kinh Thánh của ông đã bị cấm đoán, tiêu hủy hoặc đơn giản là không được các tu sĩ sao chép lại qua các thế kỷ.
+    Các học giả, nhà thần học hiện đại (như ***Adolf von Harnack***, ***Dieter T. Roth*** hay ***Jason BeDuhn***) đã thu thập tất cả các trích dẫn từ những bài viết chống dị giáo của các Giáo phụ, sau đó chắp vá và đối chiếu chúng lại với nhau. Từ đó, họ in thành những cuốn sách phục dựng lại gần như chính xác Phúc âm Marcion (Evangelion) và Thư tín Phao-lô của Marcion (Apostolikon).
+    
+    *Đọc thêm:*
+    - Adolf von Harnack, Marcion: Das Evangelium vom fremden Gott (1921)
+    - Dieter T. Roth, The Text of Marcion's Gospel (2015)
+    - Jason BeDuhn, The First New Testament: Marcion's Scriptural Canon (2013)
+
+[^5]: Đây chính là phân đoạn miêu tả sự thống khổ của Chúa Jêsus trong vườn Ghết-sê-ma-nê, nơi một thiên sứ hiện ra thêm sức cho Ngài và mồ hôi Ngài trở nên như những giọt máu lớn rơi xuống đất.
+
+    Như chúng ta đã phân tích ở phần trước, Marcion chịu ảnh hưởng nặng nề từ phái Ảo Hình (Docetism). Theo ông, Đấng Christ do Đức Chúa Cha sai đến không hề có một thân xác vật lý (xác thịt) thực sự, mà chỉ là một sự hiện ra mang dáng dấp con người.
+
+    Một Chúa Jêsus có thân xác yếu đuối, hoảng sợ trước cái chết, cần thiên sứ an ủi và có thể rơi "mồ hôi như máu" là điều phá nát hệ thống thần học của Marcion. Do đó, các học giả như ***Claire Clivaz*** lập luận rằng sự khuyết thiếu hai câu Kinh Thánh này trong P69 rất có thể là dấu vết ấn bản Phúc Âm Lu-ca đã bị Marcion cắt xén (gọi là Evangelikon) để gò ép văn bản vào định kiến giáo lý của ông.
+    
+    *Đọc thêm:*
+    - Claire Clivaz, The Angel and the Sweat Like “Drops of Blood” (Lk 22:43–44):<sup>69</sup> and f<sup>13</sup> (2005)
+
+[^6]: **Phúc Âm ân điển phóng đại (Exaggerated Pauline gospel of grace)**: Sứ đồ Phao-lô nhấn mạnh rằng chúng ta được cứu bởi ân điển của Đức Chúa Trời chứ không phải bởi việc làm theo luật pháp Môi-se. Marcion đã nắm lấy yếu tố này nhưng lại đẩy nó đi quá xa: ông cho rằng vì ân điển của Tân Ước là tuyệt đối, nên phải vứt bỏ hoàn toàn luật pháp Cựu Ước.
+
+[^7]: Phao-lô dạy rằng "chúng ta không ở dưới luật pháp" (Rô-ma 6:14), nhưng ngay sau đó ông nhấn mạnh "vậy chúng ta sẽ phạm tội sao? Chẳng hề như vậy!" (câu 15). Phao-lô hiểu tội lỗi là sự phản nghịch chống lại Đấng Tạo Hóa thánh khiết, còn Marcion chỉ coi tội lỗi chủ yếu mang tính chất vật lý (do bị kẹt trong cái xác thịt vật chất do vị thần sáng tạo kém cỏi kia tạo ra). Đồng thời, Phao-lô dạy luật pháp là "thầy giáo dắt chúng ta đến Đấng Christ" (Ga-la-ti 3:24), trong khi Marcion lại coi luật pháp là thứ cần được vứt bỏ.
+
+[^8]: **Phối ngẫu (Consort)**: Ngộ đạo thuyết thường gán ghép các cặp đôi nam-nữ cho các thực thể thần linh (syzygies), điều này hoàn toàn xa lạ với bản tính của Đức Chúa Trời trong Kinh Thánh.
+
+[^9]: **Vỏ bọc ngôn ngữ (Semantic distortion)**: Họ vẫn dùng các từ như "Chúa Jêsus", "Sự cứu rỗi", "Tái sinh" nhưng định nghĩa lại (re-define) chúng khác với Kinh Thánh.
+    *Ví dụ:* Khi phái Ngộ đạo nói "sự sống lại", họ ý chỉ sự thức tỉnh tâm linh chứ không phải thân xác sống lại từ cõi chết.
