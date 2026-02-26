@@ -1,66 +1,129 @@
 # Lịch sử Hội thánh Tập Một: Từ Đấng Christ đến Tiền Cải chánh
 
-## 6. Sự Biện hộ Chống lại Những Cách Giải thích Đối lập
+## Chương 6: Bảo Vệ Lẽ Thật Trước Các Tư Tưởng Đối Nghịch
 
-Vào thế kỷ thứ hai, những sự phát triển đã diễn ra và trở thành nền tảng hình thành nên hầu hết các hội thánh Cơ Đốc kể từ đó. Những sự phát triển này diễn ra trong quá trình tự định nghĩa chống lại các cách giải thích khác nhau về thông điệp Cơ Đốc đã được thảo luận trong chương trước.
+Trong thế kỷ thứ hai, đã diễn ra những bước phát triển mang tính định hình cho hầu hết các hội thánh Cơ Đốc mãi cho đến tận ngày nay. Những sự phát triển này diễn ra trong quá trình Hội Thánh tự định hình bản sắc nhằm chống lại các biến thể trong cách giải nghĩa về sứ điệp Cơ Đốc đã được thảo luận ở [chương trước](https://thuyenphan.org/giao-duc-co-doc/nam-1/lich-su-hoi-thanh/chuong-05/).
 
-Vấn đề giữa đại Hội thánh (như Celsus đã gọi vào nửa sau thế kỷ thứ hai) và các đối thủ của nó—phái Marcion, phái Gnosis, phái Montanus, một số Cơ Đốc nhân gốc Do Thái, và phái Khổ tu (Encratites)—là câu hỏi: "Đức tin và thực hành của các sứ đồ là gì?" Cơ Đốc giáo xác thực có liên quan đến câu hỏi về nguồn gốc. Các sứ đồ và các môn đồ đầu tiên của **Chúa Jêsus Christ** được công nhận rộng rãi là những nguồn có thẩm quyền cho thông điệp Cơ Đốc chân chính.
+Vấn đề cốt lõi giữa "Hội Thánh Lớn" (*the great church*) – theo cách gọi của học giả ngoại giáo Celsus vào nửa sau thế kỷ thứ hai – và các đối thủ kình địch của nó (bao gồm phái Marcion, phái Ngộ đạo, phái Montanus, một số Cơ Đốc nhân gốc Do Thái, và phái Khổ tu (Encratites)) chính là câu hỏi: **"Đức tin và thực hành mang tính sứ đồ là gì?"**
 
-Hội thánh thế kỷ thứ hai đã phát triển một sự biện hộ ba mặt cho "những gì thuộc về các sứ đồ". Trật tự logic của tư tưởng là như sau: Đối với câu hỏi, "Sự dạy dỗ của các sứ đồ được tìm thấy ở đâu?", hội thánh chỉ vào Kinh Thánh. Đối với câu hỏi, "Kinh Thánh này được giải thích như thế nào?", hội thánh chỉ vào nội dung của Kinh Thánh trong "quy tắc đức tin". Đối với câu hỏi tiếp theo, "Đâu là kênh mà qua đó sự dạy dỗ này đã được bảo tồn và bây giờ nó được tìm thấy ở đâu?", hội thánh chỉ vào sự kế thừa của các giám mục và trưởng lão được bổ nhiệm hợp lệ.
+Cơ Đốc giáo đích thực phải giải quyết triệt để vấn đề về nguồn gốc. Các sứ đồ và những môn đồ đầu tiên của Đức Chúa Jêsus Christ đã được công nhận một cách phổ quát là những **nguồn có thẩm quyền** (*`authoritative sources`*) duy nhất cho sứ điệp Cơ Đốc chân chính.
 
-Theo trình tự lịch sử mà mỗi yếu tố đạt được hình thức xác định, hội thánh đã tuyên bố một chức vụ sứ đồ (chế độ giám mục), một đức tin sứ đồ (quy tắc đức tin và tín điều), và Kinh Thánh sứ đồ (quy điển). Ba sự phát triển này sẽ được thảo luận theo trình tự xuất hiện lịch sử của chúng.
+### Ba Lớp Phòng Thủ Của Hội Thánh: Tính Sứ Đồ
 
-Cả ba sự phát triển đều có nguồn gốc trong các cộng đồng Cơ Đốc tách biệt khỏi các cuộc xung đột lớn của thế kỷ thứ hai, nhưng cả ba đều bị ảnh hưởng bởi các cuộc xung đột này và đã nhận được định nghĩa sắc bén hơn cũng như sự nhấn mạnh lớn hơn để đáp lại các vấn đề được nêu ra.
+Hội Thánh thế kỷ thứ hai đã phát triển một **hệ thống phòng thủ ba lớp** (*`three-fold defense`*) để xác định "thế nào là tính sứ đồ". Trình tự tư duy logic diễn ra như sau:
+
+* Đối với câu hỏi, *"Sự dạy dỗ của các sứ đồ có thể được tìm thấy ở đâu?"*, Hội Thánh chỉ dẫn đến **Kinh Thánh** (Scriptures).
+* Đối với câu hỏi, *"Phần Kinh Thánh này phải được giải nghĩa như thế nào?"*, Hội Thánh chỉ dẫn đến nội dung của chúng được tóm lược trong **"quy chuẩn đức tin"** (rule of faith).
+* Đối với câu hỏi tiếp theo, *"Đâu là kênh truyền tải giữ gìn sự dạy dỗ này và hiện nay có thể tìm thấy nó ở đâu?"*, Hội Thánh chỉ dẫn đến sự kế thừa của các **giám mục** (*`bishops`*) và **trưởng lão** (*`presbyters`*) đã được bổ nhiệm hợp lệ.
+
+Tuy nhiên, nếu xét theo trình tự lịch sử mà mỗi yếu tố đạt được hình thức hoàn chỉnh, Hội Thánh đã tuyên xưng một chức vụ mang tính sứ đồ (**chế độ giám mục** - episcopate), một đức tin mang tính sứ đồ (**quy chuẩn đức tin và tín điều** - rule of faith and creed), và các phần Kinh Thánh mang tính sứ đồ (**quy điển** - canon). Ba sự phát triển này sẽ được thảo luận theo trình tự xuất hiện của chúng trong lịch sử trong phần tiếp theo.
+
+Cả ba sự phát triển này đều đã bén rễ sẵn trong các cộng đồng Cơ Đốc giáo tách biệt khỏi những cuộc xung đột lớn (với tà giáo) của thế kỷ thứ hai. Thế nhưng, cả ba cũng đều bị ảnh hưởng bởi những cuộc xung đột này, qua đó nhận được sự định nghĩa sắc bén hơn và được nhấn mạnh lớn hơn để đáp trả những vấn đề đã được dấy lên.
 
 ### I. CHẾ ĐỘ ĐƠN GIÁM MỤC VÀ SỰ KẾ THỪA CÁC SỨ ĐỒ
 
-Các sách sau này của Tân Ước và một số Giáo phụ Sứ đồ cung cấp bằng chứng ấn tượng về sự lan rộng về mặt địa lý của một trật tự hội thánh cụ thể. Trong mỗi hội thánh, trật tự đó bao gồm một số trưởng lão hoặc giám mục (các thuật ngữ được sử dụng thay thế cho nhau) được hỗ trợ bởi các chấp sự:
+Các sách muộn hơn của Tân Ước và một số tác phẩm của các Giáo phụ Sứ đồ (Apostolic Fathers) cung cấp những bằng chứng đầy ấn tượng về sự lan rộng về mặt địa lý của một trật tự hội thánh cụ thể. Trong mỗi hội thánh, trật tự đó bao gồm một ban gồm **nhiều trưởng lão** (*`elders`*) hoặc **giám mục** (*`bishops`*) — hai thuật ngữ này được sử dụng thay thế cho nhau — với sự hỗ trợ của các **chấp sự** (*`deacons`*):
 
-1.  **Giê-ru-sa-lem** và Giu-đê—**Công vụ** 11:30; 15:6; **Gia-cơ** 5:14
-2.  Syria—*Didache* 15:1
-3.  **Ga-la-ti**—**Công vụ** 14:23
-4.  Tiểu Á—**I Phi-e-rơ** 5:1–4
-5.  **Ê-phê-sô**—**Công vụ** 20:17, 28; **I Ti-mô-thê** 3:1–13
-6.  **Phi-líp**—**Phi-líp** 1:1; Polycarp, *Philippians* 6
-7.  **Cô-rinh-tô**—*1 Clement* 42:4; 44:3–6
-8.  Cretơ—**Tít** 1:5–7
-9.  Rô-ma—*1 Clement* 42; 44; Hermas, *Vision* 3.5.1
+1.  **Giê-ru-sa-lem và Giu-đê** — *Công vụ 11:30; 15:6; Gia-cơ 5:14*
+2.  **Syria** — *Didache 15:1*
+3.  **Ga-la-ti** — *Công vụ 14:23*
+4.  **Tiểu Á** — *I Phi-e-rơ 5:1–4*
+5.  **Ê-phê-sô** — *Công vụ 20:17, 28; I Ti-mô-thê 3:1–13*
+6.  **Phi-líp** — *Phi-líp 1:1; Polycarp, Philippians 6*
+7.  **Cô-rinh-tô** — *1 Clement 42:4; 44:3–6*
+8.  **Cơ-rết** (*Crete*) — *Tít 1:5–7*
+9.  **Rô-ma** — *1 Clement 42; 44; Hermas, Vision 3.5.1*
 
-Nếu chúng ta chấp nhận lời chứng của các tác giả sau này, Alexandria có thể được thêm vào danh sách này.
+Nếu chúng ta chấp nhận lời chứng của các tác giả thời sau, thì thành phố Alexandria cũng có thể được đưa thêm vào danh sách này.
 
-Sự xuất hiện của một giám mục đứng đầu hội đồng trưởng lão (chế độ đơn giám mục - *monepiscopacy*) được chứng thực đầu tiên tại Antioch của Syria và ở Tiểu Á qua các bức thư của Ignatius. Giám mục, như được miêu tả trong các bức thư của Ignatius, vẫn là một giám mục địa phương trong một thành phố (không phải giám mục lãnh thổ), và không có gì được nói về sự kế thừa các sứ đồ hay chức năng thầy tế lễ. Giám mục xuất hiện trong mối quan hệ chặt chẽ với phần còn lại của hàng giáo phẩm—các trưởng lão và chấp sự—những người cùng với ông cung cấp sự lãnh đạo thống nhất cho hội thánh. Ignatius lo ngại về sự dạy dỗ sai lạc và các nhóm ly khai, và ông đã cố gắng chống lại ảnh hưởng của họ bằng cách nhấn mạnh vào sự vâng phục hàng giáo phẩm và không làm bất cứ điều gì mà không có sự đồng ý của giám mục.
+<p align="center">
+  <img src="https://www.anasynthesis.co.uk/images/2023_renders/reconstruction_of_alexandria_50BCE_4.jpg" width="750">
+</p>
 
-Chức vụ ba thành phần của hội thánh địa phương (giám mục, trưởng lão, chấp sự) đã trở thành mô hình chung vào giữa thế kỷ thứ hai. "Chủ tọa" trong buổi họp mặt ngày Chúa Nhật của Justin Martyr có lẽ là "giám mục". Tổ chức hội thánh của Marcion (với một giám mục) dường như đã sao chép tổ chức của đại Hội thánh. Hegesippus và Irenaeus vào cuối thế kỷ thứ hai đã lập danh sách các giám mục ở nhiều thành phố khác nhau, một dấu hiệu cho thấy những người phù hợp với mô tả về một người đứng đầu duy nhất của cộng đồng có thể được xác định trong vài thế hệ trước đó. Dionysius, giám mục của **Cô-rinh-tô** khoảng năm 170, đề cập đến các giám mục của các hội thánh mà ông viết thư đến và thực sự đôi khi viết cho các giám mục của các hội thánh (không giống như Clement và Polycarp, những người viết cho các hội thánh, không phải cho các đồng giám mục).
+<center>
 
-Một số yếu tố liên quan đến sự xuất hiện của một người đứng đầu duy nhất của các hội đồng trưởng lão bao gồm: chủ trì Tiệc Thánh, quản lý quỹ hội thánh, đại diện cho hội thánh trong thư từ và sự hiếu khách, và đưa ra sự dạy dỗ có thẩm quyền. Việc phong chức chưa được đề cập trong các nguồn tài liệu; việc giới hạn quyền phong chức cho một giám mục lần đầu tiên được chứng thực trong *Apostolic Tradition* (Truyền thống Sứ đồ) vào đầu thế kỷ thứ ba.
+*Hình 1: Ảnh phục dựng thành phố cổ Alexandria vào 50 TCN. Đây là một thành phố cảng trọng yếu về học thuật lẫn giao thương, nơi hội tụ của nhiều luồng tư tưởng lớn thời cổ đại. Được thành lập bởi Alexander Đại đế vào năm 331 TCN. Nguồn: [anasynthesis](https://www.anasynthesis.co.uk/index.php/articles/alexandria-50bce).*
 
-Vị thế được củng cố của giám mục vào cuối thế kỷ thứ hai được thể hiện trong lập luận của Irenaeus về sự kế thừa các sứ đồ (Tông truyền). Đôi khi Clement người Rô-ma được cho là nhân chứng đầu tiên về sự kế thừa các sứ đồ, nhưng Clement tuyên bố sự bổ nhiệm của các sứ đồ đối với chức vụ giám mục và chấp sự và quy định cho các chức vụ này được lấp đầy khi những người nắm giữ ban đầu qua đời. Đây chỉ đơn giản là một sự kế thừa trong chức vụ theo một mô hình được thiết lập bởi các sứ đồ.
+</center>
 
-"Sự kế thừa các sứ đồ" trở thành một điều gì đó hơn thế nữa trong cuộc tranh luận của Irenaeus với những người theo phái Gnosis; nó trở thành một lập luận mạnh mẽ cho đức tin được dạy trong các hội thánh. Việc tuyên bố về một sự kế thừa các giáo sư của các sứ đồ, theo lời chứng của chính Irenaeus, lần đầu tiên được đưa ra bởi các giáo sư Gnosis. Họ xác nhận sự dạy dỗ của mình trên cơ sở tuyên bố đã nhận được một truyền thống bí mật từ một sự kế thừa quay trở lại các môn đồ của các sứ đồ.
+### A. Sự Trỗi Dậy Của Chế Độ Đơn Giám Mục (Monepiscopacy)
 
-Dựa trên danh sách các giám mục của Hegesippus ở nhiều thành phố khác nhau, Irenaeus đã hình thành lời phản bác chính thống. Trong tay Irenaeus, sự kế thừa các sứ đồ là một lập luận, không phải là một tín điều đức tin; nhưng điều thường xảy ra với các lập luận thành công là chúng trở thành một phần không thể thiếu của lập trường mà chúng ủng hộ và không còn chỉ là một lập luận cho lập trường đó nữa.
+Sự xuất hiện của một giám mục duy nhất đứng đầu hội đồng trưởng lão (chế độ đơn giám mục - *`monepiscopacy`*) được chứng thực đầu tiên tại An-ti-ốt xứ Sy-ri và ở Tiểu Á qua các bức thư của Giáo phụ **Ignatius**. Tuy nhiên, vị giám mục như được phác họa trong các bức thư của Ignatius vẫn chỉ là một giám mục địa phương quản lý một thành phố (chứ không phải là một giám mục cai quản cả một vùng lãnh thổ rộng lớn như sau này), và trong thư cũng chưa hề có bất kỳ sự đề cập nào đến **sự kế thừa các sứ đồ** hay **chức năng tế lễ**.
 
-Lập trường mà Irenaeus đang đấu tranh là đức tin sứ đồ đã được bảo tồn trong các hội thánh bởi sự kế thừa công khai của các giám mục và trưởng lão (Irenaeus bao gồm cả các trưởng lão trong sự kế thừa) quay trở lại các sứ đồ, chứ không phải trong các chuỗi giáo sư Gnosis.
+Sự xuất hiện của giám mục xảy ra trong mối quan hệ vô cùng chặt chẽ với phần còn lại của hàng giáo phẩm — các trưởng lão và chấp sự — những người cùng với ông tạo nên một bộ máy lãnh đạo hiệp nhất cho hội thánh. Vì Ignatius rất lo ngại về sự dạy dỗ sai lạc và các nhóm ly khai, nên ông đã cố gắng chống lại ảnh hưởng của họ bằng cách nhấn mạnh việc tín hữu phải vâng phục hàng giáo phẩm và không làm bất cứ điều gì mà không có sự đồng ý của giám mục.
 
-Lập luận của Irenaeus—mỗi giám mục trong mỗi hội thánh dạy cùng một giáo lý—mang hình thức sau:
+Mô hình **chức vụ ba bậc** (*`three-fold ministry`*) của một hội thánh địa phương — gồm giám mục, các trưởng lão, và các chấp sự — đã trở thành mô hình chung vào khoảng giữa thế kỷ thứ hai. "Người chủ tọa" (president) trong các buổi nhóm ngày Chúa Nhật theo lời kể của Justin Martyr có lẽ chính là chức vụ "giám mục" này. Thậm chí, tổ chức hội thánh của Marcion (với một giám mục đứng đầu) dường như cũng đã sao chép lại mô hình này của Hội thánh lớn.
 
-1.  **Sự ổn định hoặc tính đồng nhất của sự dạy dỗ được đảm bảo bởi tính công khai của nó.** Cùng một sự dạy dỗ được nghe từ Chúa Nhật này sang Chúa Nhật khác trong hội thánh. Trong sự truyền tải bí mật có khả năng xảy ra sự giao tiếp sai lệch hoặc thay đổi cố ý, nhưng trong sự dạy dỗ công khai, quá nhiều người nghe cùng một điều nên những thay đổi đáng kể không thể không bị phát hiện.
-2.  **Sự chính xác của giáo lý được xác nhận bởi sự đồng thuận giữa các lời dạy được đưa ra từ các ghế giảng dạy khác nhau.** Việc cùng một sự dạy dỗ được đưa ra ở Rô-ma cũng như ở **Phi-líp**, Smyrna, **Ê-phê-sô**, v.v., cho thấy một nguồn gốc chung trong cùng một thông điệp sứ đồ.
-3.  Hơn nữa, Irenaeus lập luận rằng nếu các sứ đồ có bất kỳ bí mật nào để truyền đạt, họ sẽ giao chúng cho những người mà họ có đủ tin tưởng để giao phó việc chăm sóc các hội thánh như các giám mục và trưởng lão.
+Vào cuối thế kỷ thứ hai, **Hegesippus** và **Irenaeus** đã lập ra các danh sách giám mục ở nhiều thành phố khác nhau; đây là một dấu hiệu cho thấy những nhân vật phù hợp với mô tả về một "người lãnh đạo duy nhất" của cộng đồng đã có thể được xác định ngược dòng lịch sử từ vài thế hệ trước đó. Dionysius, giám mục thành Cô-rinh-tô vào khoảng năm 170, đã nhắc đến các giám mục của những hội thánh mà ông gửi thư tới, và thực tế là đôi khi ông viết thư trực tiếp cho các giám mục của các hội thánh (không giống như Clement và Polycarp, những người chỉ viết thư gửi cho toàn thể hội thánh chứ không viết riêng cho các vị giám mục đồng cấp).
 
-Thế giới Hy Lạp hóa có sự kế thừa các giáo sư trong các trường phái triết học; người Do Thái có danh sách kế thừa các ra-bi và thầy tế lễ thượng phẩm tại **Giê-ru-sa-lem**. Trong bối cảnh quan tâm đến các danh sách kế thừa này, phái Montanus tuyên bố một sự kế thừa các tiên tri, và phái Gnosis một sự kế thừa các giáo sư.
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Hegesippus_Egesippus_Nuremberg_Chronicle_cropped.png" width="500">
+</p>
 
-Để đáp lại nhóm sau, Irenaeus có một sự kế thừa tập thể (các trưởng lão của các hội thánh) cũng như cá nhân (các giám mục), và ông nhấn mạnh một sự kế thừa về đức tin và đời sống hơn là sự truyền tải các ân tứ đặc biệt.
+<center>
 
-Mỗi người giữ ghế giảng dạy nhận được chân lý như một món quà từ người tiền nhiệm, nhưng không phải là một món quà đảm bảo sự thật của những gì người đó dạy. Sự kế thừa thực sự đòi hỏi một đời sống thánh khiết và giáo lý đúng đắn (*Against Heresies* 4.26.5); chỉ ở trong sự kế thừa thôi là chưa đủ, mặc dù nó đánh dấu những kẻ tà giáo đã rút lui.
+*Hình 2: Bức tranh miêu tả **Hegesippus** - một sử gia và nhà văn Cơ Đốc giáo sống vào khoảng thế kỷ thứ 2, được in bằng kỹ thuật khắc gỗ trong Biên niên sử Nuremberg (Nuremberg Chronicle) năm 1493.*
 
-Ngược lại với những gì sự kế thừa các sứ đồ đã trở thành sau này, đối với Irenaeus, nó được truyền từ người ngồi trên ghế giảng dạy của một hội thánh sang người giữ ghế tiếp theo, chứ không phải từ người phong chức sang người được phong chức.
+</center>
 
-Tertullian, với sự sắc sảo và phóng đại đặc trưng của mình, đã đưa lập luận của Irenaeus đi xa hơn. Trong khi Irenaeus để hội thánh tại Rô-ma đại diện cho lập luận của mình, Tertullian kêu gọi đến các hội thánh khác có nền tảng sứ đồ bên cạnh Rô-ma. Ông chỉ đề cập đến giám mục và không đề cập đến các trưởng lão trong lập luận của mình. Với sự châm biếm tuyệt vời, tương phản sự đồng nhất của sự dạy dỗ trong các hội thánh với sự đa dạng trong các nhóm tà giáo khác nhau, ông hỏi làm thế nào tất cả các hội thánh, nếu không duy trì một đức tin sứ đồ duy nhất, lại có thể vô tình vấp phải cùng một "sai lầm" như vậy.
+### B. Các Yếu Tố Hình Thành Chế Độ Đơn Giám Mục Và Sự Kế Thừa Sứ Đồ
 
-Trong ngôn ngữ của Hippolytus (đầu thế kỷ thứ ba), chúng ta dường như lần đầu tiên gặp ý tưởng rằng các giám mục không chỉ ở trong sự kế thừa từ các sứ đồ, mà chính họ là "những người kế vị" các sứ đồ.
+Một số yếu tố góp phần vào sự trỗi dậy của một người đứng đầu duy nhất của các hội đồng trưởng lão có thể bao gồm những điều sau đây:
 
-Điều này trở nên rõ ràng trong một đoạn văn của Cyprian (giữa thế kỷ thứ ba), người mà đối với ông, giám mục là một giám mục trong toàn thể hội thánh (có thể so sánh với một trong nhóm mười hai sứ đồ) thay vì chỉ là giám mục của cộng đồng riêng mình. Chức giám mục là một tài sản, cai trị hội thánh, một tài sản được chia sẻ chung bởi mỗi giám mục (chương 9). Sự đồng nhất của chức giám mục và chức sứ đồ đã trở thành quy tắc trong thế kỷ thứ tư.
+1. **Việc chủ tọa lễ Tiệc Thánh**
+>
+2. **Quản lý quỹ hội thánh**
+>
+3. **Đại diện cho hội thánh trong việc trao đổi thư từ và tiếp đón khách**
+>
+4. **Đưa ra những sự dạy dỗ có thẩm quyền**
+
+**Sự phong chức** (*`ordination`*) vẫn chưa được đề cập đến trong các nguồn tài liệu thời kỳ này; việc giới hạn quyền phong chức chỉ dành riêng cho một giám mục mới được chứng thực lần đầu tiên trong tác phẩm Truyền Thống Sứ Đồ (Apostolic Tradition) vào đầu thế kỷ thứ ba.
+
+Vị thế được củng cố của giám mục vào cuối thế kỷ thứ hai được thể hiện rõ qua lập luận của Irenaeus về sự kế thừa các sứ đồ. Đôi khi Clement thành Rô-ma được cho là nhân chứng đầu tiên về sự kế thừa các sứ đồ, nhưng thực chất Clement chỉ khẳng định việc các sứ đồ đã đích thân thiết lập chức vụ giám mục và chấp sự, đồng thời đưa ra các quy định để lấp đầy những chức vụ này khi những người đương nhiệm qua đời. Đây đơn thuần chỉ là **sự kế thừa trong chức vụ** dựa theo một khuôn mẫu đã được các sứ đồ thiết lập từ trước.
+
+Khái niệm "sự kế thừa các sứ đồ" đã trở thành một điều gì đó vĩ đại hơn thế trong cuộc tranh luận giữa Irenaeus và phái Ngộ đạo; nó trở thành một lập luận đầy sức mạnh để bảo vệ đức tin đang được giảng dạy trong các hội thánh. Theo chính lời chứng của Irenaeus, sự tuyên xưng về một dòng dõi kế thừa sứ đồ của các giáo sư thực chất lại được đưa ra đầu tiên bởi chính các giáo sư Ngộ đạo. Họ xác thực sự dạy dỗ của mình dựa trên tuyên bố rằng họ đã nhận được một **truyền thống bí mật** từ một chuỗi kế thừa bắt nguồn tận các môn đồ của các sứ đồ.
+
+Dựa trên các danh sách giám mục ở nhiều thành phố khác nhau do Hegesippus lập ra, Irenaeus đã xây dựng nên một lập luận phản bác của Cơ Đốc giáo chính thống. Dưới ngòi bút của Irenaeus, sự kế thừa các sứ đồ vốn dĩ là một **lập luận**, chứ không phải là một **tín điều đức tin**; tuy nhiên, một điều thường xảy ra đối với những lập luận thành công là: chúng dần trở thành một phần không thể tách rời của chính lập trường mà chúng hỗ trợ, và không còn đơn thuần chỉ là một công cụ lập luận cho quan điểm đó nữa.
+
+Lập trường mà Irenaeus đang đấu tranh bảo vệ là: đức tin mang tính sứ đồ đã được gìn giữ trong các hội thánh thông qua **sự kế thừa công khai** của các giám mục và các trưởng lão (Irenaeus bao gồm cả các trưởng lão trong chuỗi kế thừa này) bắt nguồn từ các sứ đồ, chứ không phải nằm trong các chuỗi truyền thừa của những giáo sư Ngộ đạo.
+
+Lập luận của Irenaeus — rằng mỗi giám mục trong mỗi hội thánh đều giảng dạy cùng một giáo lý — mang hình thức sau:
+
+1. **Sự ổn định hoặc tính đồng nhất của sự dạy dỗ được đảm bảo bởi tính công khai của nó.** Cùng một sự dạy dỗ đã được rao giảng từ Chúa Nhật này sang Chúa Nhật khác trong hội thánh. Trong việc truyền khẩu bí mật, luôn tồn tại nguy cơ của sự truyền đạt sai lệch hoặc việc cố tình thay đổi; nhưng trong sự dạy dỗ công khai, quá nhiều người nghe cùng một điều nên những thay đổi đáng kể không thể nào lọt qua mà không bị phát hiện.
+>
+2. **Sự chuẩn xác của giáo lý được xác nhận bởi sự đồng thuận giữa những lời dạy được đưa ra từ các bục giảng khác nhau.** Việc cùng một sự dạy dỗ được đưa ra ở Rô-ma cũng như ở Phi-líp, Si-miệc-nơ, Ê-phê-sô, v.v., đã chứng tỏ chúng có chung một nguồn gốc từ cùng một sứ điệp của các sứ đồ.
+>
+3. Hơn nữa, Irenaeus lập luận rằng nếu các sứ đồ thực sự có bất kỳ bí mật nào muốn truyền đạt, **họ chắc chắn sẽ giao phó chúng** cho những người mà họ có đủ tin tưởng để giao phó việc chăm sóc các hội thánh như các **giám mục** và **trưởng lão**.
+
+Thế giới Hy Lạp hóa (Hellenistic) vốn dĩ có các sự kế thừa từ các giáo sư trong những trường phái triết học; người Do Thái cũng có các danh sách kế thừa của các ra-bi và của các thầy tế lễ thượng phẩm tại Giê-ru-sa-lem. Trong bối cảnh của sự quan tâm đối với các danh sách kế thừa này, phái Montanus đã tuyên xưng một sự kế thừa của các tiên tri, và phái Ngộ đạo cũng tuyên xưng một sự kế thừa từ các giáo sư của họ.
+
+Để đáp lại những nhóm sau cùng này (những giáo sư Ngộ đạo tự xưng có chuỗi truyền thừa riêng), Irenaeus đã đưa ra một sự kế thừa mang tính **tập thể** (tức bao gồm các trưởng lão của các hội thánh) cũng như mang tính **cá nhân** (các giám mục), và ông nhấn mạnh vào một sự kế thừa về **đức tin và đời sống** hơn là sự truyền thụ những ân tứ đặc biệt.
+
+Mỗi người nắm giữ bục giảng đều nhận được chân lý như một món quà từ người tiền nhiệm, nhưng đó không phải là một món quà có thể đảm bảo sự thật cho những gì người đó giảng dạy. Sự kế thừa đích thực đòi hỏi một ***đời sống thánh khiết*** và ***giáo lý đúng đắn*** (Chống lại các tà giáo - *Against Heresies* 4.26.5). Vì thế nên chỉ nội việc nằm trong chuỗi kế thừa thôi là chưa đủ, mặc dù điều đó thực sự giúp vạch ranh giới để phân biệt với những kẻ tà giáo đã tự tách mình ra khỏi Hội Thánh.
+
+Trái ngược hoàn toàn với những gì sự "kế thừa sứ đồ" đã trở thành sau này, đối với Irenaeus, sự kế thừa được truyền từ người đương nhiệm trên bục giảng của một hội thánh sang người kế nhiệm bục giảng ấy, chứ không phải truyền từ người phong chức sang người được phong chức.
+
+**Tertullian**, với sự sắc sảo và lối nói cường điệu đặc trưng của mình, thậm chí đã đưa lập luận của Irenaeus đi xa hơn nữa. Trong khi Irenaeus dùng hội thánh tại Rô-ma để làm đại diện cho lập luận của mình, Tertullian còn kêu gọi đến các hội thánh khác có nền tảng sứ đồ bên cạnh Rô-ma. Trong lập luận của mình, ông chỉ nhắc đến chức vụ giám mục chứ không hề đả động đến các trưởng lão. Bằng một giọng văn châm biếm xuất sắc, ông đã đặt sự đồng nhất về giáo lý trong các hội thánh đối lập với sự đa dạng lộn xộn giữa các nhóm tà giáo khác nhau. Ông đặt câu hỏi: Nếu tất cả các hội thánh không cùng duy trì **một đức tin sứ đồ duy nhất**, thì làm thế nào mà tất cả bọn họ lại có thể vô tình cùng vấp phải một ***"sai lầm"*** giống hệt nhau được?
+
+Trong ngôn từ của **Hippolytus** (đầu thế kỷ thứ ba), chúng ta dường như lần đầu tiên bắt gặp quan điểm cho rằng các giám mục không đơn thuần chỉ là những người nằm trong chuỗi kế thừa từ các sứ đồ, mà chính bản thân họ chính là "những người kế vị của" các sứ đồ.
+
+Điều này càng trở nên rõ ràng hơn qua một phân đoạn của **Cyprian** (giữa thế kỷ thứ ba). Đối với ông, vị giám mục là một giám mục của toàn bộ hội thánh (có thể sánh ngang với một thành viên trong nhóm mười hai sứ đồ) chứ không chỉ đơn thuần là giám mục của cộng đồng địa phương mình. Chức giám mục (*`episcopate`*) là một tài sản/đặc tính duy nhất, cai quản hội thánh, và là một tài sản được chia sẻ chung bởi mỗi vị giám mục (điều mà sẽ được bàn kỹ ở chương 9). Sự đồng nhất giữa chức giám mục và chức vụ sứ đồ (*`apostolate`*) đã chính thức trở thành một quy luật trong thế kỷ thứ tư.
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Statues_of_Saint_Hippolytus.jpg/500px-Statues_of_Saint_Hippolytus.jpg" width="500">
+</p>
+
+<center>
+
+*Hình 3: Bức tượng của **Hippolytus** thành Rome. Bức tượng ban đầu được khai quật vào năm 1551 tại Rome trong tình trạng bị hư hại khá nặng, trong đó mất phần đầu và tay. Tuy nhiên, chính những dòng chữ Hy Lạp cổ được khắc chi tiết trên mặt ghế đã giúp các học giả xác định được danh tính nhân vật là **Hippolytus**. Một số tác phẩm nổi bật được khắc tên bao gồm **Truyền thống Sứ đồ (Apostolic Tradition)**. Mặc dù ngày nay có nhiều tranh luận về tác giả thực sự, nhưng bản khắc này chính là lý do lịch sử khiến tác phẩm nền tảng về nghi thức phụng vụ và truyền chức của Hội Thánh sơ khai được gán cho Hippolytus.*
+
+</center>
+
+<p align="center">
+  <img src="https://gallica.bnf.fr/ark:/12148/btv1b107220986" width="500">
+</p>
+
 
 ### II. QUY TẮC ĐỨC TIN VÀ BÀI TÍN ĐIỀU CÁC SỨ ĐỒ
 
