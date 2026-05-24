@@ -16,7 +16,7 @@ Tuy nhiên, chính họ là những người mang tính quyết định trong vi
 
 Việc tiếp cận theo hướng tiểu sử về một số nhân vật văn học này sẽ không chỉ làm sáng tỏ khí chất đặc thù của họ, mà còn cho thấy một vài đặc điểm của các vùng miền khác nhau, cũng như nhiều khía cạnh về đời sống và các cuộc tranh luận của hội thánh vào cuối thế kỷ thứ hai và đầu thế kỷ thứ ba. Các lãnh đạo phát triển mạnh vào giữa thế kỷ thứ ba sẽ được thảo luận ở [chương 9](https://thuyenphan.org/giao-duc-co-doc/nam-1/lich-su-hoi-thanh/chuong-09/).
 
-**BẢNG 1: CÁC GIÁO PHỤ CỦA TOÀN THỂ HỘI THÁNH SƠ **
+**BẢNG 1: CÁC GIÁO PHỤ CỦA TOÀN THỂ HỘI THÁNH SƠ KHAI**
 | Tên | Niên đại | Địa điểm | Ngôn ngữ |
 | --- | --- | --- | --- |
 | Irenaeus | khoảng 115–202 | Lyons | Tiếng Hy Lạp |
@@ -390,7 +390,7 @@ Tuy nhiên, một số lý thuyết khác đã được đưa ra để bảo v�
 
 **Thuyết Độc thần Năng động** là sự phát triển của Thuyết Nhận con nuôi (*Adoptionism*) ban đầu, trong đó Chúa Giê-xu xứng đáng đến mức Đức Chúa Trời nhận Ngài làm con nuôi, hoặc khi phục sinh, khi chịu báp-têm, hoặc trong sự biết trước về các đức hạnh của Ngài khi Ngài sinh ra. Một số biểu hiện ban đầu có thể được tìm thấy trong quỹ đạo Tri Huệ giáo với Cerinthus và dường như được kết hợp với Thuyết Ảo thân (*Docetism*) trong *Sách Tin Lành của Phi-e-rơ*. "Năng động" trong tên gọi xuất phát từ quan điểm rằng quyền năng (*dynamis*) của Đức Chúa Trời ngự trên Chúa Giê-xu.
 
-**CÁC GIÁO SƯ THEO THUYẾT ĐỘC THẦN**
+**BẢNG 2: CÁC GIÁO SƯ THEO THUYẾT ĐỘC THẦN**
 
 | Tên | Niên đại | Địa điểm |
 | :--- | :--- | :--- |
