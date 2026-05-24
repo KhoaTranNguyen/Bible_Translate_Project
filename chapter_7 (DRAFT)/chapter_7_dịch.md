@@ -276,7 +276,7 @@ Lời tường thuật tiếp theo đây sẽ tiếp tục sử dụng tên gọ
 
 <center>
 
-*Hình 3: Bức tượng của Hippolytus thành Rô-ma, được khai quật vào năm 1551. Một số tác phẩm nổi bật được khắc tên trên mặt ghế ngồi bao gồm **Truyền thống Sứ đồ (Apostolic Tradition)**.*
+*Hình 3: Bức tượng của Hippolytus thành Rô-ma, được khai quật vào năm 1551, hiện đang được trưng bày tại sảnh Thư viện Sứ đồ Vatican. Một số tác phẩm nổi bật được khắc tên trên mặt ghế ngồi bao gồm **Truyền thống Sứ đồ (Apostolic Tradition)**.*
 
 </center>
 
